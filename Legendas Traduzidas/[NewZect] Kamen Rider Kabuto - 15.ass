@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Kaburo
-Audio File: [YoY-Earthly] Kamen Rider Kabuto - 15 [CAE9CE47].mkv
-Video File: [YoY-Earthly] Kamen Rider Kabuto - 15 [CAE9CE47].mkv
+Audio File: [NewZect] Kamen Rider Kabuto - 15.mkv
+Video File: [NewZect] Kamen Rider Kabuto - 15.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 28
-Active Line: 34
-Video Position: 6639
+Video Zoom Percent: 1.000000
+Scroll Position: 267
+Active Line: 270
+Video Position: 33004
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,12 +40,12 @@ Dialogue: 0,0:00:06.95,0:00:08.23,Belt,Drake and Italics,0,750,0,,{\i1}RIDER SHO
 Dialogue: 0,0:00:21.00,0:00:22.87,Default,,0,0,0,,Um vento caprichoso está soprando?
 Dialogue: 0,0:00:22.87,0:00:25.72,Default,,0,0,0,,Vento caprichoso? Está errado.
 Dialogue: 0,0:00:26.05,0:00:28.90,Default,,0,0,0,,Você se lembra da nossa última batalha?
-Dialogue: 0,0:00:29.29,0:00:31.06,Default,,0,0,0,,I am here just to pay you back!
-Dialogue: 0,0:00:32.74,0:00:34.37,Default,,0,0,0,,I'm surprised by how petty you are.
+Dialogue: 0,0:00:29.29,0:00:31.06,Default,,0,0,0,,Estou aqui apenas para retribuir!
+Dialogue: 0,0:00:32.74,0:00:34.37,Default,,0,0,0,,Estou surpreso pelo quanto você é mesquinho {pão-duro}.
 Dialogue: 0,0:00:58.65,0:00:59.68,Default,,0,0,0,,Drake?
-Dialogue: 0,0:00:59.96,0:01:01.68,Default,,0,0,0,,Show me what you've got!{Show me your skill!}
+Dialogue: 0,0:00:59.96,0:01:01.68,Default,,0,0,0,,Me mostre a sua habilidade!
 Dialogue: 0,0:01:11.96,0:01:12.66,Default,,0,0,0,,Ei.
-Dialogue: 0,0:01:13.54,0:01:15.44,Default,,0,0,0,,Am I your opponent or what?
+Dialogue: 0,0:01:13.54,0:01:15.44,Default,,0,0,0,,Sou seu oponente ou o quê?
 Dialogue: 0,0:01:15.44,0:01:16.46,Default,,0,0,0,,Isso mesmo.
 Dialogue: 0,0:01:16.65,0:01:19.08,Default,,0,0,0,,Te derrotar é a minha missão!
 Dialogue: 0,0:01:35.16,0:01:37.90,Default,,0,0,0,,{\i1}Por que não? Ele era apenas um aprendiz.{E daí, ele era apenas um aprendiz.}
@@ -68,245 +68,246 @@ Dialogue: 0,0:04:16.34,0:04:17.63,Default,,0,0,0,,Está pronto.
 Dialogue: 0,0:04:22.09,0:04:24.16,Default,,0,0,0,,Parece delicioso!
 Dialogue: 0,0:04:24.16,0:04:25.72,Default,,0,0,0,,Vamos comer!
 Dialogue: 0,0:04:30.40,0:04:33.49,Default,,0,0,0,,Onii-san, mais uma vez a \Ncomida de hoje está ótima!
-Dialogue: 0,0:04:33.49,0:04:37.25,Default,,0,0,0,,My stomach feels all happy inside!
-Dialogue: 0,0:04:46.85,0:04:49.21,Default,,0,0,0,,Hey, hey. If you cram like that you'll choke.
-Dialogue: 0,0:04:53.73,0:04:55.03,Default,,0,0,0,,See.
-Dialogue: 0,0:04:55.38,0:04:57.31,Default,,0,0,0,,Just like I said. Here.
-Dialogue: 0,0:04:59.58,0:05:02.26,Default,,0,0,0,,Thank goodness. I thought I was going to die.
-Dialogue: 0,0:05:02.63,0:05:05.08,Default,,0,0,0,,But this is so delicious!
-Dialogue: 0,0:05:05.23,0:05:07.52,Default,,0,0,0,,Yeah, Whole fried new potatoes.
-Dialogue: 0,0:05:07.89,0:05:09.78,Default,,0,0,0,,The important{main} thing is the potatoes you buy.
-Dialogue: 0,0:05:09.78,0:05:13.48,Default,,0,0,0,,The outside has to be crisp, the inside fluffy.
-Dialogue: 0,0:05:14.05,0:05:19.43,Default,,0,0,0,,While enjoying the fragrant smell, you eat it.
-Dialogue: 0,0:05:19.89,0:05:22.79,Default,,0,0,0,,But everything you make is good.
-Dialogue: 0,0:05:23.40,0:05:24.67,Default,,0,0,0,,What's your secret?
-Dialogue: 0,0:05:25.38,0:05:28.70,Default,,0,0,0,,You have to make it when your happy.
-Dialogue: 0,0:05:30.23,0:05:33.37,Default,,0,0,0,,In the oil, even an enemy's tear wouldn't congeal.
-Dialogue: 0,0:05:39.83,0:05:41.63,Default,,0,0,0,,What a truly interesting fellow.
-Dialogue: 0,0:05:44.25,0:05:46.57,Default,,0,0,0,,How utterly unbelievable.
-Dialogue: 0,0:05:46.85,0:05:48.35,Default,,0,0,0,,Kagami was used by Shadow...
-Dialogue: 0,0:05:48.94,0:05:51.04,Default,,0,0,0,,...by Kageyama as bait!
-Dialogue: 0,0:05:52.07,0:05:54.83,Default,,0,0,0,,This cannot be acceptable!
-Dialogue: 0,0:05:54.83,0:05:57.68,Default,,0,0,0,,Shadow acts according to ZECT.
-Dialogue: 0,0:05:58.67,0:06:00.17,Default,,0,0,0,,We're just members.
-Dialogue: 0,0:06:00.80,0:06:05.15,Default,,0,0,0,,As a result... are you saying what\N happens to us doesn't matter?
-Dialogue: 0,0:06:05.43,0:06:10.15,Default,,0,0,0,,Misaki... Our lives are in the \Nhands of ZECT, the organization.
-Dialogue: 0,0:06:11.74,0:06:15.41,Default,,0,0,0,,And... that is what we signed up for.{And... that is what you guys wanted.}
+Dialogue: 0,0:04:33.49,0:04:37.25,Default,,0,0,0,,Meu estômago está todo feliz por dentro!
+Dialogue: 0,0:04:46.85,0:04:49.21,Default,,0,0,0,,Vai com calma, você vai se engasgar.
+Dialogue: 0,0:04:53.73,0:04:55.03,Default,,0,0,0,,Viu.
+Dialogue: 0,0:04:55.38,0:04:57.31,Default,,0,0,0,,Como eu disse, aqui.
+Dialogue: 0,0:04:59.58,0:05:02.26,Default,,0,0,0,,Obrigada, eu achei que ia morrer.
+Dialogue: 0,0:05:02.63,0:05:05.08,Default,,0,0,0,,Mas está tão bom!
+Dialogue: 0,0:05:05.23,0:05:07.52,Default,,0,0,0,,Hunrrum, batatas fritas totalmente frescas.
+Dialogue: 0,0:05:07.89,0:05:09.78,Default,,0,0,0,,O importante é a batata que você compra.
+Dialogue: 0,0:05:09.78,0:05:13.48,Default,,0,0,0,,O exterior precisa ser fresco e o interior macio.
+Dialogue: 0,0:05:14.05,0:05:19.43,Default,,0,0,0,,Enquanto aprecia o aroma, você a come.
+Dialogue: 0,0:05:19.89,0:05:22.79,Default,,0,0,0,,Mas tudo o que faz fica bom.
+Dialogue: 0,0:05:23.40,0:05:24.67,Default,,0,0,0,,Qual é o segredo?
+Dialogue: 0,0:05:25.38,0:05:28.70,Default,,0,0,0,,Você tem que fazer enquanto está feliz.
+Dialogue: 0,0:05:30.23,0:05:33.37,Default,,0,0,0,,No óleo, mesmo as lágrimas de um inimigo não congelariam.
+Dialogue: 0,0:05:39.83,0:05:41.63,Default,,0,0,0,,Que sujeito verdadeiramente interessante.
+Dialogue: 0,0:05:44.25,0:05:46.57,Default,,0,0,0,,Completamente inacreditável.
+Dialogue: 0,0:05:46.85,0:05:48.35,Default,,0,0,0,,Kagami foi usado pela Shadow...
+Dialogue: 0,0:05:48.94,0:05:51.04,Default,,0,0,0,,...pelo Kageyama como uma isca!
+Dialogue: 0,0:05:52.07,0:05:54.83,Default,,0,0,0,,Isto não é aceitável!
+Dialogue: 0,0:05:54.83,0:05:57.68,Default,,0,0,0,,A Shadow age de acordo com a ZECT.
+Dialogue: 0,0:05:58.67,0:06:00.17,Default,,0,0,0,,Somos apenas membros.
+Dialogue: 0,0:06:00.80,0:06:05.15,Default,,0,0,0,,Então... está dizendo que o quê acontece conosco não importa?
+Dialogue: 0,0:06:05.43,0:06:10.15,Default,,0,0,0,,Misaki... Nossas vidas estão nas mãos da ZECT.
+Dialogue: 0,0:06:11.74,0:06:15.41,Default,,0,0,0,,E... foi pra isso que nos alistamos.
 Dialogue: 0,0:06:18.48,0:06:20.48,Default - Up,Kabuto and Top,0,0,0,,O Soba
-Dialogue: 0,0:06:20.86,0:06:21.71,Default,,0,0,0,,Welcome!
-Dialogue: 0,0:06:21.96,0:06:22.74,Default,,0,0,0,,Fried oyster soba.
-Dialogue: 0,0:06:22.74,0:06:23.88,Default,,0,0,0,,Got it.
-Dialogue: 0,0:06:23.88,0:06:26.46,Default,,0,0,0,,What'll you have? I'll treat you today.
-Dialogue: 0,0:06:29.55,0:06:30.44,Default,,0,0,0,,Here you go.
-Dialogue: 0,0:06:31.26,0:06:34.15,Default,,0,0,0,,Mister, give him tempura soba.
-Dialogue: 0,0:06:34.15,0:06:34.83,Default,,0,0,0,,Right!
-Dialogue: 0,0:06:37.08,0:06:38.03,Default,,0,0,0,,Here.
-Dialogue: 0,0:06:39.74,0:06:40.89,Default,,0,0,0,,Hey there!
-Dialogue: 0,0:06:41.40,0:06:43.16,Default,,0,0,0,,How long are you going to be depressed!
-Dialogue: 0,0:06:43.88,0:06:44.92,Default,,0,0,0,,Are you a man?
-Dialogue: 0,0:06:44.92,0:06:45.99,Default,,0,0,0,,It's not funny!
-Dialogue: 0,0:06:46.52,0:06:48.55,Default,,0,0,0,,I almost died!
-Dialogue: 0,0:06:48.55,0:06:49.55,Default,,0,0,0,,And...
-Dialogue: 0,0:06:49.55,0:06:50.68,Default,,0,0,0,,And what?!
-Dialogue: 0,0:06:52.06,0:06:54.35,Default,,0,0,0,,Kageyama used me as a lure...
-Dialogue: 0,0:06:55.24,0:06:57.51,Default,,0,0,0,,He must have thought it'd be okay if I died.
-Dialogue: 0,0:06:58.94,0:07:00.73,Default,,0,0,0,,Like I was worthless.
+Dialogue: 0,0:06:20.86,0:06:21.71,Default,,0,0,0,,Bem-vindos!
+Dialogue: 0,0:06:21.96,0:06:22.74,Default,,0,0,0,,Soba de ostra frita.
+Dialogue: 0,0:06:22.74,0:06:23.88,Default,,0,0,0,,É pra já.
+Dialogue: 0,0:06:23.88,0:06:26.46,Default,,0,0,0,,O que vai querer? Hoje é por minha conta.
+Dialogue: 0,0:06:29.55,0:06:30.44,Default,,0,0,0,,Aqui está.
+Dialogue: 0,0:06:31.26,0:06:34.15,Default,,0,0,0,,Senhor, pode fazer pra ele um soba de tempurá.
+Dialogue: 0,0:06:34.15,0:06:34.83,Default,,0,0,0,,Certo!
+Dialogue: 0,0:06:37.08,0:06:38.03,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:06:39.74,0:06:40.89,Default,,0,0,0,,Ei você!
+Dialogue: 0,0:06:41.40,0:06:43.16,Default,,0,0,0,,Por quanto tempo vai ficar depressivo!
+Dialogue: 0,0:06:43.88,0:06:44.92,Default,,0,0,0,,Você não é homem?
+Dialogue: 0,0:06:44.92,0:06:45.99,Default,,0,0,0,,Não tem graça!
+Dialogue: 0,0:06:46.52,0:06:48.55,Default,,0,0,0,,Eu quase morri!
+Dialogue: 0,0:06:48.55,0:06:49.55,Default,,0,0,0,,E...
+Dialogue: 0,0:06:49.55,0:06:50.68,Default,,0,0,0,,E o quê?!
+Dialogue: 0,0:06:52.06,0:06:54.35,Default,,0,0,0,,Kageyama me usou como uma isca...
+Dialogue: 0,0:06:55.24,0:06:57.51,Default,,0,0,0,,Deve ter pensado que tudo bem se eu morresse.
+Dialogue: 0,0:06:58.94,0:07:00.73,Default,,0,0,0,,Como se eu fosse um inútil.
 Dialogue: 0,0:07:08.25,0:07:09.51,Default,,0,0,0,,Kagami Arata!
-Dialogue: 0,0:07:10.41,0:07:11.51,Default,,0,0,0,,Y-yes.
-Dialogue: 0,0:07:13.69,0:07:14.49,Default,,0,0,0,,What?
-Dialogue: 0,0:07:15.79,0:07:18.22,Default,,0,0,0,,Eat! Your noodles will grow stale.
+Dialogue: 0,0:07:10.41,0:07:11.51,Default,,0,0,0,,S-sim.
+Dialogue: 0,0:07:13.69,0:07:14.49,Default,,0,0,0,,O quê?
+Dialogue: 0,0:07:15.79,0:07:18.22,Default,,0,0,0,,Coma! Seu macarrão vai esfriar.
 Dialogue: 0,0:07:41.83,0:07:44.06,Default - Up,Top,0,0,0,,Oden
-Dialogue: 0,0:07:43.29,0:07:44.32,Default,,0,0,0,,Pounded fish cake.
-Dialogue: 0,0:07:44.32,0:07:45.13,Default,,0,0,0,,Okay.
-Dialogue: 0,0:07:50.03,0:07:50.92,Default,,0,0,0,,Here you go.
-Dialogue: 0,0:07:52.92,0:07:53.82,Default,,0,0,0,,Here.
-Dialogue: 0,0:08:12.13,0:08:14.55,Default,,0,0,0,,Delicious!
-Dialogue: 0,0:08:15.93,0:08:16.75,Default,,0,0,0,,Boss!
-Dialogue: 0,0:08:18.12,0:08:19.26,Default,,0,0,0,,Ghost.
-Dialogue: 0,0:08:25.26,0:08:28.40,Default,,0,0,0,,Yeah yeah yeah yeah.
-Dialogue: 0,0:08:29.29,0:08:30.11,Default,,0,0,0,,Hello?
-Dialogue: 0,0:08:30.11,0:08:31.28,Default,,0,0,0,,Sensei, this is the emergency room!
-Dialogue: 0,0:08:31.28,0:08:32.74,Default,,0,0,0,,We need you to do a emergency operation.
-Dialogue: 0,0:08:33.26,0:08:34.44,Default,,0,0,0,,Righty o.
-Dialogue: 0,0:08:37.53,0:08:38.49,Default,,0,0,0,,Boss.
-Dialogue: 0,0:08:39.63,0:08:40.21,Default,,0,0,0,,I'm going.
-Dialogue: 0,0:08:40.21,0:08:41.43,Default,,0,0,0,,Okay. Come again!
-Dialogue: 0,0:08:43.62,0:08:45.62,Default - Up,BL Corner,0,0,0,,Sincerity South General Hospital
-Dialogue: 0,0:08:52.28,0:08:54.27,Default,,0,0,0,,Wakabayashi, are you okay?!
-Dialogue: 0,0:08:54.57,0:08:56.12,Default,,0,0,0,,Please give me the usual.
-Dialogue: 0,0:08:56.12,0:08:56.71,Default,,0,0,0,,Okay.
-Dialogue: 0,0:09:05.29,0:09:06.52,Default,,0,0,0,,Alright.
-Dialogue: 0,0:09:09.63,0:09:10.15,Default,,0,0,0,,Scalpel.
-Dialogue: 0,0:09:10.49,0:09:11.40,Default,,0,0,0,,Okay.
-Dialogue: 0,0:09:16.71,0:09:17.91,Default,,0,0,0,,The sponge next.
-Dialogue: 0,0:09:17.91,0:09:18.60,Default,,0,0,0,,Okay.
-Dialogue: 0,0:09:21.15,0:09:22.68,Default,,0,0,0,,Pliers.
-Dialogue: 0,0:09:22.68,0:09:23.55,Default,,0,0,0,,Okay.
-Dialogue: 0,0:09:24.55,0:09:25.88,Default,,0,0,0,,Amazing.
-Dialogue: 0,0:09:26.73,0:09:27.88,Default,,0,0,0,,Of course.
-Dialogue: 0,0:09:28.65,0:09:33.18,Default,,0,0,0,,He's usually just an old man, but when he holds\N a scalpel he's the world's greatest surgeon.
-Dialogue: 0,0:09:33.18,0:09:35.26,Default,,0,0,0,,Looks like the bleeding's stopped.
-Dialogue: 0,0:09:35.26,0:09:36.68,Default,,0,0,0,,We'll be finished in thirty minutes.
-Dialogue: 0,0:10:19.61,0:10:20.52,Default,,0,0,0,,Please take your time.
-Dialogue: 0,0:10:27.16,0:10:31.48,Default,,0,0,0,,How rare it is for you to call me.
-Dialogue: 0,0:10:33.64,0:10:34.89,Default,,0,0,0,,Was it a bother?
-Dialogue: 0,0:10:34.89,0:10:36.25,Default,,0,0,0,,No, not so.
-Dialogue: 0,0:10:36.99,0:10:39.10,Default,,0,0,0,,Rather, I'm quite pleased.
-Dialogue: 0,0:10:40.73,0:10:44.60,Default,,0,0,0,,Eating together like this...
-Dialogue: 0,0:10:45.74,0:10:47.31,Default,,0,0,0,,...it really has been a long time.
-Dialogue: 0,0:10:56.42,0:10:59.58,Default,,0,0,0,,As the Superintendent General of the police...
-Dialogue: 0,0:11:01.08,0:11:02.64,Default,,0,0,0,,...I don't have very much time.
-Dialogue: 0,0:11:05.31,0:11:08.77,Default,,0,0,0,,What is it? You want to talk about something, right?
-Dialogue: 0,0:11:10.81,0:11:12.73,Default,,0,0,0,,No, nothing in particular.
-Dialogue: 0,0:11:15.64,0:11:17.55,Default,,0,0,0,,I don't know what happened....
-Dialogue: 0,0:11:18.76,0:11:20.28,Default,,0,0,0,,...but you should have confidence.
-Dialogue: 0,0:11:21.77,0:11:24.52,Default,,0,0,0,,You can do it if you try.
-Dialogue: 0,0:11:25.20,0:11:28.65,Default,,0,0,0,,I know best as I've watched\N you since you were little.
-Dialogue: 0,0:11:30.04,0:11:33.74,Default,,0,0,0,,You are my pride.
-Dialogue: 0,0:11:35.83,0:11:36.67,Default,,0,0,0,,Now...
-Dialogue: 0,0:11:39.56,0:11:40.60,Default,,0,0,0,,...and in the future.
-Dialogue: 0,0:11:44.62,0:11:45.45,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:11:47.39,0:11:48.17,Default,,0,0,0,,Father.
-Dialogue: 0,0:11:52.59,0:11:53.90,Default,,0,0,0,,Well...
-Dialogue: 0,0:11:53.90,0:11:54.75,Default,,0,0,0,,Let's eat.
-Dialogue: 0,0:12:04.83,0:12:08.78,Default,,0,0,0,,But... if he knew your secret identity....
-Dialogue: 0,0:12:09.21,0:12:11.35,Default,,0,0,0,,He would be quite shocked.
-Dialogue: 0,0:12:12.97,0:12:14.04,Default,,0,0,0,,It doesn't matter.
-Dialogue: 0,0:12:15.63,0:12:17.63,Default,,0,0,0,,We'll deal with that when the time comes.
-Dialogue: 0,0:12:19.56,0:12:20.63,Default,,0,0,0,,Iron...
-Dialogue: 0,0:12:22.87,0:12:25.17,Default,,0,0,0,,...becomes stronger only through forging.
-Dialogue: 0,0:12:28.51,0:12:30.39,Default,,0,0,0,,Wait, Kagami!
-Dialogue: 0,0:12:30.89,0:12:32.92,Default,,0,0,0,,Wait!
-Dialogue: 0,0:12:34.34,0:12:36.65,Default,,0,0,0,,What is the meaning of this?
-Dialogue: 0,0:12:35.68,0:12:36.65,Default - Up,Top,0,0,0,,Absence Notice{Notification}
-Dialogue: 0,0:12:37.67,0:12:39.55,Default,,0,0,0,,Like it says, I'm taking a break from work.
-Dialogue: 0,0:12:39.99,0:12:41.80,Default,,0,0,0,,Please give that to Tadokoro.
-Dialogue: 0,0:12:44.84,0:12:47.33,Default,,0,0,0,,You're free to take a break from work, but...
-Dialogue: 0,0:12:47.33,0:12:49.43,Default,,0,0,0,,Why do you need to take a computer with you?
-Dialogue: 0,0:12:50.05,0:12:51.03,Default,,0,0,0,,Give it back.
-Dialogue: 0,0:12:51.03,0:12:52.05,Default,,0,0,0,,Hey...
-Dialogue: 0,0:12:52.43,0:12:53.04,Default,,0,0,0,,Yo.
-Dialogue: 0,0:12:54.09,0:12:56.13,Default,,0,0,0,,Don't shout in public.
-Dialogue: 0,0:12:56.61,0:12:57.67,Default,,0,0,0,,It's a nuisance.
-Dialogue: 0,0:13:02.03,0:13:05.61,Default,,0,0,0,,You want to solve a case without \Nrelying on the organization?
-Dialogue: 0,0:13:05.61,0:13:07.00,Default,,0,0,0,,So that's how it is?
-Dialogue: 0,0:13:07.00,0:13:07.73,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:13:08.03,0:13:09.87,Default,,0,0,0,,I want to prove myself.
-Dialogue: 0,0:13:10.75,0:13:12.44,Default,,0,0,0,,I want to show that I can do it if I try.
-Dialogue: 0,0:13:12.44,0:13:15.23,Default,,0,0,0,,It's too dangerous! Facing a Worm alone.
-Dialogue: 0,0:13:15.83,0:13:18.07,Default,,0,0,0,,So... what kind of case is this?
-Dialogue: 0,0:13:19.25,0:13:22.27,Default,,0,0,0,,This is a graphic created from \Nthe testimony of witnesses.
-Dialogue: 0,0:13:22.27,0:13:25.43,Default,,0,0,0,,There's a good chance the \NWorm is mimicking this man.
-Dialogue: 0,0:13:25.75,0:13:29.41,Default,,0,0,0,,All the victim's bodies were changed\N into a dry wood like substance.
-Dialogue: 0,0:13:30.03,0:13:31.75,Default,,0,0,0,,A human couldn't have done it.
-Dialogue: 0,0:13:33.79,0:13:35.58,Default,,0,0,0,,Anyway I'm going to try.
-Dialogue: 0,0:13:35.58,0:13:37.62,Default,,0,0,0,,Also to stop the increase of victims.
-Dialogue: 0,0:13:37.62,0:13:39.29,Default,,0,0,0,,Wait! Kagami!
-Dialogue: 0,0:13:42.85,0:13:46.55,Default,,0,0,0,,I've got it. Why don't you \Nsupport him from the shadows?
-Dialogue: 0,0:13:46.99,0:13:49.77,Default,,0,0,0,,I don't have the free time for such a guy.
-Dialogue: 0,0:13:55.79,0:13:56.63,Default,,0,0,0,,You...
-Dialogue: 0,0:13:56.89,0:13:59.43,Default,,0,0,0,,What? Come to exchange blows again?
-Dialogue: 0,0:13:59.97,0:14:03.69,Default,,0,0,0,,My, my. Why are you always \Ntrying to pick a fight like that?
-Dialogue: 0,0:14:04.53,0:14:06.61,Default,,0,0,0,,There's no talking to you.
-Dialogue: 0,0:14:07.11,0:14:10.29,Default,,0,0,0,,I just like the coffee here.
-Dialogue: 0,0:14:11.21,0:14:14.09,Default,,0,0,0,,Life has granted me enough wandering.
-Dialogue: 0,0:14:14.40,0:14:17.37,Default,,0,0,0,,Can you talk a little more normally?
-Dialogue: 0,0:14:17.69,0:14:19.73,Default,,0,0,0,,Yes! Good change.
-Dialogue: 0,0:14:20.23,0:14:24.83,Default,,0,0,0,,I was smitten by your beauty when we last met.
-Dialogue: 0,0:14:25.17,0:14:26.80,Default,,0,0,0,,You are truly beauty's...
-Dialogue: 0,0:14:28.37,0:14:29.49,Default,,0,0,0,,Beauty's....
-Dialogue: 0,0:14:30.29,0:14:31.39,Default,,0,0,0,,Umm...
-Dialogue: 0,0:14:31.39,0:14:32.37,Default,,0,0,0,,....personification.
-Dialogue: 0,0:14:32.81,0:14:33.67,Default,,0,0,0,,Yes yes.
-Dialogue: 0,0:14:33.67,0:14:34.47,Default,,0,0,0,,That that.
-Dialogue: 0,0:14:34.47,0:14:36.86,Default,,0,0,0,,I'm asking can you please talk more normally?
-Dialogue: 0,0:14:36.86,0:14:38.87,Default,,0,0,0,,Please become a make up model.
-Dialogue: 0,0:14:39.23,0:14:42.77,Default,,0,0,0,,I can get you into the most\N famous global magazines.{I can get you in a famous worldwide magazine.}
-Dialogue: 0,0:14:44.37,0:14:48.03,Default,,0,0,0,,Okay... but I have a condition.
-Dialogue: 0,0:14:49.05,0:14:51.65,Default,,0,0,0,,Any condition is no condition to me.
-Dialogue: 0,0:14:52.07,0:14:53.17,Default,,0,0,0,,Just a moment.
-Dialogue: 0,0:14:57.33,0:15:00.93,Default,,0,0,0,,I know it's sudden, but I want to check.
-Dialogue: 0,0:15:23.47,0:15:26.47,Default,,0,0,0,,What are they doing in the shop?
-Dialogue: 0,0:15:30.01,0:15:31.43,Default,,0,0,0,,Perfect.
-Dialogue: 0,0:15:36.15,0:15:38.79,Default,,0,0,0,,It's true, your make up is first rate.
-Dialogue: 0,0:15:39.33,0:15:41.62,Default,,0,0,0,,But you should also change\N the hair style in this case.
-Dialogue: 0,0:16:10.85,0:16:13.45,Default,,0,0,0,,Honestly. What are they doing in the shop?
-Dialogue: 0,0:16:20.45,0:16:21.53,Default,,0,0,0,,Perfect.
-Dialogue: 0,0:16:24.45,0:16:26.63,Default,,0,0,0,,Well? This suits her better now.
-Dialogue: 0,0:16:26.63,0:16:27.61,Default,,0,0,0,,No.
-Dialogue: 0,0:16:27.61,0:16:28.80,Default,,0,0,0,,She was better before.
-Dialogue: 0,0:16:28.80,0:16:29.46,Default,,0,0,0,,Now.{This one.}
-Dialogue: 0,0:16:29.46,0:16:30.09,Default,,0,0,0,,Before.{The previous.}
-Dialogue: 0,0:16:30.09,0:16:30.68,Default,,0,0,0,,Now.
-Dialogue: 0,0:16:30.68,0:16:31.36,Default,,0,0,0,,Before.
-Dialogue: 0,0:16:31.36,0:16:31.84,Default,,0,0,0,,Now.
-Dialogue: 0,0:16:31.84,0:16:32.38,Default,,0,0,0,,Before.
-Dialogue: 0,0:16:32.38,0:16:32.82,Default,,0,0,0,,Now.
-Dialogue: 0,0:16:32.82,0:16:33.26,Default,,0,0,0,,Before.
-Dialogue: 0,0:16:37.10,0:16:39.10,Default - Up,BL Corner,0,0,0,,Sincerity South General Hospital
-Dialogue: 0,0:16:44.75,0:16:47.37,Default,,0,0,0,,{\i1}Most of the incidents occurred around here.
-Dialogue: 0,0:16:47.79,0:16:49.19,Default,,0,0,0,,{\i1}So that means...
-Dialogue: 0,0:16:49.57,0:16:52.43,Default,,0,0,0,,{\i1}There's a good chance this man will appear again.
-Dialogue: 0,0:16:58.47,0:17:03.01,Default,,0,0,0,,Could it be the condition is to support that guy?
-Dialogue: 0,0:17:03.25,0:17:06.27,Default,,0,0,0,,Yeah. Just be quiet and do as I say.
-Dialogue: 0,0:17:06.73,0:17:07.51,Default,,0,0,0,,Okay.
-Dialogue: 0,0:17:14.47,0:17:15.39,Default,,0,0,0,,{\i1}That guy!
-Dialogue: 0,0:17:19.93,0:17:23.13,Default,,0,0,0,,Lucky! He already found the target.
-Dialogue: 0,0:17:29.83,0:17:30.87,Default,,0,0,0,,That's...
-Dialogue: 0,0:17:48.53,0:17:49.57,Default,,0,0,0,,This is...
-Dialogue: 0,0:17:51.97,0:17:54.89,Default,,0,0,0,,Looks like more is going on than it appears.
-Dialogue: 0,0:18:07.85,0:18:09.21,Default,,0,0,0,,{\i1}How strange....
-Dialogue: 0,0:18:09.89,0:18:11.21,Default,,0,0,0,,{\i1}It's been two days.
-Dialogue: 0,0:18:11.63,0:18:13.59,Default,,0,0,0,,{\i1}And nothing suspicious yet.
-Dialogue: 0,0:18:27.33,0:18:29.79,Default,,0,0,0,,How long do you plan to follow him?
-Dialogue: 0,0:18:29.79,0:18:31.05,Default,,0,0,0,,Hey!
-Dialogue: 0,0:18:31.99,0:18:36.03,Default,,0,0,0,,Two identical humans means\N one has to be a Worm.
-Dialogue: 0,0:18:36.71,0:18:39.17,Default,,0,0,0,,The Worm will definitely\N try to kill the real one.
-Dialogue: 0,0:18:40.41,0:18:42.05,Default,,0,0,0,,When those two come in contact...
-Dialogue: 0,0:18:42.35,0:18:44.95,Default,,0,0,0,,One will show himself as a Worm.
-Dialogue: 0,0:18:53.00,0:18:54.03,Default,,0,0,0,,Welcome.
-Dialogue: 0,0:19:13.63,0:19:15.42,Default,,0,0,0,,They've met at last.
-Dialogue: 0,0:19:15.42,0:19:19.30,Default,,0,0,0,,Listen. You're up when one turns into a Worm.
-Dialogue: 0,0:19:25.38,0:19:26.31,Default,,0,0,0,,Pounded fish cake.
-Dialogue: 0,0:19:26.31,0:19:27.01,Default,,0,0,0,,Okay.
-Dialogue: 0,0:19:59.89,0:20:00.88,Default,,0,0,0,,Cheers.
-Dialogue: 0,0:20:08.00,0:20:09.04,Default,,0,0,0,,Delicious!
-Dialogue: 0,0:20:09.04,0:20:10.66,Default,,0,0,0,,Looks like they're getting along.
-Dialogue: 0,0:20:16.80,0:20:17.43,Default,,0,0,0,,Boss.
-Dialogue: 0,0:20:17.43,0:20:18.26,Default,,0,0,0,,Yes.
-Dialogue: 0,0:20:19.38,0:20:20.55,Default,,0,0,0,,Ghost.
-Dialogue: 0,0:20:25.76,0:20:27.86,Default,,0,0,0,,Looks like they just did a skit.
-Dialogue: 0,0:20:30.05,0:20:31.97,Default,,0,0,0,,What's going on?!
-Dialogue: 0,0:20:46.71,0:20:50.26,Default,,0,0,0,,What's going on?! The one I was \Nfollowing wasn't a Worm?!
-Dialogue: 0,0:20:50.26,0:20:53.10,Default,,0,0,0,,That can't be! There were so many witnesses!
-Dialogue: 0,0:21:01.60,0:21:02.36,Default,,0,0,0,,Transform.
-Dialogue: 0,0:21:02.36,0:21:03.32,Belt,Drake,0,0,0,,TRANSFORM
-Dialogue: 0,0:21:08.11,0:21:09.10,Default,,0,0,0,,Get back!
+Dialogue: 0,0:07:43.29,0:07:44.32,Default,,0,0,0,,Bolo de peixe batido.
+Dialogue: 0,0:07:44.32,0:07:45.13,Default,,0,0,0,,Saindo.
+Dialogue: 0,0:07:50.03,0:07:50.92,Default,,0,0,0,,Aqui está.
+Dialogue: 0,0:07:52.92,0:07:53.82,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:08:12.13,0:08:14.55,Default,,0,0,0,,Maravilha!
+Dialogue: 0,0:08:15.93,0:08:16.75,Default,,0,0,0,,Chefe!
+Dialogue: 0,0:08:18.12,0:08:19.26,Default,,0,0,0,,Fantasma.
+Dialogue: 0,0:08:25.26,0:08:28.40,Default,,0,0,0,,Ai ai ai ai.
+Dialogue: 0,0:08:29.29,0:08:30.11,Default,,0,0,0,,Alô?
+Dialogue: 0,0:08:30.11,0:08:31.28,Default,,0,0,0,,Sensei, aqui é da sala de emergência!
+Dialogue: 0,0:08:31.28,0:08:32.74,Default,,0,0,0,,Precisamos de você para fazer \Numa operação de emergência.
+Dialogue: 0,0:08:33.26,0:08:34.44,Default,,0,0,0,,Tudo bem.
+Dialogue: 0,0:08:37.53,0:08:38.49,Default,,0,0,0,,Chefe.
+Dialogue: 0,0:08:39.63,0:08:40.21,Default,,0,0,0,,Estou indo.
+Dialogue: 0,0:08:40.21,0:08:41.43,Default,,0,0,0,,Certo. Volte sempre!
+Dialogue: 0,0:08:43.62,0:08:45.62,Default - Up,BL Corner,0,0,0,,Hospital SHIN-SHIN Minamikai
+Dialogue: 0,0:08:52.28,0:08:54.27,Default,,0,0,0,,Wakabayashi, você está bem?!
+Dialogue: 0,0:08:54.57,0:08:56.12,Default,,0,0,0,,Por favor, me dê o de sempre.
+Dialogue: 0,0:08:56.12,0:08:56.71,Default,,0,0,0,,Sim.
+Dialogue: 0,0:09:05.29,0:09:06.52,Default,,0,0,0,,Certo.
+Dialogue: 0,0:09:09.63,0:09:10.15,Default,,0,0,0,,Bisturi.
+Dialogue: 0,0:09:10.49,0:09:11.40,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:09:16.71,0:09:17.91,Default,,0,0,0,,A seguir a esponja.
+Dialogue: 0,0:09:17.91,0:09:18.60,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:09:21.15,0:09:22.68,Default,,0,0,0,,Alicates.
+Dialogue: 0,0:09:22.68,0:09:23.55,Default,,0,0,0,,Aqui.
+Dialogue: 0,0:09:24.55,0:09:25.88,Default,,0,0,0,,Incrível.
+Dialogue: 0,0:09:26.73,0:09:27.88,Default,,0,0,0,,Mas é claro.
+Dialogue: 0,0:09:28.65,0:09:32.18,Default,,0,0,0,,Normalmente ele é apenas um homem velho, \Nmas quando segura um bisturi...
+Dialogue: 0,0:09:32.18,0:09:33.18,Default,,0,0,0,,se torna o maior cirurgião do mundo.
+Dialogue: 0,0:09:33.18,0:09:35.26,Default,,0,0,0,,Parece que o sangramento parou.
+Dialogue: 0,0:09:35.26,0:09:36.68,Default,,0,0,0,,Terminaremos em trinta minutos
+Dialogue: 0,0:10:19.61,0:10:20.52,Default,,0,0,0,,Por favor fiquem a vontade.
+Dialogue: 0,0:10:27.16,0:10:31.48,Default,,0,0,0,,Como é raro você me ligar.
+Dialogue: 0,0:10:33.64,0:10:34.89,Default,,0,0,0,,Isso te incomodou?
+Dialogue: 0,0:10:34.89,0:10:36.25,Default,,0,0,0,,Não, nem um pouco.
+Dialogue: 0,0:10:36.99,0:10:39.10,Default,,0,0,0,,Pelo contrário, estou muito contente.
+Dialogue: 0,0:10:40.73,0:10:44.60,Default,,0,0,0,,Comendo assim com você...
+Dialogue: 0,0:10:45.74,0:10:47.31,Default,,0,0,0,,...já faz muito tempo.
+Dialogue: 0,0:10:56.42,0:10:59.58,Default,,0,0,0,,Como superintendente geral da polícia...
+Dialogue: 0,0:11:01.08,0:11:02.64,Default,,0,0,0,,...Eu não tenho muito tempo.
+Dialogue: 0,0:11:05.31,0:11:08.77,Default,,0,0,0,,O que aconteceu? Você quer falar sobre algo, não é?
+Dialogue: 0,0:11:10.81,0:11:12.73,Default,,0,0,0,,Não, nada em particular.
+Dialogue: 0,0:11:15.64,0:11:17.55,Default,,0,0,0,,Eu não sei o que houve....
+Dialogue: 0,0:11:18.76,0:11:20.28,Default,,0,0,0,,...mas você precisa ter confiança.
+Dialogue: 0,0:11:21.77,0:11:24.52,Default,,0,0,0,,Você pode fazer o quê quiser se tentar.
+Dialogue: 0,0:11:25.20,0:11:28.65,Default,,0,0,0,,Eu sei melhor que ninguém já que te vi crescer.
+Dialogue: 0,0:11:30.04,0:11:33.74,Default,,0,0,0,,Você é meu orgulho.
+Dialogue: 0,0:11:35.83,0:11:36.67,Default,,0,0,0,,Agora...
+Dialogue: 0,0:11:39.56,0:11:40.60,Default,,0,0,0,,...e no futuro.
+Dialogue: 0,0:11:44.62,0:11:45.45,Default,,0,0,0,,Obrigado.
+Dialogue: 0,0:11:47.39,0:11:48.17,Default,,0,0,0,,Pai.
+Dialogue: 0,0:11:52.59,0:11:53.90,Default,,0,0,0,,Bem...
+Dialogue: 0,0:11:53.90,0:11:54.75,Default,,0,0,0,,Vamos comer.
+Dialogue: 0,0:12:04.83,0:12:08.78,Default,,0,0,0,,Mas... se ele sabia a sua identidade secreta....
+Dialogue: 0,0:12:09.21,0:12:11.35,Default,,0,0,0,,estaria muito chocado.
+Dialogue: 0,0:12:12.97,0:12:14.04,Default,,0,0,0,,Não importa.
+Dialogue: 0,0:12:15.63,0:12:17.63,Default,,0,0,0,,Vamos lidar com isso quando chegar a hora.
+Dialogue: 0,0:12:19.56,0:12:21.63,Default,,0,0,0,,Apenas através da forja...
+Dialogue: 0,0:12:22.87,0:12:25.17,Default,,0,0,0,,...o ferro se torna mais tenaz.
+Dialogue: 0,0:12:28.51,0:12:30.39,Default,,0,0,0,,Espere, Kagami!
+Dialogue: 0,0:12:30.89,0:12:32.92,Default,,0,0,0,,Espera!
+Dialogue: 0,0:12:34.34,0:12:36.65,Default,,0,0,0,,Qual é o significado disso?
+Dialogue: 0,0:12:35.68,0:12:36.65,Default - Up,Top,0,0,0,,Aviso de afastamento{Notification}
+Dialogue: 0,0:12:37.67,0:12:39.55,Default,,0,0,0,,Como está escrito, estou dando um tempo do trabalho.
+Dialogue: 0,0:12:39.99,0:12:41.80,Default,,0,0,0,,Por favor entregue isso ao Tadokoro.
+Dialogue: 0,0:12:44.84,0:12:47.33,Default,,0,0,0,,Você é livre para fazer uma pausa, mas ...
+Dialogue: 0,0:12:47.33,0:12:49.43,Default,,0,0,0,,Por que precisa levar um computador?
+Dialogue: 0,0:12:50.05,0:12:51.03,Default,,0,0,0,,Me devolve.
+Dialogue: 0,0:12:51.03,0:12:52.05,Default,,0,0,0,,Pare...
+Dialogue: 0,0:12:52.43,0:12:53.04,Default,,0,0,0,,Ei.
+Dialogue: 0,0:12:54.09,0:12:56.13,Default,,0,0,0,,Não gritem em público.
+Dialogue: 0,0:12:56.61,0:12:57.67,Default,,0,0,0,,Isso incomoda.
+Dialogue: 0,0:13:02.03,0:13:05.61,Default,,0,0,0,,Você quer resolver um caso \Nsem contar com a organização?
+Dialogue: 0,0:13:05.61,0:13:07.00,Default,,0,0,0,,É isso?
+Dialogue: 0,0:13:07.00,0:13:07.73,Default,,0,0,0,,Sim.
+Dialogue: 0,0:13:08.03,0:13:09.87,Default,,0,0,0,,Quero me provcar.
+Dialogue: 0,0:13:10.75,0:13:12.44,Default,,0,0,0,,Quero mostrar que posso se eu tentar.
+Dialogue: 0,0:13:12.44,0:13:15.23,Default,,0,0,0,,É muito perigoso! Encarar um Worm sozinho.
+Dialogue: 0,0:13:15.83,0:13:18.07,Default,,0,0,0,,Então... que tipo de caso é esse?
+Dialogue: 0,0:13:19.25,0:13:22.27,Default,,0,0,0,,Este é um gráfico criado \Npelos depoimentos das vítimas.
+Dialogue: 0,0:13:22.27,0:13:25.43,Default,,0,0,0,,Existe uma boa chance de que o \NWorm esteja imitando este homem.
+Dialogue: 0,0:13:25.75,0:13:29.41,Default,,0,0,0,,Todos os corpos das vítima foram transformados \Nem uma substância como madeira seca.
+Dialogue: 0,0:13:30.03,0:13:31.75,Default,,0,0,0,,Um humano não poderia ter feito isso.
+Dialogue: 0,0:13:33.79,0:13:35.58,Default,,0,0,0,,Enfim, eu vou tentar.
+Dialogue: 0,0:13:35.58,0:13:37.62,Default,,0,0,0,,Também para parar o aumento de vítimas.
+Dialogue: 0,0:13:37.62,0:13:39.29,Default,,0,0,0,,Espere! Kagami!
+Dialogue: 0,0:13:42.85,0:13:46.55,Default,,0,0,0,,Então... Por que você não o apoia das sombras?
+Dialogue: 0,0:13:46.99,0:13:49.77,Default,,0,0,0,,Eu não tenho tempo livre para esse cara.
+Dialogue: 0,0:13:55.79,0:13:56.63,Default,,0,0,0,,Você...
+Dialogue: 0,0:13:56.89,0:13:59.43,Default,,0,0,0,,O quê? Veio para trocar socos novamente?
+Dialogue: 0,0:13:59.97,0:14:03.69,Default,,0,0,0,,Aquilo é... Por que você está sempre \Ntentando comprar uma briga?
+Dialogue: 0,0:14:04.53,0:14:06.61,Default,,0,0,0,,Não vim falar com você.
+Dialogue: 0,0:14:07.11,0:14:10.29,Default,,0,0,0,,Eu apenas gosto do café daqui.
+Dialogue: 0,0:14:11.21,0:14:14.09,Default,,0,0,0,,A vida já me permitiu vagar o suficiente.
+Dialogue: 0,0:14:14.40,0:14:17.37,Default,,0,0,0,,Não pode falar um pouco mais normal?
+Dialogue: 0,0:14:17.69,0:14:19.73,Default,,0,0,0,,Agora sim! Bem melhor.
+Dialogue: 0,0:14:20.23,0:14:24.83,Default,,0,0,0,,Fiquei impressionado pela sua \Nbeleza quando nos conhecemos.
+Dialogue: 0,0:14:25.17,0:14:26.80,Default,,0,0,0,,Você é a verdadeira personificação da...
+Dialogue: 0,0:14:28.37,0:14:29.49,Default,,0,0,0,,Personificação da...
+Dialogue: 0,0:14:30.29,0:14:31.39,Default,,0,0,0,,Hum...
+Dialogue: 0,0:14:31.39,0:14:32.37,Default,,0,0,0,,...beleza.
+Dialogue: 0,0:14:32.81,0:14:33.67,Default,,0,0,0,,Sim sim.
+Dialogue: 0,0:14:33.67,0:14:34.47,Default,,0,0,0,,Isso isso.
+Dialogue: 0,0:14:34.47,0:14:36.86,Default,,0,0,0,,Estou pedindo, você poderia falar normalmente?
+Dialogue: 0,0:14:36.86,0:14:38.87,Default,,0,0,0,,Por favor se torne uma modelo de maquiagem.
+Dialogue: 0,0:14:39.23,0:14:42.77,Default,,0,0,0,,Posso colocá-la na capa da mais famosa revista.
+Dialogue: 0,0:14:44.37,0:14:48.03,Default,,0,0,0,,Tudo bem... Mas eu tenho um condição.
+Dialogue: 0,0:14:49.05,0:14:51.65,Default,,0,0,0,,Qualquer condição não é condição para mim.
+Dialogue: 0,0:14:52.07,0:14:53.17,Default,,0,0,0,,Um momento.
+Dialogue: 0,0:14:57.33,0:15:00.93,Default,,0,0,0,,Eu soube mais cedo, mas precisava confirmar.
+Dialogue: 0,0:15:23.47,0:15:26.47,Default,,0,0,0,,O que eles estão fazendo no restaurante?
+Dialogue: 0,0:15:30.01,0:15:31.43,Default,,0,0,0,,Perfeito.
+Dialogue: 0,0:15:36.15,0:15:38.79,Default,,0,0,0,,É verdade, sua maquiagem é de primeira classe.
+Dialogue: 0,0:15:39.33,0:15:41.62,Default,,0,0,0,,Mas você também deveria ter mudado o penteado neste caso.
+Dialogue: 0,0:16:10.85,0:16:13.45,Default,,0,0,0,,Francamente. O que eles estão fazendo no restaurante?
+Dialogue: 0,0:16:20.45,0:16:21.53,Default,,0,0,0,,Perfeito.
+Dialogue: 0,0:16:24.45,0:16:26.63,Default,,0,0,0,,Então, ficou melhor agora?
+Dialogue: 0,0:16:26.63,0:16:27.61,Default,,0,0,0,,Não.
+Dialogue: 0,0:16:27.61,0:16:28.80,Default,,0,0,0,,Estava melhor antes.
+Dialogue: 0,0:16:28.80,0:16:29.46,Default,,0,0,0,,Agora.
+Dialogue: 0,0:16:29.46,0:16:30.09,Default,,0,0,0,,Antes.
+Dialogue: 0,0:16:30.09,0:16:30.68,Default,,0,0,0,,Agora.
+Dialogue: 0,0:16:30.68,0:16:31.36,Default,,0,0,0,,Antes.
+Dialogue: 0,0:16:31.36,0:16:31.84,Default,,0,0,0,,Agora.
+Dialogue: 0,0:16:31.84,0:16:32.38,Default,,0,0,0,,Antes.
+Dialogue: 0,0:16:32.38,0:16:32.82,Default,,0,0,0,,Agora.
+Dialogue: 0,0:16:32.82,0:16:33.26,Default,,0,0,0,,Antes
+Dialogue: 0,0:16:37.10,0:16:39.10,Default - Up,BL Corner,0,0,0,,Hospital SHIN-SHIN Minamikai.
+Dialogue: 0,0:16:44.75,0:16:47.37,Default,,0,0,0,,{\i1}A maioria dos incidentes ocorreu por aqui.
+Dialogue: 0,0:16:47.79,0:16:49.19,Default,,0,0,0,,{\i1}Isso significa...
+Dialogue: 0,0:16:49.57,0:16:52.43,Default,,0,0,0,,{\i1}que tem uma boa chance desse \Nhomem aparecer novamente.
+Dialogue: 0,0:16:58.47,0:17:03.01,Default,,0,0,0,,A condição poderia ser ajudar esse cara?
+Dialogue: 0,0:17:03.25,0:17:06.27,Default,,0,0,0,,Isso. Apenas fique quieto e faça como eu mandar.
+Dialogue: 0,0:17:06.73,0:17:07.51,Default,,0,0,0,,Sim.
+Dialogue: 0,0:17:14.47,0:17:15.39,Default,,0,0,0,,{\i1}Aquele!
+Dialogue: 0,0:17:19.93,0:17:23.13,Default,,0,0,0,,Que sorte! Ele já encontrou o alvo.
+Dialogue: 0,0:17:29.83,0:17:30.87,Default,,0,0,0,,A...
+Dialogue: 0,0:17:48.53,0:17:49.57,Default,,0,0,0,,Isso é...
+Dialogue: 0,0:17:51.97,0:17:54.89,Default,,0,0,0,,Parece que algo mais está acontecendo.
+Dialogue: 0,0:18:07.85,0:18:09.21,Default,,0,0,0,,{\i1}Que estranho....
+Dialogue: 0,0:18:09.89,0:18:11.21,Default,,0,0,0,,{\i1}Já fazem dois dias.
+Dialogue: 0,0:18:11.63,0:18:13.59,Default,,0,0,0,,{\i1}E nada de suspeito ainda.
+Dialogue: 0,0:18:27.33,0:18:29.79,Default,,0,0,0,,Até quando pretende segui-lo?
+Dialogue: 0,0:18:29.79,0:18:31.05,Default,,0,0,0,,Ei!
+Dialogue: 0,0:18:31.99,0:18:36.03,Default,,0,0,0,,Duas pessoas identicas significa \Nque uma deve ser um Worm.
+Dialogue: 0,0:18:36.71,0:18:39.17,Default,,0,0,0,,O Worm irá tentar matar o real com certeza.
+Dialogue: 0,0:18:40.41,0:18:42.05,Default,,0,0,0,,Quando eles entrarem em contato...
+Dialogue: 0,0:18:42.35,0:18:44.95,Default,,0,0,0,,Um deles irá se revelar.
+Dialogue: 0,0:18:53.00,0:18:54.03,Default,,0,0,0,,Bem-vindo.
+Dialogue: 0,0:19:13.63,0:19:15.42,Default,,0,0,0,,Finalmente eles se encontraram.
+Dialogue: 0,0:19:15.42,0:19:19.30,Default,,0,0,0,,Ouça. Você entra em ação quando \Num deles se tornar o Worm.
+Dialogue: 0,0:19:25.38,0:19:26.31,Default,,0,0,0,,Bolo de peixe batido.
+Dialogue: 0,0:19:26.31,0:19:27.01,Default,,0,0,0,,Saindo.
+Dialogue: 0,0:19:59.89,0:20:00.88,Default,,0,0,0,,Saúde!
+Dialogue: 0,0:20:08.00,0:20:09.04,Default,,0,0,0,,Maravilha!
+Dialogue: 0,0:20:09.04,0:20:10.66,Default,,0,0,0,,Parece que eles estão se dando bem.
+Dialogue: 0,0:20:16.80,0:20:17.43,Default,,0,0,0,,Chefe.
+Dialogue: 0,0:20:17.43,0:20:18.26,Default,,0,0,0,,Sim.
+Dialogue: 0,0:20:19.38,0:20:20.55,Default,,0,0,0,,Fantasma.
+Dialogue: 0,0:20:25.76,0:20:27.86,Default,,0,0,0,,Parece que eles acabaram de fazer uma encenação.
+Dialogue: 0,0:20:30.05,0:20:31.97,Default,,0,0,0,,O que está acontecendo?!
+Dialogue: 0,0:20:46.71,0:20:50.26,Default,,0,0,0,,O que está acontecendo?! O que eu estava \Nseguindo não era um Worm?!
+Dialogue: 0,0:20:50.26,0:20:53.10,Default,,0,0,0,,Não pode ser! Haviam tantas testemunhas!
+Dialogue: 0,0:21:01.60,0:21:02.36,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:21:02.36,0:21:03.32,Belt,Drake,0,0,0,,HENSHIN
+Dialogue: 0,0:21:08.11,0:21:09.10,Default,,0,0,0,,Saiam daqui!
 Dialogue: 0,0:21:35.14,0:21:36.22,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:21:36.22,0:21:37.82,Belt,Drake,0,0,0,,CAST OFF
 Dialogue: 0,0:21:37.82,0:21:39.86,Belt,Drake,0,0,0,,CHANGE DRAGONFLY
 Dialogue: 0,0:21:42.94,0:21:43.74,Default,,0,0,0,,Clock Up.
 Dialogue: 0,0:21:43.74,0:21:45.52,Belt,Drake,0,0,0,,CLOCK UP
 Dialogue: 0,0:21:56.71,0:21:58.30,Belt,Drake,0,0,0,,CLOCK OVER
-Dialogue: 0,0:22:02.07,0:22:02.88,Default,,0,0,0,,What?!
-Dialogue: 0,0:22:04.94,0:22:05.77,Default,,0,0,0,,Fire!
-Dialogue: 0,0:22:11.00,0:22:14.10,Default,,0,0,0,,Kageyama, change into TheBee and attack up front.
-Dialogue: 0,0:22:20.54,0:22:21.58,Default,,0,0,0,,Transform.
-Dialogue: 0,0:22:21.58,0:22:22.92,Belt,TheBee,0,0,0,,TRANSFORM
-Dialogue: 0,0:22:31.32,0:22:35.02,Default,,0,0,0,,First platoon from the left. Second platoon\N cut off it's path of retreat from the right.
-Dialogue: 0,0:22:35.02,0:22:35.71,Default,,0,0,0,,Right!
-Dialogue: 0,0:22:35.71,0:22:36.28,Default,,0,0,0,,Roger!
-Dialogue: 0,0:22:42.16,0:22:43.61,Default,,0,0,0,,My grandmother once said...
+Dialogue: 0,0:22:02.07,0:22:02.88,Default,,0,0,0,,O quê?!
+Dialogue: 0,0:22:04.94,0:22:05.77,Default,,0,0,0,,Fogo!
+Dialogue: 0,0:22:11.00,0:22:14.10,Default,,0,0,0,,Kageyama, mude para TheBee e ataque pela frente.
+Dialogue: 0,0:22:20.54,0:22:21.58,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:22:21.58,0:22:22.92,Belt,TheBee,0,0,0,,HENSHIN
+Dialogue: 0,0:22:31.32,0:22:35.02,Default,,0,0,0,,Primeiro pelotão para a esquerda. Segundo pelotão \Nlibere o caminho da direita para retirada.
+Dialogue: 0,0:22:35.02,0:22:35.71,Default,,0,0,0,,Certo!
+Dialogue: 0,0:22:35.71,0:22:36.28,Default,,0,0,0,,Entendido!
+Dialogue: 0,0:22:42.16,0:22:43.61,Default,,0,0,0,,Minha avó uma vez disse...
 Dialogue: 0,0:22:44.71,0:22:45.48,Default,,0,0,0,,Cast Off.
-Dialogue: 0,0:22:46.05,0:22:48.13,Default,,0,0,0,,"Fighting is something done from the stomach."
+Dialogue: 0,0:22:46.05,0:22:48.13,Default,,0,0,0,,"Lutar é algo feito no estômago."
 Dialogue: 0,0:22:49.13,0:22:50.50,Belt,TheBee,0,0,0,,CAST OFF
 Dialogue: 0,0:22:50.98,0:22:52.39,Belt,TheBee,0,0,0,,CHANGE WASP
-Dialogue: 0,0:22:52.71,0:22:54.23,Default,,0,0,0,,Put your gut into it!
-Dialogue: 0,0:22:55.05,0:22:55.97,Default,,0,0,0,,No way....
-Dialogue: 0,0:22:56.51,0:22:57.55,Default,,0,0,0,,It can't be...
+Dialogue: 0,0:22:52.71,0:22:54.23,Default,,0,0,0,,Esforçem-se ao máximo!
+Dialogue: 0,0:22:55.05,0:22:55.97,Default,,0,0,0,,Sem chance....
+Dialogue: 0,0:22:56.51,0:22:57.55,Default,,0,0,0,,Não pode ser...
 Dialogue: 0,0:23:03.18,0:23:04.10,Default,,0,0,0,,Tendou...
-Dialogue: 0,0:23:05.00,0:23:06.21,Default,,0,0,0,,Why are you...?
-Dialogue: 0,0:23:06.98,0:23:08.31,Default,,0,0,0,,What's going on?!
+Dialogue: 0,0:23:05.00,0:23:06.21,Default,,0,0,0,,Por que você...?
+Dialogue: 0,0:23:06.98,0:23:08.31,Default,,0,0,0,,O que está acontecendo?!
 Comment: 0,0:02:44.06,0:02:46.10,Show Song font KABUTO,,0,0,0,,Next Level - Opening
 Comment: 0,0:02:54.63,0:03:00.50,Show Song font KABUTO,,0,0,0,,{\blur1\pos(30,63.667)}Kimi ga negau koto nara subete genjitsu ni naru n' darou
 Dialogue: 0,0:02:54.49,0:02:54.61,Show Song Font english KABUTO,,0,0,0,,{\fad(150,0)\move(19.333,21,31.066,21,21,104)}All your wishes may come true...
@@ -346,9 +347,9 @@ Dialogue: 0,0:03:47.04,0:03:47.17,Show Song Font english KABUTO,,0,0,0,,{\fad(15
 Dialogue: 0,0:03:47.17,0:03:49.98,Show Song Font english KABUTO,,0,0,0,,{\fad(0,192)}{\blur1\move(30,21,90,21,2571,2771)}...if you can surpass it!
 Comment: 0,0:23:14.87,0:23:14.91,Default,,0,0,0,,Preview
 Dialogue: 0,0:23:15.50,0:23:16.95,Default - Up,,0,0,0,,Kamen Rider Kabuto!
-Dialogue: 0,0:23:16.95,0:23:19.12,Default - Up,,0,0,0,,Riders that don't join ZECT must be eliminated.
-Dialogue: 0,0:23:19.12,0:23:20.46,Default - Up,,0,0,0,,That's the captain's orders!
-Dialogue: 0,0:23:20.46,0:23:23.00,Default - Up,,0,0,0,,But why doesn't the Worm try to kill the real one?
-Dialogue: 0,0:23:23.00,0:23:25.67,Default - Up,,0,0,0,,Allow me to demonstrate... how to truly fight.
-Dialogue: 0,0:23:25.67,0:23:26.38,Default - Up,,0,0,0,,Transform!
-Dialogue: 0,0:23:26.96,0:23:29.97,Default - Up,,0,0,0,,Walking the Path of Heaven. Ruling Over Us All.
+Dialogue: 0,0:23:16.95,0:23:19.12,Default,,0,0,0,,Riders que não se juntam a ZECT devem ser eliminados.
+Dialogue: 0,0:23:19.12,0:23:20.46,Default,,0,0,0,,São ordens do capitão!
+Dialogue: 0,0:23:20.46,0:23:23.00,Default - Up,,0,0,0,,Mas por que o Worm não tentou matar o real?
+Dialogue: 0,0:23:23.00,0:23:25.67,Default - Up,,0,0,0,,Permita-me demonstrar... como se luta de verdade.
+Dialogue: 0,0:23:25.67,0:23:26.38,Default - Up,,0,0,0,,Henshin!
+Dialogue: 0,0:23:26.96,0:23:29.97,Default - Up,,0,0,0,,Trilhando o caminho do Céu. Governando a todos nós.

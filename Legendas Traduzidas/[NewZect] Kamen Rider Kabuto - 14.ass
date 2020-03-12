@@ -291,7 +291,7 @@ Dialogue: 0,0:22:35.48,0:22:39.42,Default - Up,Italics,0,0,0,,Preste muita aten�
 Dialogue: 0,0:22:43.34,0:22:45.01,Belt,Kabuto,0,0,0,,ONE TWO THREE
 Dialogue: 0,0:22:45.01,0:22:45.96,Default,,0,0,0,,Rider Kick.
 Dialogue: 0,0:22:45.18,0:22:46.67,Belt,Drake+Italics,0,750,0,,{\i1}RIDER SHOOTING{\i0}
-Dialogue: 0,0:22:59.35,0:23:01.29,Default,,0,0,0,,Parece que um vento caprichoso está soprando.
+Dialogue: 0,0:22:59.35,0:23:01.29,Default,,0,0,0,,Um vento caprichoso está soprando?
 Dialogue: 0,0:23:03.69,0:23:04.34,Default,,0,0,0,,Você...!
 Dialogue: 0,0:01:21.48,0:01:21.60,Show Song Font english KABUTO,,0,0,0,,{\fad(150,0)\move(19.333,21,31.066,21,21,104)}All your wishes may come true...
 Dialogue: 0,0:01:21.62,0:01:27.49,Show Song Font english KABUTO,,0,0,0,,{\fad(0,192)}{\blur1\move(30,21,90,21,5678,5845)}All your wishes may come true...
