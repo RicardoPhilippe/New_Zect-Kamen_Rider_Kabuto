@@ -130,8 +130,8 @@ Dialogue: 0,0:10:48.25,0:10:50.64,Default,,0,0,0,,You're always dodging the issu
 Dialogue: 0,0:10:52.78,0:10:54.95,Default,,0,0,0,,I'm suffering because of you.
 Dialogue: 0,0:10:55.56,0:10:58.35,Default,,0,0,0,,Was the boy with the belt you?
 Dialogue: 0,0:10:59.21,0:11:01.88,Default,,0,0,0,,How long do you plan to keep dodging me?
-Dialogue: 0,0:11:18.16,0:11:18.94,Default,,0,0,0,,Transform.
-Dialogue: 0,0:11:19.45,0:11:20.84,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:11:18.16,0:11:18.94,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:11:19.45,0:11:20.84,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:11:23.50,0:11:24.47,Default,,0,0,0,,Hiyori.
 Dialogue: 0,0:11:24.61,0:11:25.55,Default,,0,0,0,,Run!
 Dialogue: 0,0:11:32.54,0:11:33.25,Default,,0,0,0,,Cast Off.
@@ -197,15 +197,15 @@ Dialogue: 0,0:17:12.10,0:17:14.96,Default,,0,0,0,,However, keep the blindfold on
 Dialogue: 0,0:17:19.05,0:17:20.37,Default,,0,0,0,,This is..!
 Dialogue: 0,0:17:24.49,0:17:26.48,Default,,0,0,0,,You aren't Tadokoro, are you?
 Dialogue: 0,0:17:27.44,0:17:28.97,Default,,0,0,0,,We're putting you under arrest.
-Dialogue: 0,0:17:32.53,0:17:33.65,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:17:34.24,0:17:35.15,Default,,0,0,0,,Transform.
+Dialogue: 0,0:17:32.53,0:17:33.65,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:17:34.24,0:17:35.15,Default,,0,0,0,,Henshin.
 Dialogue: 0,0:17:48.21,0:17:50.85,Default,,0,0,0,,Are you the one searching for me?
 Dialogue: 0,0:17:55.56,0:17:58.28,Default,,0,0,0,,Let's engrave this onto your grave...
 Dialogue: 0,0:17:59.25,0:18:03.13,Default,,0,0,0,,"Kageyama Shun. Also known as TheBee."
 Dialogue: 0,0:18:03.13,0:18:04.36,Default,,0,0,0,,You!
 Dialogue: 0,0:18:04.85,0:18:06.59,Default,,0,0,0,,Sneaking around right in front of me!
-Dialogue: 0,0:18:10.06,0:18:11.04,Default,,0,0,0,,Transform!
-Dialogue: 0,0:18:11.48,0:18:12.73,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:18:10.06,0:18:11.04,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:18:11.48,0:18:12.73,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:18:29.79,0:18:31.88,Default,,0,0,0,,Get away. You'll get hurt.
 Dialogue: 0,0:18:36.21,0:18:37.22,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:18:38.44,0:18:40.18,Belt,,0,0,0,,CAST OFF
@@ -221,8 +221,8 @@ Dialogue: 0,0:19:40.97,0:19:42.44,Default,,0,0,0,,That's what you deserve.
 Dialogue: 0,0:19:47.22,0:19:48.57,Default,,0,0,0,,I know.
 Dialogue: 0,0:19:49.84,0:19:51.87,Default,,0,0,0,,The wind blows to everyone...
 Dialogue: 0,0:19:52.70,0:19:54.51,Default,,0,0,0,,...no matter how despicable they are.
-Dialogue: 0,0:19:59.32,0:20:00.01,Default,,0,0,0,,Transform.
-Dialogue: 0,0:20:00.01,0:20:00.88,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:59.32,0:20:00.01,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:20:00.01,0:20:00.88,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:20:06.64,0:20:07.42,Default,,0,0,0,,That's...
 Dialogue: 0,0:20:08.43,0:20:09.33,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:20:09.33,0:20:11.10,Belt,,0,0,0,,CAST OFF

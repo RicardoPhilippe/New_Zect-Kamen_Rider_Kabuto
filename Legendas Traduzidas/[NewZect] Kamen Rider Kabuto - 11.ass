@@ -205,8 +205,8 @@ Dialogue: 0,0:12:13.74,0:12:16.77,Default,,0,0,0,,No matter wherever or whenever
 Dialogue: 0,0:12:17.84,0:12:19.09,Default,,0,0,0,,And I will appear.{Ore Sanjou}
 Dialogue: 0,0:12:20.09,0:12:21.37,Default,,0,0,0,,Gon.
 Dialogue: 0,0:12:21.37,0:12:22.83,Default,,0,0,0,,Face lotion #2.{number two.}
-Dialogue: 0,0:12:43.38,0:12:44.36,Default,,0,0,0,,Transform!
-Dialogue: 0,0:12:44.36,0:12:45.53,Belt,Kabuto,0,0,0,,TRANSFORM
+Dialogue: 0,0:12:43.38,0:12:44.36,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:12:44.36,0:12:45.53,Belt,Kabuto,0,0,0,,HENSHIN
 Dialogue: 0,0:12:58.40,0:12:59.89,Default,,0,0,0,,Pencil #7.{number seven.}
 Dialogue: 0,0:13:05.28,0:13:07.30,Belt,Kabuto,0,0,0,,CAST OFF
 Dialogue: 0,0:13:09.22,0:13:11.12,Belt,Kabuto,0,0,0,,CHANGE BEETLE
@@ -350,8 +350,8 @@ Dialogue: 0,0:22:20.16,0:22:21.22,Belt,Kabuto,0,0,0,,CLOCK UP
 Dialogue: 0,0:22:40.22,0:22:41.37,Default,,0,0,0,,Daisuke.
 Dialogue: 0,0:22:44.07,0:22:45.40,Default,,0,0,0,,Him again?
 Dialogue: 0,0:22:47.56,0:22:48.82,Default,,0,0,0,,No choice...
-Dialogue: 0,0:22:56.96,0:22:57.73,Default,,0,0,0,,Transform.
-Dialogue: 0,0:22:57.73,0:22:58.80,Belt,Dragonfly,0,0,0,,TRANSFORM
+Dialogue: 0,0:22:56.96,0:22:57.73,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:22:57.73,0:22:58.80,Belt,Dragonfly,0,0,0,,HENSHIN
 Dialogue: 0,0:23:06.22,0:23:07.25,Default,,0,0,0,,He's..!
 Comment: 0,0:02:26.08,0:02:28.12,Show Song font KABUTO,,0,0,0,,Next Level - Opening
 Comment: 0,0:02:36.65,0:02:42.52,Show Song font KABUTO,,0,0,0,,{\blur1\pos(30,63.667)}Kimi ga negau koto nara subete genjitsu ni naru n' darou

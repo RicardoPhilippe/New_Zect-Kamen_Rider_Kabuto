@@ -164,12 +164,12 @@ Dialogue: 0,0:09:35.01,0:09:35.93,Default,,0,0,0,,Enter!
 Dialogue: 0,0:09:35.93,0:09:36.85,Default,,0,0,0,,Yes, sir!
 Dialogue: 0,0:09:45.89,0:09:47.44,Default,,0,0,0,,Makoto, it's me!
 Dialogue: 0,0:09:47.44,0:09:49.83,Default,,0,0,0,,It's Kagami! I've come to save you!
-Dialogue: 0,0:09:55.10,0:09:55.85,Default,,0,0,0,,Transform!
-Dialogue: 0,0:09:55.85,0:09:56.40,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:09:55.10,0:09:55.85,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:09:55.85,0:09:56.40,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:09:56.40,0:09:57.69,Belt,,0,0,0,,STANDBY
 Dialogue: 0,0:09:56.95,0:10:00.92,Default,,0,0,0,,I told you already. All Worms are my prey.
-Dialogue: 0,0:10:01.90,0:10:02.92,Default,,0,0,0,,Transform.
-Dialogue: 0,0:10:03.41,0:10:04.61,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:10:01.90,0:10:02.92,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:10:03.41,0:10:04.61,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:10:10.51,0:10:11.13,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:10:11.13,0:10:12.45,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:10:13.39,0:10:14.13,Default,,0,0,0,,Cast Off.
@@ -183,8 +183,8 @@ Dialogue: 0,0:11:08.55,0:11:10.31,Default,,0,0,0,,My grandmother once said...
 Dialogue: 0,0:11:11.45,0:11:15.66,Default,,0,0,0,,"It is fun to add a secret \Nflavor so that no one knows.
 Dialogue: 0,0:11:16.08,0:11:17.03,Default,,0,0,0,,But...
 Dialogue: 0,0:11:18.03,0:11:20.79,Default,,0,0,0,,It's more fun to find it."
-Dialogue: 0,0:11:23.78,0:11:24.83,Default,,0,0,0,,Transform.
-Dialogue: 0,0:11:25.25,0:11:26.59,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:11:23.78,0:11:24.83,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:11:25.25,0:11:26.59,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:11:27.56,0:11:28.30,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:11:28.30,0:11:29.67,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:11:36.90,0:11:38.05,Default,,0,0,0,,Rider Sting!
@@ -223,8 +223,8 @@ Comment: 0,0:15:57.46,0:15:58.53,Default,,0,0,0,,You...
 Dialogue: 0,0:15:59.59,0:16:02.14,Default,,0,0,0,,...will save them.
 Dialogue: 0,0:16:32.05,0:16:35.07,Default,,0,0,0,,A Worm that abuses the trust between people...
 Dialogue: 0,0:16:35.92,0:16:38.01,Default,,0,0,0,,...I will never forgive that!
-Dialogue: 0,0:16:53.86,0:16:54.78,Default,,0,0,0,,Transform!
-Dialogue: 0,0:16:55.48,0:16:56.66,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:16:53.86,0:16:54.78,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:16:55.48,0:16:56.66,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:17:46.98,0:17:50.48,Default,,0,0,0,,Stop it, Mister! Don't destroy me!
 Dialogue: 0,0:17:51.15,0:17:55.34,Default,,0,0,0,,If you destroy me, Makoto's \Nmemories will be gone too.
 Dialogue: 0,0:18:02.58,0:18:03.89,Default,,0,0,0,,K-Kabuto!

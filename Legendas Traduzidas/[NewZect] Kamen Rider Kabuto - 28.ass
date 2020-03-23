@@ -119,19 +119,19 @@ Dialogue: 0,0:07:15.68,0:07:16.76,Default,,0,0,0,,You guys!
 Dialogue: 0,0:07:16.76,0:07:17.97,Default,,0,0,0,,That's far enough!
 Dialogue: 0,0:07:17.97,0:07:20.04,Default,,0,0,0,,We won't let you kill anymore!
 Dialogue: 0,0:07:20.04,0:07:22.17,Default,,0,0,0,,Die, Worm!
-Dialogue: 0,0:07:26.47,0:07:27.14,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:27.14,0:07:28.41,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:07:28.41,0:07:29.07,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:29.07,0:07:29.76,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:07:29.76,0:07:30.39,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:30.39,0:07:31.06,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:07:31.06,0:07:31.80,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:31.80,0:07:32.94,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:07:26.47,0:07:27.14,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:27.14,0:07:28.41,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:07:28.41,0:07:29.07,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:29.07,0:07:29.76,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:07:29.76,0:07:30.39,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:30.39,0:07:31.06,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:07:31.06,0:07:31.80,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:31.80,0:07:32.94,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:07:37.44,0:07:39.91,Default,,0,0,0,,I'm the real one! I'm not a Worm!
 Dialogue: 0,0:07:40.20,0:07:41.67,Default,,0,0,0,,Just what is going on?!
 Dialogue: 0,0:07:42.12,0:07:43.18,Default,,0,0,0,,That's enough!
 Dialogue: 0,0:07:43.18,0:07:45.29,Default,,0,0,0,,I'm fed up with your tricks!
-Dialogue: 0,0:07:49.74,0:07:51.19,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:07:49.74,0:07:51.19,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:07:51.69,0:07:52.76,Default,,0,0,0,,Look!
 Dialogue: 0,0:07:52.76,0:07:53.78,Default,,0,0,0,,I'm the real one.
 Dialogue: 0,0:07:53.78,0:07:57.08,Default,,0,0,0,,A Worm copies everything! \NIt's no surprise that you can transform!
@@ -266,8 +266,8 @@ Dialogue: 0,0:17:20.94,0:17:22.91,Default,,0,0,0,,No. He's the real one!
 Dialogue: 0,0:17:23.33,0:17:26.86,Default,,0,0,0,,What are you saying? You are the imposter.
 Dialogue: 0,0:17:26.86,0:17:28.94,Default,,0,0,0,,No. The real one!
 Dialogue: 0,0:17:29.67,0:17:33.47,Default,,0,0,0,,Fool! I'll show my proof right now!
-Dialogue: 0,0:17:53.88,0:17:54.78,Default,,0,0,0,,Transform.
-Dialogue: 0,0:17:54.78,0:17:55.82,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:53.88,0:17:54.78,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:17:54.78,0:17:55.82,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:18:03.55,0:18:05.07,Default,,0,0,0,,Don't worry.
 Dialogue: 0,0:18:05.76,0:18:09.83,Default,,0,0,0,,From now on I will always live on as you.
 Dialogue: 0,0:18:19.24,0:18:20.87,Default,,0,0,0,,How dare you decieve me?!
@@ -275,10 +275,10 @@ Dialogue: 0,0:18:21.02,0:18:22.10,Default,,0,0,0,,Just to steal that—!
 Dialogue: 0,0:18:22.10,0:18:23.66,Default,,0,0,0,,My grandmother once said...
 Dialogue: 0,0:18:24.57,0:18:26.91,Default,,0,0,0,,"Fancy food does not taste good..."
 Dialogue: 0,0:18:27.82,0:18:33.35,Default,,0,0,0,,"No matter what truth you \Ntry to hide, you cannot hide it."
-Dialogue: 0,0:18:34.34,0:18:35.35,Default,,0,0,0,,Transform!
-Dialogue: 0,0:18:35.67,0:18:36.67,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:18:36.67,0:18:37.92,Default,,0,0,0,,Transform!
-Dialogue: 0,0:18:37.92,0:18:39.05,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:18:34.34,0:18:35.35,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:18:35.67,0:18:36.67,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:18:36.67,0:18:37.92,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:18:37.92,0:18:39.05,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:19:05.43,0:19:06.47,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:19:06.68,0:19:08.28,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:19:08.28,0:19:08.98,Default,,0,0,0,,Cast Off!
@@ -298,8 +298,8 @@ Dialogue: 0,0:20:07.77,0:20:08.99,Default,,0,0,0,,Eternal...
 Dialogue: 0,0:20:09.75,0:20:11.99,Default,,0,0,0,,Ummm... well...
 Dialogue: 0,0:20:12.13,0:20:13.40,Default,,0,0,0,,Partners.
 Dialogue: 0,0:20:14.17,0:20:16.00,Default,,0,0,0,,Yes, yes. That, that.
-Dialogue: 0,0:20:21.21,0:20:21.82,Default,,0,0,0,,Transform!
-Dialogue: 0,0:20:21.82,0:20:23.15,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:20:21.21,0:20:21.82,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:20:21.82,0:20:23.15,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:20:29.16,0:20:29.66,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:20:29.66,0:20:31.19,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:20:31.81,0:20:33.14,Default,,0,0,0,,Rider Shooting!
@@ -320,8 +320,8 @@ Dialogue: 0,0:21:29.92,0:21:35.44,Default,,0,0,0,,So to see you, I thought I'd h
 Dialogue: 0,0:21:35.44,0:21:37.85,Default,,0,0,0,,So... I got a part time job.
 Dialogue: 0,0:21:41.72,0:21:42.88,Default,,0,0,0,,Silly.
 Dialogue: 0,0:21:43.56,0:21:47.21,Default,,0,0,0,,I'll do it for free any time, your make up.
-Dialogue: 0,0:22:29.45,0:22:30.30,Default,,0,0,0,,Transform.
-Dialogue: 0,0:22:30.30,0:22:31.71,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:22:29.45,0:22:30.30,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:22:30.30,0:22:31.71,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:22:32.94,0:22:34.08,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:22:34.08,0:22:35.70,Belt,,0,0,0,,CAST OFF
 Comment: 0,0:00:42.06,0:00:44.10,Show Song font KABUTO,,0,0,0,,Next Level - Opening

@@ -96,12 +96,12 @@ Dialogue: 0,0:05:03.76,0:05:04.86,Default,,0,0,0,,What?!
 Dialogue: 0,0:05:05.25,0:05:08.96,Default,,0,0,0,,If you want to save Gon... there are other ways.
 Dialogue: 0,0:05:08.96,0:05:09.97,Default,,0,0,0,,Shut up!
 Dialogue: 0,0:05:09.97,0:05:12.08,Default,,0,0,0,,This will all end if I kill{defeat} you.
-Dialogue: 0,0:05:13.54,0:05:14.33,Default,,0,0,0,,Transform!
-Dialogue: 0,0:05:14.33,0:05:15.37,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:05:20.16,0:05:20.80,Default,,0,0,0,,Transform.
-Dialogue: 0,0:05:20.80,0:05:22.42,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:05:34.81,0:05:35.69,Default,,0,0,0,,Transform.
-Dialogue: 0,0:05:36.83,0:05:38.15,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:05:13.54,0:05:14.33,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:05:14.33,0:05:15.37,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:05:20.16,0:05:20.80,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:05:20.80,0:05:22.42,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:05:34.81,0:05:35.69,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:05:36.83,0:05:38.15,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:06:44.59,0:06:46.05,Default,,0,0,0,,What's the meaning of this?
 Dialogue: 0,0:06:46.57,0:06:49.39,Default,,0,0,0,,The agreement was that I'd kill{defeat} \NKabuto, then you'd let Gon free.
 Dialogue: 0,0:06:49.71,0:06:51.85,Default,,0,0,0,,I don't remember making any agreement like that.
@@ -246,12 +246,12 @@ Dialogue: 0,0:16:06.25,0:16:07.23,Default,,0,0,0,,Come on.
 Dialogue: 0,0:16:07.23,0:16:09.40,Default,,0,0,0,,No, no! I want to stay by Daisuke!
 Dialogue: 0,0:16:21.95,0:16:23.25,Default,,0,0,0,,Yuriko!
 Dialogue: 0,0:16:24.91,0:16:26.34,Default,,0,0,0,,Yuriko!
-Dialogue: 0,0:16:36.80,0:16:37.74,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:16:36.80,0:16:37.74,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:16:44.51,0:16:45.61,Default,,0,0,0,,Yuriko!
 Dialogue: 0,0:16:47.02,0:16:48.19,Default,,0,0,0,,Hurry and get out of here{run}!
 Dialogue: 0,0:17:18.49,0:17:19.88,Default,,0,0,0,,Damn traitor.
 Dialogue: 0,0:17:21.63,0:17:22.60,Default,,0,0,0,,I'll eliminate you!
-Dialogue: 0,0:17:23.43,0:17:24.60,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:23.43,0:17:24.60,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:17:38.76,0:17:41.66,Default,,0,0,0,,It's okay. Mom is with you.
 Dialogue: 0,0:17:43.29,0:17:45.08,Default,,0,0,0,,I'll never let go again.
 Dialogue: 0,0:17:54.05,0:17:58.90,Default,,0,0,0,,Don't kill. Don't kill. Don't kill.
@@ -266,8 +266,8 @@ Dialogue: 0,0:19:17.71,0:19:19.46,Default,,0,0,0,,My grandmother once said...
 Dialogue: 0,0:19:19.83,0:19:21.46,Default,,0,0,0,,"Children are treasures."
 Dialogue: 0,0:19:22.69,0:19:24.88,Default,,0,0,0,,"The greatest sin in this world..."
 Dialogue: 0,0:19:25.71,0:19:28.27,Default,,0,0,0,,"...is to damage those treasures."
-Dialogue: 0,0:19:29.23,0:19:29.93,Default,,0,0,0,,Transform.
-Dialogue: 0,0:19:29.93,0:19:30.88,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:29.23,0:19:29.93,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:19:29.93,0:19:30.88,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:19:36.51,0:19:37.48,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:19:37.86,0:19:39.40,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:19:39.40,0:19:41.03,Belt,,0,0,0,,CHANGE BEETLE
@@ -351,5 +351,5 @@ Dialogue: 0,0:23:15.50,0:23:16.95,Default - Up,,0,0,0,,Kamen Rider Kabuto!
 Dialogue: 0,0:23:16.95,0:23:18.87,Default - Up,,0,0,0,,My name is Kamishiro Tsurugi.
 Dialogue: 0,0:23:19.37,0:23:22.25,Default - Up,,0,0,0,,Just as that name states, I am the man who \Nwill replace the gods with a slash of my sword.
 Dialogue: 0,0:23:22.25,0:23:25.55,Default - Up,,0,0,0,,The man who will stand at the top of everything.{The man who will be on top of everything.}
-Dialogue: 0,0:23:25.55,0:23:26.46,Default - Up,,0,0,0,,Transform!
+Dialogue: 0,0:23:25.55,0:23:26.46,Default - Up,,0,0,0,,Henshin!
 Dialogue: 0,0:23:26.46,0:23:29.97,Default - Up,,0,0,0,,Trilhando o caminho do Céu. Governando a todos nós.

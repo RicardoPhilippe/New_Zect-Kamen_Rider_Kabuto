@@ -246,8 +246,8 @@ Dialogue: 0,0:14:45.47,0:14:48.77,Default,,0,0,0,,The moving, hard work of the r
 Dialogue: 0,0:14:48.92,0:14:51.17,Default,,0,0,0,,You really are a piece of something...
 Dialogue: 0,0:14:51.17,0:14:53.70,Default,,0,0,0,,Forget it! Go home and take a nap!
 Dialogue: 0,0:14:56.60,0:14:58.70,Default,,0,0,0,,Still a funny guy.
-Dialogue: 0,0:15:33.58,0:15:34.55,Default,,0,0,0,,Transform.
-Dialogue: 0,0:15:34.97,0:15:35.99,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:15:33.58,0:15:34.55,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:15:34.97,0:15:35.99,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:15:48.47,0:15:51.01,Default,,0,0,0,,All platoons, stay away from the enemy.
 Dialogue: 0,0:15:54.60,0:15:55.60,Default,,0,0,0,,It's molting.
 Dialogue: 0,0:16:00.80,0:16:02.65,Default,,0,0,0,,Find the most advantageous point and herd them!
@@ -260,8 +260,8 @@ Dialogue: 0,0:16:37.10,0:16:38.60,Default,,0,0,0,,Yaguruma!
 Dialogue: 0,0:16:52.05,0:16:52.97,Default,,0,0,0,,Kageyama!
 Dialogue: 0,0:16:56.80,0:16:58.02,Default,,0,0,0,,That guy...
 Dialogue: 0,0:17:01.35,0:17:02.83,Default,,0,0,0,,Why are you...?!
-Dialogue: 0,0:17:05.45,0:17:06.46,Default,,0,0,0,,Transform.
-Dialogue: 0,0:17:07.12,0:17:08.25,Belt,Kabuto,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:05.45,0:17:06.46,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:17:07.12,0:17:08.25,Belt,Kabuto,0,0,0,,HENSHIN
 Dialogue: 0,0:17:12.17,0:17:13.30,Default,,0,0,0,,He transformed?!
 Dialogue: 0,0:17:15.80,0:17:17.37,Default,,0,0,0,,That's not possible!
 Dialogue: 0,0:17:32.30,0:17:33.80,Default,,0,0,0,,Captain!
@@ -311,8 +311,8 @@ Dialogue: 0,0:21:51.55,0:21:53.02,Default,,0,0,0,,I {\i1}will {\i0}protect them!
 Dialogue: 0,0:22:01.17,0:22:02.86,Default,,0,0,0,,That's...
 Dialogue: 0,0:22:02.86,0:22:04.32,Default,,0,0,0,,TheBee Zecter.
 Dialogue: 0,0:22:26.65,0:22:29.92,Default,,0,0,0,,I'm going to... defeat all of you!{You... ...will be defeated by me!}
-Dialogue: 0,0:22:33.20,0:22:34.45,Default,,0,0,0,,Transform!
-Dialogue: 0,0:22:34.80,0:22:35.87,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:22:33.20,0:22:34.45,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:22:34.80,0:22:35.87,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:22:58.27,0:22:59.06,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:23:00.47,0:23:01.81,Belt,Kabuto,0,0,0,,CAST OFF
 Comment: 0,0:00:48.06,0:00:50.10,Show Song font KABUTO,,0,0,0,,Next Level - Opening

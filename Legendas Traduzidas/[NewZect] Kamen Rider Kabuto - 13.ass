@@ -241,8 +241,8 @@ Dialogue: 0,0:16:30.50,0:16:32.30,Default,,0,0,0,,My grandmother once said...
 Dialogue: 0,0:16:33.18,0:16:35.80,Default,,0,0,0,,"There are two things men must not do.
 Dialogue: 0,0:16:35.80,0:16:38.22,Default,,0,0,0,,One is to not ever let a girl cry...{One is to not make girls cry...}
 Dialogue: 0,0:16:38.93,0:16:41.17,Default,,0,0,0,,The other is to not handle food crudely!"
-Dialogue: 0,0:16:44.77,0:16:45.77,Default,,0,0,0,,Transform.
-Dialogue: 0,0:16:46.30,0:16:47.45,Belt,Kabuto,0,0,0,,TRANSFORM
+Dialogue: 0,0:16:44.77,0:16:45.77,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:16:46.30,0:16:47.45,Belt,Kabuto,0,0,0,,HENSHIN
 Dialogue: 0,0:17:16.26,0:17:17.10,Default,,0,0,0,,Yaguruma!
 Dialogue: 0,0:17:19.73,0:17:20.70,Default,,0,0,0,,Kageyama!
 Dialogue: 0,0:17:20.70,0:17:21.35,Default,,0,0,0,,Back me up!
@@ -252,8 +252,8 @@ Dialogue: 0,0:17:33.34,0:17:35.05,Default,,0,0,0,,I will protect your lives.
 Dialogue: 0,0:17:35.30,0:17:36.82,Default,,0,0,0,,I {\i1}will{\i0} protect you!
 Dialogue: 0,0:17:55.70,0:17:56.85,Default,,0,0,0,,Kageyama....
 Dialogue: 0,0:17:58.00,0:17:58.97,Default,,0,0,0,,You...
-Dialogue: 0,0:18:01.05,0:18:01.93,Default,,0,0,0,,Transform!
-Dialogue: 0,0:18:01.93,0:18:03.02,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:18:01.05,0:18:01.93,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:18:01.93,0:18:03.02,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:18:18.58,0:18:20.02,Default,,0,0,0,,Captain, your orders?!
 Dialogue: 0,0:18:20.99,0:18:23.44,Default,,0,0,0,,Have each team pick a \Ntarget and focus their attacks.
 Dialogue: 0,0:18:23.44,0:18:24.10,Default,,0,0,0,,Roger.

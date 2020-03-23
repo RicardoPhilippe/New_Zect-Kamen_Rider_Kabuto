@@ -38,8 +38,8 @@ Dialogue: 0,0:00:10.88,0:00:12.45,Default,,0,0,0,,Long time no see.
 Dialogue: 0,0:00:12.45,0:00:13.94,Default,,0,0,0,,Tadokoro.
 Dialogue: 0,0:00:15.57,0:00:17.88,Default,,0,0,0,,You're the most elite in Shadow.
 Dialogue: 0,0:00:17.88,0:00:20.66,Default,,0,0,0,,I thought you'd be the most suitable for TheBee.
-Dialogue: 0,0:00:26.23,0:00:27.38,Default,,0,0,0,,Transform.
-Dialogue: 0,0:00:27.40,0:00:28.50,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:00:26.23,0:00:27.38,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:00:27.40,0:00:28.50,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:00:58.28,0:00:59.24,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:01:00.20,0:01:02.00,Belt,TheBee,0,0,0,,CAST OFF
 Dialogue: 0,0:01:07.26,0:01:08.71,Belt,TheBee,0,0,0,,CHANGE WASP
@@ -328,10 +328,10 @@ Dialogue: 0,0:20:45.91,0:20:47.67,Default,,0,0,0,,I will defeat Kabuto.
 Dialogue: 0,0:20:49.23,0:20:51.32,Default,,0,0,0,,No matter how brightly the stars shine...
 Dialogue: 0,0:20:52.05,0:20:53.80,Default,,0,0,0,,...they're no comparison to the sun.
 Dialogue: 0,0:20:55.17,0:20:56.75,Default,,0,0,0,,I am the sun.
-Dialogue: 0,0:21:43.28,0:21:44.32,Default,,0,0,0,,Transform.
-Dialogue: 0,0:21:45.10,0:21:46.20,Belt,Kabuto,0,0,0,,TRANSFORM
-Dialogue: 0,0:21:47.42,0:21:48.28,Default,,0,0,0,,Transform.
-Dialogue: 0,0:21:48.28,0:21:49.40,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:21:43.28,0:21:44.32,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:21:45.10,0:21:46.20,Belt,Kabuto,0,0,0,,HENSHIN
+Dialogue: 0,0:21:47.42,0:21:48.28,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:21:48.28,0:21:49.40,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:22:01.09,0:22:02.90,Default,,0,0,0,,Tendou and Yaguruma?
 Dialogue: 0,0:22:03.44,0:22:04.54,Default,,0,0,0,,Seemed...
 Dialogue: 0,0:22:04.54,0:22:06.29,Default,,0,0,0,,...really bad.
@@ -384,5 +384,5 @@ Dialogue: 0,0:23:15.28,0:23:16.95,Default - Up,,0,0,0,,Kamen Rider Kabuto!
 Dialogue: 0,0:23:16.95,0:23:19.83,Default - Up,,0,0,0,,I've destroyed the belt. \NHe will never appear again.
 Dialogue: 0,0:23:19.83,0:23:23.50,Default - Up,,0,0,0,,We still might need Kabuto's power....
 Dialogue: 0,0:23:23.50,0:23:25.30,Default - Up,,0,0,0,,I'm going to protect everyone!
-Dialogue: 0,0:23:25.30,0:23:26.71,Default - Up,,0,0,0,,Transform.
+Dialogue: 0,0:23:25.30,0:23:26.71,Default - Up,,0,0,0,,Henshin.
 Dialogue: 0,0:23:27.09,0:23:29.97,Default - Up,,0,0,0,,Trilhando o caminho do Céu. Governando a todos nós.

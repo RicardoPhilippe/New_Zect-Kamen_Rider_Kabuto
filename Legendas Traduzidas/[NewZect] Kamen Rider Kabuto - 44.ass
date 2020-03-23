@@ -99,7 +99,7 @@ Dialogue: 0,0:06:26.10,0:06:31.33,Default,,0,0,0,,You are a prospect amongst the
 Dialogue: 0,0:06:43.93,0:06:45.09,Default,,0,0,0,,Tsurugi!
 Dialogue: 0,0:06:45.09,0:06:46.07,Belt,,0,0,0,,STANDBY
 Dialogue: 0,0:06:47.75,0:06:49.51,Default,,0,0,0,,I will protect Misaki.
-Dialogue: 0,0:06:50.22,0:06:51.14,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:06:50.22,0:06:51.14,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:06:55.39,0:06:57.48,Default,,0,0,0,,How will you protect her?
 Dialogue: 0,0:06:57.48,0:07:00.51,Default,,0,0,0,,I... will give everything!
 Dialogue: 0,0:07:09.42,0:07:11.31,Default,,0,0,0,,What a noble attitude.
@@ -146,8 +146,8 @@ Dialogue: 0,0:10:17.71,0:10:18.65,Default,Italics,0,0,0,,That's right.
 Dialogue: 0,0:10:19.09,0:10:21.84,Default,Italics,0,0,0,,If Kabuto and Gatack attack simultaneously...
 Dialogue: 0,0:10:21.84,0:10:23.59,Default,Italics,0,0,0,,Then he can't copy the attack.
 Dialogue: 0,0:10:23.59,0:10:27.13,Default,Italics,0,0,0,,R-right. That's what I meant to say.
-Dialogue: 0,0:10:31.54,0:10:32.37,Default,Italics,0,0,0,,Transform!
-Dialogue: 0,0:10:32.76,0:10:34.60,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:10:31.54,0:10:32.37,Default,Italics,0,0,0,,Henshin!
+Dialogue: 0,0:10:32.76,0:10:34.60,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:10:34.60,0:10:35.60,Default,Italics,0,0,0,,Cast Off!
 Dialogue: 0,0:10:35.60,0:10:37.28,Belt,Italics,0,0,0,,CAST OFF
 Dialogue: 0,0:10:38.16,0:10:40.11,Belt,Italics,600,0,0,,CHANGE BEETLE
@@ -175,7 +175,7 @@ Dialogue: 0,0:12:51.61,0:12:55.87,Default,Italics,0,0,0,,Oh oh, another friend h
 Dialogue: 0,0:12:58.00,0:12:59.13,Default,Italics,0,0,0,,Kageyama!
 Dialogue: 0,0:13:01.88,0:13:03.52,Default,Italics,0,0,0,,Now come...
 Dialogue: 0,0:13:03.52,0:13:04.61,Default,Italics,0,0,0,,TheBee Zecter!
-Dialogue: 0,0:13:12.71,0:13:13.68,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:13:12.71,0:13:13.68,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:13:19.44,0:13:23.19,Default,Italics,0,0,0,,I did it! I've obtained TheBee again!
 Dialogue: 0,0:13:23.19,0:13:24.11,Default,Italics,0,0,0,,Cast Off!
 Dialogue: 0,0:13:24.11,0:13:25.36,Belt,Italics,0,0,0,,CAST OFF
@@ -253,8 +253,8 @@ Dialogue: 0,0:20:05.01,0:20:06.48,Default,Italics,0,0,0,,What a laugh.
 Dialogue: 0,0:20:08.61,0:20:10.84,Default,Italics,0,0,0,,Are you the one that laughed at my partner?
 Dialogue: 0,0:20:11.08,0:20:12.23,Default,Italics,0,0,0,,Yaguruma.
 Dialogue: 0,0:20:16.14,0:20:18.38,Default,Italics,0,0,0,,Why don't you laugh at me too?
-Dialogue: 0,0:20:18.38,0:20:19.46,Default,Italics,0,0,0,,Transform.
-Dialogue: 0,0:20:20.32,0:20:21.67,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:20:18.38,0:20:19.46,Default,Italics,0,0,0,,Henshin.
+Dialogue: 0,0:20:20.32,0:20:21.67,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:20:22.94,0:20:25.20,Belt,Italics,0,0,0,,CHANGE KICK HOPPER
 Dialogue: 0,0:20:25.20,0:20:26.57,Default,Italics,0,0,0,,We need to all attack at once.
 Dialogue: 0,0:20:26.57,0:20:29.54,Default,Italics,0,0,0,,I'll reflect any attack you send against me!
@@ -281,7 +281,7 @@ Dialogue: 0,0:21:46.92,0:21:48.70,Default,Italics,0,0,0,,I owe you one.
 Dialogue: 0,0:21:50.13,0:21:53.56,Default,Italics,0,0,0,,Next time... cook me something.
 Dialogue: 0,0:21:59.26,0:22:00.45,Default,Italics,0,0,0,,Bro!
 Dialogue: 0,0:22:06.38,0:22:08.34,Default,Italics,0,0,0,,Please wait, Bro!
-Dialogue: 0,0:22:26.11,0:22:27.15,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:22:26.11,0:22:27.15,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:22:31.88,0:22:33.55,Belt,Italics,0,0,0,,CAST OFF
 Dialogue: 0,0:22:46.15,0:22:47.85,Default,Italics,0,0,0,,I'll destroy it...
 Dialogue: 0,0:22:49.95,0:22:51.44,Default,Italics,0,0,0,,...this world!

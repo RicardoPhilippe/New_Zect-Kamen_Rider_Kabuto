@@ -55,8 +55,8 @@ Dialogue: 0,0:01:27.82,0:01:29.66,Default,,0,0,0,,If we do it here it will cause
 Dialogue: 0,0:01:30.48,0:01:31.66,Default,,0,0,0,,Let's go out.
 Dialogue: 0,0:01:32.62,0:01:34.26,Default,,0,0,0,,Master, me too.
 Dialogue: 0,0:01:35.73,0:01:38.37,Default,,0,0,0,,If you go you'd cause me trouble.
-Dialogue: 0,0:01:41.40,0:01:42.30,Default,,0,0,0,,Transform.
-Dialogue: 0,0:01:43.88,0:01:45.04,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:01:41.40,0:01:42.30,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:01:43.88,0:01:45.04,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:01:46.27,0:01:47.11,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:01:47.11,0:01:48.83,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:01:48.83,0:01:50.32,Belt,,0,0,0,,CHANGE BEETLE
@@ -293,9 +293,9 @@ Dialogue: 0,0:19:51.97,0:19:54.45,Default,,0,0,0,,Ummm... What is a Worm?
 Dialogue: 0,0:19:54.45,0:19:55.38,Default,,0,0,0,,Don't play dumb!
 Dialogue: 0,0:19:55.96,0:19:57.13,Default,,0,0,0,,You will...
 Dialogue: 0,0:19:58.12,0:19:59.28,Default,,0,0,0,,...be defeated by me!
-Dialogue: 0,0:19:59.62,0:20:00.82,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:59.62,0:20:00.82,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:20:07.85,0:20:08.63,Default,,0,0,0,,Stop!
-Dialogue: 0,0:20:09.54,0:20:10.75,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:20:09.54,0:20:10.75,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:20:17.49,0:20:18.42,Default,,0,0,0,,You bastard!
 Dialogue: 0,0:20:18.42,0:20:19.49,Default,,0,0,0,,What are you trying to do?!
 Dialogue: 0,0:20:19.68,0:20:22.66,Default,,0,0,0,,Reina... The current Reina isn't a Worm!
@@ -306,8 +306,8 @@ Dialogue: 0,0:20:33.44,0:20:36.43,Default,,0,0,0,,You have lost your Worm heart.
 Dialogue: 0,0:20:36.88,0:20:38.26,Default,,0,0,0,,You will be executed.
 Dialogue: 0,0:20:39.61,0:20:42.12,Default,,0,0,0,,That is our law.
 Dialogue: 0,0:20:48.13,0:20:49.21,Default,,0,0,0,,Reina!
-Dialogue: 0,0:20:56.52,0:20:57.36,Default,,0,0,0,,Transform!
-Dialogue: 0,0:20:57.36,0:20:58.65,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:20:56.52,0:20:57.36,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:20:57.36,0:20:58.65,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:21:08.62,0:21:09.58,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:21:31.26,0:21:32.20,Default,,0,0,0,,Hyper Cast Off!
 Dialogue: 0,0:21:32.20,0:21:34.02,Belt,,0,0,0,,HYPER CAST OFF
@@ -317,8 +317,8 @@ Dialogue: 0,0:21:46.61,0:21:48.67,Belt,,0,0,0,,MAXIMUM HYPER TYPHOON
 Dialogue: 0,0:22:01.81,0:22:02.96,Default,,0,0,0,,This is...
 Dialogue: 0,0:22:10.94,0:22:11.99,Default,,0,0,0,,Tendou!
 Dialogue: 0,0:22:34.33,0:22:35.40,Default,,0,0,0,,Hiyori!
-Dialogue: 0,0:22:41.96,0:22:43.25,Default,,0,0,0,,Transform.
-Dialogue: 0,0:22:44.74,0:22:46.02,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:22:41.96,0:22:43.25,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:22:44.74,0:22:46.02,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:22:50.98,0:22:52.32,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:22:53.14,0:22:54.76,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:22:56.81,0:22:58.48,Belt,,0,0,0,,CHANGE BEETLE

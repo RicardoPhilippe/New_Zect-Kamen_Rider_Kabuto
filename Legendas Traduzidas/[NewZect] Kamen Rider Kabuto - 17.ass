@@ -316,8 +316,8 @@ Dialogue: 0,0:21:06.54,0:21:08.92,Default,,0,0,0,,Picking a fight here?
 Dialogue: 0,0:21:10.88,0:21:12.57,Default,,0,0,0,,My grandmother once said...
 Dialogue: 0,0:21:13.23,0:21:15.37,Default,,0,0,0,,"Immature fruit is sour....
 Dialogue: 0,0:21:16.45,0:21:18.71,Default,,0,0,0,,...producing immature fights."
-Dialogue: 0,0:21:28.78,0:21:29.76,Default,,0,0,0,,Transform.
-Dialogue: 0,0:21:29.76,0:21:31.10,Belt,Kabuto,0,0,0,,TRANSFORM
+Dialogue: 0,0:21:28.78,0:21:29.76,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:21:29.76,0:21:31.10,Belt,Kabuto,0,0,0,,HENSHIN
 Dialogue: 0,0:21:54.18,0:21:54.96,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:21:54.25,0:21:54.96,Belt,,0,0,0,,{\a6}CAST OFF
 Dialogue: 0,0:21:55.30,0:21:56.22,Default,,0,0,0,,Cast Off.

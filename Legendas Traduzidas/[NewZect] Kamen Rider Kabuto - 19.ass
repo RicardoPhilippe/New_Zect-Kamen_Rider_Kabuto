@@ -83,8 +83,8 @@ Dialogue: 0,0:03:28.05,0:03:28.77,Default,,0,0,0,,Worm.
 Dialogue: 0,0:03:29.43,0:03:30.67,Default,,0,0,0,,I am grateful.
 Dialogue: 0,0:03:31.47,0:03:32.74,Default,,0,0,0,,My job will be done much quicker.
 Dialogue: 0,0:03:32.74,0:03:33.77,Belt,,0,0,0,,STANDBY
-Dialogue: 0,0:03:41.11,0:03:42.36,Default,,0,0,0,,Transform!
-Dialogue: 0,0:03:42.36,0:03:43.45,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:03:41.11,0:03:42.36,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:03:42.36,0:03:43.45,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:05:28.07,0:05:30.33,Default,,0,0,0,,Excellent work.
 Dialogue: 0,0:05:30.45,0:05:31.65,Default,,0,0,0,,Young Master.
 Dialogue: 0,0:05:36.03,0:05:40.45,Default,,0,0,0,,Misaki, do you ever have feelings of\N doubt or rebellion against ZECT?
@@ -268,12 +268,12 @@ Dialogue: 0,0:21:05.20,0:21:06.53,Default,,0,0,0,,So it's you?
 Dialogue: 0,0:21:08.37,0:21:09.30,Default,,0,0,0,,Very well.
 Dialogue: 0,0:21:10.31,0:21:12.48,Default,,0,0,0,,I'll save you, so hurry and run.
 Dialogue: 0,0:21:14.29,0:21:15.24,Belt,,0,0,0,,STANDBY
-Dialogue: 0,0:21:21.34,0:21:22.38,Default,,0,0,0,,Transform!
-Dialogue: 0,0:21:22.38,0:21:23.34,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:21:21.34,0:21:22.38,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:21:22.38,0:21:23.34,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:21:29.08,0:21:30.17,Default,,0,0,0,,I see.
 Dialogue: 0,0:21:30.95,0:21:33.43,Default,,0,0,0,,But I do not need you to save me.
-Dialogue: 0,0:21:36.24,0:21:37.35,Default,,0,0,0,,Transform.
-Dialogue: 0,0:21:37.80,0:21:38.96,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:21:36.24,0:21:37.35,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:21:37.80,0:21:38.96,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:21:40.95,0:21:42.12,Default,,0,0,0,,You're...!
 Dialogue: 0,0:21:59.04,0:21:59.90,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:21:59.90,0:22:01.43,Belt,,0,0,0,,CAST OFF

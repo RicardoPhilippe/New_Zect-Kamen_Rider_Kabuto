@@ -84,7 +84,7 @@ Dialogue: 0,0:02:37.44,0:02:39.12,Default,Text,0,0,0,,Over there, Kagami!
 Dialogue: 0,0:02:39.12,0:02:40.89,Default,Text,0,0,0,,There! There! There!
 Dialogue: 0,0:02:40.89,0:02:44.01,Default,Text,0,0,0,,Hey, hey. You're not acting smart enough.
 Dialogue: 0,0:02:44.25,0:02:45.48,Default,Text,0,0,0,,If it were Tendou...
-Dialogue: 0,0:02:45.48,0:02:46.39,Default,Text,0,0,0,,Transform!
+Dialogue: 0,0:02:45.48,0:02:46.39,Default,Text,0,0,0,,Henshin!
 Dialogue: 0,0:02:47.89,0:02:50.78,Default,Text,0,0,0,,He would do it gracefully and elegantly.
 Dialogue: 0,0:02:50.97,0:02:54.89,Default,Text,0,0,0,,Because the world revolves around him.
 Dialogue: 0,0:02:52.17,0:02:53.65,Belt,Top,0,0,0,,{\a6}CAST OFF
@@ -93,7 +93,7 @@ Dialogue: 0,0:02:58.86,0:03:03.36,Default,,0,0,0,,And I, Kabuto Zecter, \Nlike t
 Dialogue: 0,0:03:03.68,0:03:06.76,Default,,0,0,0,,Kabuto's finisher attack, Avalanche Smash!
 Dialogue: 0,0:03:07.09,0:03:10.16,Default,,0,0,0,,Using it in Kunai Mode, he cuts the Worm up!
 Dialogue: 0,0:03:10.53,0:03:15.46,Default,,0,0,0,,Yes. The various personalities \Nare the good parts of the Riders.
-Dialogue: 0,0:03:15.80,0:03:16.62,Default,,0,0,0,,Transform!
+Dialogue: 0,0:03:15.80,0:03:16.62,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:03:17.22,0:03:19.90,Default,,0,0,0,,The wasp Rider, TheBee, is a leader type.
 Dialogue: 0,0:03:20.37,0:03:22.29,Default,,0,0,0,,He has to be competent in leading during battle.
 Dialogue: 0,0:03:22.73,0:03:24.76,Default,,0,0,0,,His creed is Perfect Harmony.
@@ -102,7 +102,7 @@ Dialogue: 0,0:03:30.24,0:03:34.76,Default,,0,0,0,,If you only think about yourse
 Dialogue: 0,0:03:36.77,0:03:39.53,Default,,0,0,0,,TheBee's finisher attack is Rider Sting.
 Dialogue: 0,0:03:37.69,0:03:39.14,Belt,Top,0,0,0,,{\a6}RIDER STING
 Dialogue: 0,0:03:39.98,0:03:42.86,Default,,0,0,0,,"Float like a butterfly, sting like a bee."
-Dialogue: 0,0:03:42.86,0:03:43.49,Default,,0,0,0,,Transform!
+Dialogue: 0,0:03:42.86,0:03:43.49,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:03:43.49,0:03:45.32,Default,,0,0,0,,Drake is a dragonfly Rider.
 Dialogue: 0,0:03:45.64,0:03:48.58,Default,,0,0,0,,Like the wind, he loves freedom.
 Dialogue: 0,0:03:48.58,0:03:52.40,Default,,0,0,0,,Although it seems like he\N loves things besides freedom.
@@ -112,7 +112,7 @@ Dialogue: 0,0:03:57.80,0:03:59.52,Default,,0,0,0,,And he handles guns splendidly
 Dialogue: 0,0:03:59.80,0:04:03.10,Default,,0,0,0,,Drake's finisher attack, Rider Shooting.
 Dialogue: 0,0:03:59.52,0:04:01.55,Belt,Top,0,0,0,,{\a6}RIDER SHOOTING
 Dialogue: 0,0:04:03.44,0:04:06.64,Default,,0,0,0,,He's okay even if the Worm is far away.
-Dialogue: 0,0:04:07.10,0:04:08.04,Default,,0,0,0,,Transform!
+Dialogue: 0,0:04:07.10,0:04:08.04,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:04:08.81,0:04:10.96,Default,,0,0,0,,Sasword is a scorpion Rider.
 Dialogue: 0,0:04:11.25,0:04:13.72,Default,,0,0,0,,No matter what, he reaches the top.
 Dialogue: 0,0:04:14.65,0:04:17.45,Default,,0,0,0,,Although, he also masters weird things.
@@ -122,14 +122,14 @@ Dialogue: 0,0:04:21.54,0:04:23.86,Default,,0,0,0,,With the sharp sword, he cuts 
 Dialogue: 0,0:04:23.86,0:04:26.62,Default,,0,0,0,,A noble deed must be nobly returned.
 Dialogue: 0,0:04:26.92,0:04:28.52,Default,,0,0,0,,Noblesse Oblige.
 Dialogue: 0,0:04:28.52,0:04:31.38,Default,,0,0,0,,And he has a secret.
-Dialogue: 0,0:04:32.37,0:04:33.25,Default,,0,0,0,,Transform!
+Dialogue: 0,0:04:32.37,0:04:33.25,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:04:33.44,0:04:35.66,Default,,0,0,0,,Grasshopper Rider, KickHopper.
 Dialogue: 0,0:04:36.29,0:04:38.09,Default,,0,0,0,,A Rider revived from Hell.
 Dialogue: 0,0:04:38.72,0:04:42.80,Default,,0,0,0,,KickHopper's finisher attack, \NRider Jump and Kick.
 Dialogue: 0,0:04:43.26,0:04:44.98,Default,,0,0,0,,What destructive force!
 Dialogue: 0,0:04:45.38,0:04:48.36,Default,,0,0,0,,Mr. Yaguruma, just what happened?
 Dialogue: 0,0:04:48.72,0:04:53.06,Default,,0,0,0,,The Hopper Zecter's back color\N is different. He's reversible.
-Dialogue: 0,0:04:53.06,0:04:53.73,Default,,0,0,0,,Transform!
+Dialogue: 0,0:04:53.06,0:04:53.73,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:04:54.34,0:04:56.52,Default,,0,0,0,,Gatack is the stag beetle Rider.
 Dialogue: 0,0:04:57.36,0:05:00.11,Default,,0,0,0,,His finisher attack is Rider Cutting.
 Dialogue: 0,0:04:58.86,0:05:00.11,Belt,Top,0,0,0,,{\a6}RIDER CUTTING
@@ -174,8 +174,8 @@ Dialogue: 0,0:07:06.18,0:07:07.37,Default,,0,0,0,,"Oh..."
 Dialogue: 0,0:07:09.80,0:07:11.28,Default,,0,0,0,,"...my legs hurt."
 Dialogue: 0,0:07:13.16,0:07:15.36,Default,,0,0,0,,Hey, hey. Is he okay?
 Dialogue: 0,0:07:16.05,0:07:17.84,Default,,0,0,0,,My head hurts.
-Dialogue: 0,0:07:23.08,0:07:23.98,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:24.50,0:07:25.60,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:07:23.08,0:07:23.98,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:24.50,0:07:25.60,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:07:27.16,0:07:27.76,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:07:27.76,0:07:28.60,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:07:28.60,0:07:31.26,Belt,,0,0,0,,CHANGE STAG BEETLE
@@ -207,8 +207,8 @@ Dialogue: 0,0:09:01.67,0:09:03.90,Default,,0,0,0,,A Hyper Zecter from the future
 Dialogue: 0,0:09:04.31,0:09:06.41,Default,,0,0,0,,Yeah, I asked him to come.
 Dialogue: 0,0:09:06.41,0:09:07.50,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:09:08.93,0:09:11.45,Default,,0,0,0,,Kagami, you should grab onto the future too!
-Dialogue: 0,0:09:11.72,0:09:12.57,Default,,0,0,0,,Transform!
-Dialogue: 0,0:09:12.57,0:09:13.53,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:09:11.72,0:09:12.57,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:09:12.57,0:09:13.53,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:09:15.94,0:09:17.45,Belt,,0,0,0,,CHANGE BEETLE
 Dialogue: 0,0:09:20.31,0:09:21.32,Default,,0,0,0,,Alright!
 Dialogue: 0,0:09:22.37,0:09:23.62,Default,,300,0,0,,Hyper Cast Off!

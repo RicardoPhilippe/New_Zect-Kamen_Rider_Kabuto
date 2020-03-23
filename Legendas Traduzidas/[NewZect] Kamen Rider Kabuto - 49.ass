@@ -68,8 +68,8 @@ Dialogue: 0,0:02:37.68,0:02:40.24,Default,,0,0,0,,Try laying a finger on my subo
 Dialogue: 0,0:02:41.45,0:02:43.68,Default,,0,0,0,,...because you won't be getting away with it.
 Dialogue: 0,0:03:10.69,0:03:14.19,Default,,0,0,0,,Kagami, go!
 Dialogue: 0,0:03:15.75,0:03:16.84,Default,,0,0,0,,Okay!
-Dialogue: 0,0:03:22.44,0:03:23.25,Default,,0,0,0,,Transform!
-Dialogue: 0,0:03:23.25,0:03:24.57,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:03:22.44,0:03:23.25,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:03:23.25,0:03:24.57,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:03:43.54,0:03:45.53,Default,,0,0,0,,How are preparations going?
 Dialogue: 0,0:03:46.21,0:03:47.79,Default,,0,0,0,,Right on schedule.
 Dialogue: 0,0:03:48.10,0:03:52.38,Default,,0,0,0,,The necklaces will have been distributed to the\N whole world by 3:00 this afternoon, right?
@@ -150,15 +150,15 @@ Dialogue: 0,0:11:25.66,0:11:28.95,Default,,0,0,0,,That was your limitation to be
 Dialogue: 0,0:11:30.25,0:11:31.20,Default,,0,0,0,,Get him!
 Dialogue: 0,0:11:33.55,0:11:36.17,Default,,0,0,0,,What is it?! He told you to get him!
 Dialogue: 0,0:11:44.80,0:11:49.10,Default,,0,0,0,,You... you've lost your Native heart?!
-Dialogue: 0,0:11:51.65,0:11:52.57,Default,,0,0,0,,Transform.
-Dialogue: 0,0:11:52.57,0:11:53.73,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:11:51.65,0:11:52.57,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:11:52.57,0:11:53.73,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:12:03.72,0:12:05.72,Default,,0,0,0,,Kabuto!
 Dialogue: 0,0:12:14.32,0:12:16.12,Default,,0,0,0,,Kabuto!
 Dialogue: 0,0:12:16.12,0:12:18.27,Default,,0,0,0,,Follow him!
 Dialogue: 0,0:12:16.12,0:12:16.77,Default,,0,0,0,,Stop!
 Dialogue: 0,0:12:41.45,0:12:42.70,Default,,0,0,0,,Tendou...
 Dialogue: 0,0:12:49.37,0:12:50.79,Default,,0,0,0,,Tendou!
-Dialogue: 0,0:12:53.62,0:12:55.02,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:12:53.62,0:12:55.02,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:13:01.67,0:13:03.37,Default,,0,0,0,,Hang on!
 Dialogue: 0,0:14:38.32,0:14:40.35,Belt,,0,0,0,,HYPER CAST OFF
 Dialogue: 0,0:14:40.92,0:14:43.52,Belt,,0,0,0,,CHANGE HYPER BEETLE

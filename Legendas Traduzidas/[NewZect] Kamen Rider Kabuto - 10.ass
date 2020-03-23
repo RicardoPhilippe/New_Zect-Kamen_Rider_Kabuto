@@ -32,8 +32,8 @@ Style: Default - Up,Exo 2 Semi Bold,52,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.51,0:00:02.74,Default,,0,0,120,,Transform!
-Dialogue: 0,0:00:03.14,0:00:04.74,Belt,TheBee,0,0,120,,TRANSFORM
+Dialogue: 0,0:00:01.51,0:00:02.74,Default,,0,0,120,,Henshin!
+Dialogue: 0,0:00:03.14,0:00:04.74,Belt,TheBee,0,0,120,,HENSHIN
 Dialogue: 0,0:00:14.17,0:00:15.11,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:00:16.48,0:00:17.87,Belt,Kabuto,0,0,0,,CAST OFF
 Dialogue: 0,0:00:26.80,0:00:27.70,Default,,0,0,0,,I...
@@ -199,8 +199,8 @@ Dialogue: 0,0:15:59.13,0:16:00.70,Default,,0,0,0,,Friends?
 Dialogue: 0,0:16:02.50,0:16:05.53,Default,,0,0,0,,Using the word I hate the most.
 Dialogue: 0,0:16:17.12,0:16:18.16,Default,,0,0,0,,Come!
 Dialogue: 0,0:16:18.16,0:16:19.40,Default,,0,0,0,,TheBee Zecter!
-Dialogue: 0,0:16:21.33,0:16:22.50,Default,,0,0,0,,Transform!
-Dialogue: 0,0:16:22.50,0:16:23.53,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:16:21.33,0:16:22.50,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:16:22.50,0:16:23.53,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:16:29.59,0:16:32.10,Default,,0,0,0,,Stop firing, I'll defeat him.
 Dialogue: 0,0:16:57.50,0:16:58.74,Default,,0,0,0,,Captain!
 Dialogue: 0,0:17:03.33,0:17:04.53,Default,,0,0,0,,Kageyama!

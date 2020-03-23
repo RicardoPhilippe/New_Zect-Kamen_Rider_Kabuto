@@ -238,10 +238,10 @@ Dialogue: 0,0:17:47.84,0:17:49.09,Default,Italics,0,0,0,,{\i1}Fool.{\i0}
 Dialogue: 0,0:17:49.09,0:17:50.79,Default,Italics,0,0,0,,{\i1}White radish?{\i0}
 Dialogue: 0,0:17:51.33,0:17:54.53,Default,Italics,0,0,0,,{\i1}Is such a common miso \Nsoup supposed to beat me?{\i0}
 Dialogue: 0,0:17:55.04,0:17:58.32,Default,Italics,0,0,0,,{\i1}I'll open your eyes{make you see} with my\N transcendental miso soup.{\i0}
-Dialogue: 0,0:18:12.44,0:18:13.20,Default,,0,0,0,,Transform!
-Dialogue: 0,0:18:13.20,0:18:14.15,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:18:14.48,0:18:15.07,Default,,0,0,0,,Transform!
-Dialogue: 0,0:18:15.07,0:18:16.13,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:18:12.44,0:18:13.20,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:18:13.20,0:18:14.15,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:18:14.48,0:18:15.07,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:18:15.07,0:18:16.13,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:18:35.20,0:18:37.22,Default,,0,0,0,,Heaven.
 Dialogue: 0,0:18:38.18,0:18:43.81,Default,,0,0,0,,It has egg whites combined with the miso bowl.
 Dialogue: 0,0:18:44.92,0:18:47.35,Default,,0,0,0,,Truly artistic.
@@ -272,8 +272,8 @@ Dialogue: 0,0:20:47.12,0:20:48.72,Default,,0,0,0,,Well done.
 Dialogue: 0,0:20:50.64,0:20:53.06,Default,,0,0,0,,Let me reward you.
 Dialogue: 0,0:20:56.34,0:20:57.71,Default,,0,0,0,,I see.
 Dialogue: 0,0:20:58.40,0:21:00.07,Default,,0,0,0,,So that's how it is.
-Dialogue: 0,0:21:08.45,0:21:09.37,Default,,0,0,0,,Transform.
-Dialogue: 0,0:21:09.89,0:21:11.33,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:21:08.45,0:21:09.37,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:21:09.89,0:21:11.33,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:21:43.08,0:21:44.82,Belt,,0,0,0,,ONE TWO THREE
 Dialogue: 0,0:21:45.65,0:21:46.91,Default,,0,0,0,,Rider Kick.
 Dialogue: 0,0:21:47.72,0:21:49.45,Belt,,0,0,0,,RIDER KICK

@@ -87,10 +87,10 @@ Dialogue: 0,0:06:53.53,0:06:55.28,Default,Italics,0,0,0,,{\i1}And Hiyori...{\i0}
 Dialogue: 0,0:06:56.35,0:07:00.33,Default,Italics,0,0,0,,{\i1}I promise you. I will change the world.{\i0}
 Dialogue: 0,0:07:01.31,0:07:03.74,Default,Italics,0,0,0,,{\i1}Make it into a world where you can smile.{\i0}
 Dialogue: 0,0:07:05.46,0:07:07.23,Default,,0,0,0,,{\i1}I will definitely do it.{\i0}
-Dialogue: 0,0:07:19.23,0:07:20.20,Default,,0,0,0,,Transform.
-Dialogue: 0,0:07:20.58,0:07:21.71,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:07:27.92,0:07:28.76,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:28.76,0:07:29.76,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:07:19.23,0:07:20.20,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:07:20.58,0:07:21.71,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:07:27.92,0:07:28.76,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:28.76,0:07:29.76,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:08:07.62,0:08:08.61,Default,,0,0,0,,Tsurugi...
 Dialogue: 0,0:08:09.96,0:08:11.21,Default,,0,0,0,,Tsurgui!
 Dialogue: 0,0:08:28.98,0:08:31.53,Default,,0,0,0,,Stop it, Tsurugi! Please stop!
@@ -152,20 +152,20 @@ Dialogue: 0,0:15:30.33,0:15:33.12,Default,,0,0,0,,This building is surrounded by
 Dialogue: 0,0:15:41.42,0:15:43.38,Default,,0,0,0,,So what?
 Dialogue: 0,0:15:44.42,0:15:46.95,Default,,0,0,0,,You have no hope.
 Dialogue: 0,0:15:47.66,0:15:48.80,Default,,0,0,0,,Get them.
-Dialogue: 0,0:15:56.17,0:15:57.14,Default,,0,0,0,,Transform.
-Dialogue: 0,0:15:57.14,0:15:58.25,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:15:58.58,0:15:59.56,Default,,0,0,0,,Transform!
-Dialogue: 0,0:15:59.56,0:16:00.77,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:15:56.17,0:15:57.14,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:15:57.14,0:15:58.25,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:15:58.58,0:15:59.56,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:15:59.56,0:16:00.77,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:16:00.77,0:16:01.89,Belt,,0,0,0,,STANDBY
-Dialogue: 0,0:16:01.89,0:16:02.99,Default,,0,0,0,,Transform.
-Dialogue: 0,0:16:02.99,0:16:04.06,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:16:01.89,0:16:02.99,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:16:02.99,0:16:04.06,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:16:45.65,0:16:48.15,Default,,0,0,0,,Shall we try seeking it one more time?
 Dialogue: 0,0:16:48.30,0:16:49.87,Default,,0,0,0,,The light...
 Dialogue: 0,0:16:49.98,0:16:50.80,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:16:51.82,0:16:54.08,Default,,0,0,0,,Let's go, Bro.
-Dialogue: 0,0:17:00.06,0:17:00.88,Default,,0,0,0,,Transform!
-Dialogue: 0,0:17:01.79,0:17:02.62,Default,,0,0,0,,Transform!
-Dialogue: 0,0:17:02.62,0:17:04.62,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:00.06,0:17:00.88,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:17:01.79,0:17:02.62,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:17:02.62,0:17:04.62,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:17:07.08,0:17:10.34,Belt,,600,0,0,,CHANGE PUNCH HOPPER
 Dialogue: 0,0:17:07.08,0:17:10.34,Belt,,0,600,0,,CHANGE KICK HOPPER
 Dialogue: 0,0:17:24.48,0:17:26.73,Belt,,0,0,0,,ONE TWO THREE

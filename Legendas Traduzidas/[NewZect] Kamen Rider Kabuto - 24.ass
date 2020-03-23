@@ -238,10 +238,10 @@ Dialogue: 0,0:16:53.01,0:16:56.37,Default,,0,0,0,,You cannot go any further. Ord
 Dialogue: 0,0:16:58.55,0:17:00.48,Default,,0,0,0,,What's up ahead?
 Dialogue: 0,0:17:01.30,0:17:02.83,Default,,0,0,0,,I wouldn't know.{I don't know.}
 Dialogue: 0,0:17:05.99,0:17:07.33,Default,,0,0,0,,I have no reason to know!
-Dialogue: 0,0:17:07.33,0:17:08.84,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:07.33,0:17:08.84,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:17:13.75,0:17:14.96,Default,,0,0,0,,Hide over there!
-Dialogue: 0,0:17:18.10,0:17:18.89,Default,,0,0,0,,Transform!
-Dialogue: 0,0:17:19.67,0:17:20.85,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:18.10,0:17:18.89,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:17:19.67,0:17:20.85,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:17:23.54,0:17:24.60,Default,,0,0,0,,You bastard!
 Dialogue: 0,0:17:36.02,0:17:37.06,Default,,0,0,0,,Stop it!
 Dialogue: 0,0:17:38.18,0:17:39.28,Default,,0,0,0,,Stop!
@@ -257,9 +257,9 @@ Dialogue: 0,0:18:32.87,0:18:35.36,Default,,0,0,0,,Tendou. Why are you...?
 Dialogue: 0,0:18:35.70,0:18:38.58,Default,,0,0,0,,I hope you're satisfied by coming here.
 Dialogue: 0,0:18:43.41,0:18:45.62,Default,,0,0,0,,No matter what is in here.
 Dialogue: 0,0:18:55.09,0:18:56.15,Default,,0,0,0,,Hide.
-Dialogue: 0,0:19:18.85,0:19:19.73,Default,,0,0,0,,Transform!
-Dialogue: 0,0:19:20.18,0:19:21.39,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:19:21.39,0:19:22.59,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:18.85,0:19:19.73,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:19:20.18,0:19:21.39,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:19:21.39,0:19:22.59,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:19:40.10,0:19:41.46,Default,,0,0,0,,There's no end to them.
 Dialogue: 0,0:19:47.88,0:19:49.04,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:19:49.22,0:19:52.00,Belt,,0,0,0,,CAST OFF
@@ -283,8 +283,8 @@ Dialogue: 0,0:20:50.85,0:20:54.92,Default,,0,0,0,,"A noble deed must be nobly re
 Dialogue: 0,0:20:56.14,0:20:57.69,Default,,0,0,0,,That is my...
 Dialogue: 0,0:21:00.03,0:21:02.07,Default,,0,0,0,,Noblesse oblige.
 Dialogue: 0,0:21:03.65,0:21:04.76,Belt,,0,0,0,,STANDBY
-Dialogue: 0,0:21:09.62,0:21:10.77,Default,,0,0,0,,Transform.
-Dialogue: 0,0:21:11.72,0:21:12.88,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:21:09.62,0:21:10.77,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:21:11.72,0:21:12.88,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:21:12.88,0:21:14.54,Default,,0,0,0,,Don't get in my way!
 Dialogue: 0,0:21:16.94,0:21:19.75,Default,,0,0,0,,Leave him to be. You all go!
 Dialogue: 0,0:21:25.24,0:21:25.88,Default,,0,0,0,,Cast Off.

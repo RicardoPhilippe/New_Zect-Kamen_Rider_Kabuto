@@ -44,8 +44,8 @@ Dialogue: 0,0:00:17.58,0:00:18.61,Default,,0,0,0,,Tendou...
 Dialogue: 0,0:00:19.38,0:00:20.72,Default,,0,0,0,,Why are you...?!
 Dialogue: 0,0:00:21.40,0:00:22.86,Default,,0,0,0,,Just what is going on?
 Dialogue: 0,0:00:31.23,0:00:32.12,Default,,0,0,0,,There!
-Dialogue: 0,0:00:40.76,0:00:41.43,Default,,0,0,0,,Transform.
-Dialogue: 0,0:00:42.38,0:00:43.50,Belt,Kabuto,0,0,0,,TRANSFORM
+Dialogue: 0,0:00:40.76,0:00:41.43,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:00:42.38,0:00:43.50,Belt,Kabuto,0,0,0,,HENSHIN
 Dialogue: 0,0:00:45.31,0:00:46.27,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:00:46.63,0:00:48.32,Belt,Kabuto,0,0,0,,CAST OFF
 Dialogue: 0,0:00:50.45,0:00:52.01,Belt,Kabuto,0,0,0,,CHANGE BEETLE
@@ -161,11 +161,11 @@ Dialogue: 0,0:08:30.20,0:08:33.78,Default,,0,0,0,,Daisuke, you really will take\
 Dialogue: 0,0:08:33.78,0:08:35.77,Default,,0,0,0,,That's amazing.
 Dialogue: 0,0:08:36.58,0:08:37.42,Default,,0,0,0,,I suppose.
 Dialogue: 0,0:08:40.85,0:08:42.10,Default,,0,0,0,,You're...
-Dialogue: 0,0:08:45.43,0:08:45.92,Default,,0,0,0,,Transform!
-Dialogue: 0,0:08:45.92,0:08:47.02,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:08:45.43,0:08:45.92,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:08:45.92,0:08:47.02,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:08:48.23,0:08:49.05,Default,,0,0,0,,Gon.
-Dialogue: 0,0:08:52.68,0:08:53.36,Default,,0,0,0,,Transform!
-Dialogue: 0,0:08:53.36,0:08:54.45,Belt,Drake,0,0,0,,TRANSFORM
+Dialogue: 0,0:08:52.68,0:08:53.36,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:08:53.36,0:08:54.45,Belt,Drake,0,0,0,,HENSHIN
 Dialogue: 0,0:09:05.05,0:09:07.68,Default,,0,0,0,,Riders that don't join ZECT must be eliminated.
 Dialogue: 0,0:09:07.68,0:09:09.32,Default,,0,0,0,,That's the captain's orders!
 Dialogue: 0,0:09:10.93,0:09:12.22,Default,,0,0,0,,It can't be! He...
@@ -301,12 +301,12 @@ Dialogue: 0,0:16:56.32,0:17:00.12,Default,,0,0,0,,Rubbish. If you attack them\N 
 Dialogue: 0,0:17:00.33,0:17:02.02,Default,,0,0,0,,My grandmother once said...
 Dialogue: 0,0:17:02.65,0:17:06.22,Default,,0,0,0,,"The whisper of the devil can sometimes\N sound like the voice of an angel."{an angel's voice.}
 Dialogue: 0,0:17:06.88,0:17:11.13,Default,,0,0,0,,You may be strange Worms, \Nbut in the end, Worms none the less.
-Dialogue: 0,0:17:19.65,0:17:20.43,Default,,0,0,0,,Transform.
-Dialogue: 0,0:17:20.95,0:17:22.10,Belt,Kabuto,0,0,0,,TRANSFORM
-Dialogue: 0,0:17:23.98,0:17:24.57,Default,,0,0,0,,Transform!
-Dialogue: 0,0:17:24.57,0:17:25.52,Belt,Drake,0,0,0,,TRANSFORM
-Dialogue: 0,0:17:38.75,0:17:39.45,Default,,0,0,0,,Transform!
-Dialogue: 0,0:17:39.45,0:17:40.45,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:19.65,0:17:20.43,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:17:20.95,0:17:22.10,Belt,Kabuto,0,0,0,,HENSHIN
+Dialogue: 0,0:17:23.98,0:17:24.57,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:17:24.57,0:17:25.52,Belt,Drake,0,0,0,,HENSHIN
+Dialogue: 0,0:17:38.75,0:17:39.45,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:17:39.45,0:17:40.45,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:18:08.65,0:18:09.48,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:18:10.20,0:18:11.32,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:18:12.08,0:18:13.42,Belt,Kabuto,0,0,0,,CAST OFF
@@ -327,8 +327,8 @@ Dialogue: 0,0:19:28.39,0:19:29.48,Belt,TheBee,0,0,0,,CLOCK OVER
 Dialogue: 0,0:19:46.48,0:19:47.37,Default,,0,0,0,,Mishima.
 Dialogue: 0,0:19:47.63,0:19:48.82,Default,,0,0,0,,Allow me to demonstrate...{For you...}
 Dialogue: 0,0:19:52.25,0:19:54.20,Default,,0,0,0,,...how to truly fight.{I'll show you how to fight.}
-Dialogue: 0,0:20:04.40,0:20:05.40,Default,,0,0,0,,Transform!
-Dialogue: 0,0:20:06.40,0:20:07.70,Belt,TheBee,0,0,0,,TRANSFORM
+Dialogue: 0,0:20:04.40,0:20:05.40,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:20:06.40,0:20:07.70,Belt,TheBee,0,0,0,,HENSHIN
 Dialogue: 0,0:20:33.87,0:20:36.72,Default,TheBee,0,0,0,,I can... do it!
 Dialogue: 0,0:20:42.32,0:20:43.05,Default,TheBee,0,0,0,,Clock Up.
 Dialogue: 0,0:20:43.05,0:20:44.37,Belt,Kabuto,0,0,0,,CLOCK UP
@@ -339,12 +339,12 @@ Dialogue: 0,0:20:56.04,0:20:57.10,Belt,,265,0,0,,THREE
 Dialogue: 0,0:20:57.52,0:20:59.12,Default,,0,0,0,,Rider Kick.
 Dialogue: 0,0:20:59.25,0:21:00.70,Belt,Kabuto,0,0,0,,RIDER KICK
 Dialogue: 0,0:21:01.75,0:21:03.32,Belt,Kabuto,0,0,0,,CLOCK OVER
-Dialogue: 0,0:21:07.50,0:21:08.90,Default,,0,0,0,,I did it.
+Dialogue: 0,0:21:07.50,0:21:08.90,Default,,0,0,0,,Eu consegui.
 Dialogue: 0,0:21:40.98,0:21:42.15,Default,,0,0,0,,Mishima.
-Dialogue: 0,0:21:49.45,0:21:50.70,Default,,0,0,0,,I did it!
+Dialogue: 0,0:21:49.45,0:21:50.70,Default,,0,0,0,,Eu consegui!
 Dialogue: 0,0:21:51.16,0:21:52.70,Default,,0,0,0,,All on my own.{Just using my own power.}
 Dialogue: 0,0:21:53.20,0:21:54.70,Default,,0,0,0,,I defeated a Worm...
-Dialogue: 0,0:21:56.05,0:21:57.52,Default,,0,0,0,,I did it!
+Dialogue: 0,0:21:56.05,0:21:57.52,Default,,0,0,0,,Eu consegui!
 Dialogue: 0,0:21:57.93,0:22:00.26,Default,,0,0,0,,Alright! Did you see that, Worm?!
 Dialogue: 0,0:22:00.26,0:22:01.17,Default,,0,0,0,,Really...
 Dialogue: 0,0:22:02.63,0:22:04.05,Default,,0,0,0,,What an interesting fellow.

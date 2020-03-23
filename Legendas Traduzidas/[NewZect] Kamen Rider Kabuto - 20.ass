@@ -37,8 +37,8 @@ Dialogue: 0,0:00:03.98,0:00:05.31,Default,,0,0,120,,So it's you?
 Dialogue: 0,0:00:06.08,0:00:06.92,Default,,0,0,0,,Very well.
 Dialogue: 0,0:00:06.92,0:00:07.97,Belt,,0,0,0,,STANDBY
 Dialogue: 0,0:00:07.97,0:00:10.13,Default,,0,0,0,,I'll save you, so hurry and run.
-Dialogue: 0,0:00:17.43,0:00:18.41,Default,,0,0,0,,Transform!
-Dialogue: 0,0:00:18.41,0:00:19.37,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:00:17.43,0:00:18.41,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:00:18.41,0:00:19.37,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:00:22.16,0:00:24.46,Belt,,0,0,0,,CHANGE SCORPION
 Dialogue: 0,0:00:28.52,0:00:30.83,Default,,0,0,0,,All Worms are my prey!
 Dialogue: 0,0:00:32.36,0:00:35.57,Default,,0,0,0,,Do not interfere! There is no place for you!
@@ -269,15 +269,15 @@ Dialogue: 0,0:18:59.68,0:19:01.83,Default,,0,0,0,,That's why we put up this act.
 Dialogue: 0,0:19:01.83,0:19:03.31,Default,,0,0,0,,As the Phantom Thief Shadow!
 Dialogue: 0,0:19:05.28,0:19:07.19,Default,,0,0,0,,Hurry up and transform!
 Dialogue: 0,0:19:07.19,0:19:08.51,Default,,0,0,0,,Fight him!
-Dialogue: 0,0:19:13.16,0:19:14.09,Default,,0,0,0,,Transform!
-Dialogue: 0,0:19:14.09,0:19:14.96,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:13.16,0:19:14.09,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:19:14.09,0:19:14.96,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:19:37.15,0:19:37.91,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:19:37.91,0:19:39.28,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:19:41.70,0:19:43.70,Belt,,0,0,0,,CHANGE WASP
 Dialogue: 0,0:20:00.58,0:20:02.91,Default,,0,0,0,,You sure gave us a lot of trouble.
 Dialogue: 0,0:20:02.91,0:20:04.49,Default,,0,0,0,,This time you're not getting away.
-Dialogue: 0,0:20:07.42,0:20:08.31,Default,,0,0,0,,Transform.
-Dialogue: 0,0:20:08.65,0:20:10.06,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:20:07.42,0:20:08.31,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:20:08.65,0:20:10.06,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:20:11.56,0:20:12.64,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:20:12.64,0:20:14.35,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:20:15.59,0:20:16.84,Belt,,0,0,0,,CHANGE BEETLE
@@ -285,8 +285,8 @@ Dialogue: 0,0:20:16.84,0:20:17.37,Default,,0,0,0,,Clock Up.
 Dialogue: 0,0:20:17.37,0:20:18.81,Belt,,0,0,0,,CLOCK UP
 Dialogue: 0,0:20:36.09,0:20:37.62,Belt,,0,0,0,,CLOCK OVER
 Dialogue: 0,0:20:40.36,0:20:41.59,Belt,,0,0,0,,STANDBY
-Dialogue: 0,0:20:44.86,0:20:46.14,Default,,0,0,0,,Transform!
-Dialogue: 0,0:20:46.14,0:20:47.28,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:20:44.86,0:20:46.14,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:20:46.14,0:20:47.28,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:21:02.86,0:21:03.90,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:21:03.90,0:21:05.58,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:21:06.20,0:21:07.68,Default,,0,0,0,,Rider Slash!

@@ -33,8 +33,8 @@ Style: Sign,Calibri,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.00,0:00:01.98,Default,,0,0,120,,Transform!
-Dialogue: 0,0:00:01.98,0:00:03.14,Belt,,0,0,120,,TRANSFORM
+Dialogue: 0,0:00:01.00,0:00:01.98,Default,,0,0,120,,Henshin!
+Dialogue: 0,0:00:01.98,0:00:03.14,Belt,,0,0,120,,HENSHIN
 Dialogue: 0,0:00:04.65,0:00:07.65,Belt,,0,630,120,,CHANGE PUNCH HOPPER
 Dialogue: 0,0:00:04.65,0:00:07.65,Belt,,630,0,120,,CHANGE KICK HOPPER
 Dialogue: 0,0:00:18.89,0:00:19.77,Default,,0,0,0,,Tachikawa.
@@ -73,7 +73,7 @@ Dialogue: 0,0:03:30.78,0:03:32.24,Default,,0,0,0,,Stop, Tsurugi!
 Dialogue: 0,0:03:38.88,0:03:40.41,Default,,0,0,0,,So you are a Worm!
 Dialogue: 0,0:03:40.41,0:03:41.36,Default,,0,0,0,,Stop it!
 Dialogue: 0,0:03:41.36,0:03:43.66,Default,,0,0,0,,I can't do that even for my best friend!
-Dialogue: 0,0:03:48.33,0:03:49.32,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:03:48.33,0:03:49.32,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:03:59.36,0:04:00.90,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:04:01.84,0:04:03.39,Belt,,0,0,0,,CLOCK UP
 Dialogue: 0,0:04:26.18,0:04:28.99,Default,,0,0,0,,Yumeko, I'm sorry.
@@ -156,8 +156,8 @@ Dialogue: 0,0:09:33.99,0:09:36.06,Default,,0,0,0,,...one of you?
 Dialogue: 0,0:09:42.56,0:09:43.67,Default,,0,0,0,,I must...
 Dialogue: 0,0:09:44.86,0:09:50.23,Default,,0,0,0,,Tell you where Hiyori's location is.
 Dialogue: 0,0:09:53.49,0:09:54.95,Default,,0,0,0,,You know?
-Dialogue: 0,0:10:02.22,0:10:03.08,Default,,0,0,0,,Transform!
-Dialogue: 0,0:10:03.08,0:10:04.39,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:10:02.22,0:10:03.08,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:10:03.08,0:10:04.39,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:10:16.38,0:10:21.36,Default,,0,0,0,,I went through all the trouble coming\N here to get the Sasword Zecter back...{Even though I went to the trouble of\N coming to get the Sasword Zecter back...}
 Dialogue: 0,0:10:21.36,0:10:24.16,Default,,0,0,0,,Tendou, just where is that guy wasting time?
 Dialogue: 0,0:10:24.16,0:10:25.86,Default,,0,0,0,,I'm still preparing.
@@ -205,10 +205,10 @@ Dialogue: 0,0:13:58.88,0:14:00.07,Default,,0,0,0,,Who's there?
 Dialogue: 0,0:14:03.77,0:14:08.80,Default,,0,0,0,,No matter what... we're not \Nwalking on a path with sunlight.{Either way... we're not walking\N on a road with sunlight.}
 Dialogue: 0,0:14:09.67,0:14:13.36,Default,,0,0,0,,The sun is polluted!
 Dialogue: 0,0:14:14.04,0:14:15.86,Default,,0,0,0,,Kageyama...
-Dialogue: 0,0:14:26.19,0:14:26.92,Default,,0,0,0,,Transform!
-Dialogue: 0,0:14:26.92,0:14:28.01,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:14:29.43,0:14:30.17,Default,,0,0,0,,Transform.
-Dialogue: 0,0:14:30.17,0:14:31.22,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:14:26.19,0:14:26.92,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:14:26.92,0:14:28.01,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:14:29.43,0:14:30.17,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:14:30.17,0:14:31.22,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:14:33.91,0:14:36.43,Belt,First,0,630,0,,CHANGE KICK HOPPER
 Dialogue: 0,0:14:33.91,0:14:36.43,Belt,Second,630,0,0,,CHANGE PUNCH HOPPER
 Dialogue: 0,0:14:38.71,0:14:40.49,Default,,0,0,0,,Let's go, partner.
@@ -238,7 +238,7 @@ Dialogue: 0,0:18:05.97,0:18:07.56,Default,,0,0,0,,What's that?
 Dialogue: 0,0:18:10.53,0:18:14.84,Default,,0,0,0,,Talk later! First... Tachikawa...
 Dialogue: 0,0:18:14.84,0:18:17.08,Default,,0,0,0,,I must hear where Hiyori's location is from him!
 Dialogue: 0,0:18:44.00,0:18:45.46,Default,,0,0,0,,Tachikawa!
-Dialogue: 0,0:18:49.82,0:18:50.68,Default,,0,0,0,,Transform!
+Dialogue: 0,0:18:49.82,0:18:50.68,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:18:50.68,0:18:51.71,Default,,0,0,0,,Tachikawa!
 Dialogue: 0,0:18:58.86,0:18:59.87,Default,,0,0,0,,Hang on!
 Dialogue: 0,0:19:00.34,0:19:01.20,Default,,0,0,0,,Hey!
@@ -248,8 +248,8 @@ Dialogue: 0,0:19:06.76,0:19:08.09,Default,,0,0,0,,An eclipse...
 Dialogue: 0,0:19:08.74,0:19:10.18,Default,,0,0,0,,Hiyori is...
 Dialogue: 0,0:19:11.07,0:19:12.63,Default,,0,0,0,,...there.
 Dialogue: 0,0:19:18.34,0:19:20.63,Default,,0,0,0,,Hey! Hey!
-Dialogue: 0,0:19:48.42,0:19:49.50,Default,,0,0,0,,Transform.
-Dialogue: 0,0:19:49.50,0:19:50.50,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:48.42,0:19:49.50,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:19:49.50,0:19:50.50,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:19:54.63,0:19:55.21,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:19:55.21,0:19:56.63,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:19:57.24,0:19:58.00,Default,,0,0,0,,Rider Kick.

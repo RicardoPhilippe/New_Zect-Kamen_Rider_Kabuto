@@ -81,10 +81,10 @@ Dialogue: 0,0:04:41.90,0:04:43.06,Default,,0,0,0,,Talk!
 Dialogue: 0,0:04:43.06,0:04:46.04,Default,,0,0,0,,How did you come to this world \Nfrom the edge of time and space?!
 Dialogue: 0,0:04:46.04,0:04:47.67,Default,,0,0,0,,There's no need for you to know.
 Dialogue: 0,0:04:47.98,0:04:51.57,Default,,0,0,0,,Because... you'll be erased from this world.
-Dialogue: 0,0:04:53.03,0:04:54.35,Default,,0,0,0,,Transform.
-Dialogue: 0,0:04:55.24,0:04:56.55,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:04:53.03,0:04:54.35,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:04:55.24,0:04:56.55,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:05:00.76,0:05:03.47,Default,,0,0,0,,Then I'll force you to tell me.
-Dialogue: 0,0:05:04.70,0:05:05.70,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:05:04.70,0:05:05.70,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:05:10.34,0:05:11.23,Default,,0,0,0,,Kagami!
 Dialogue: 0,0:05:11.23,0:05:12.67,Default,,0,0,0,,Don't interfere!
 Dialogue: 0,0:05:22.42,0:05:24.38,Default,,0,0,0,,You can't beat me.
@@ -101,8 +101,8 @@ Dialogue: 0,0:06:20.36,0:06:21.40,Default,,0,0,0,,Tendou!
 Dialogue: 0,0:06:21.81,0:06:23.19,Default,,0,0,0,,Why didn't you attack?
 Dialogue: 0,0:06:23.19,0:06:25.88,Belt,,0,0,0,,ONE TWO THREE
 Dialogue: 0,0:06:25.88,0:06:26.74,Default,,0,0,0,,Disappear.
-Dialogue: 0,0:06:29.72,0:06:30.66,Default,,0,0,0,,Transform!
-Dialogue: 0,0:06:30.66,0:06:32.03,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:06:29.72,0:06:30.66,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:06:30.66,0:06:32.03,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:06:33.15,0:06:34.33,Default,,0,0,0,,Rider Kick!
 Dialogue: 0,0:06:37.84,0:06:38.65,Default,,0,0,0,,Tendou!
 Dialogue: 0,0:06:42.29,0:06:44.28,Default,,0,0,0,,Hey! Pull yourself together!
@@ -161,8 +161,8 @@ Dialogue: 0,0:10:39.06,0:10:40.97,Default,,0,0,0,,Someone who might amuse me a b
 Dialogue: 0,0:10:40.97,0:10:42.11,Default,,0,0,0,,Stay away!
 Dialogue: 0,0:10:42.53,0:10:44.73,Default,,0,0,0,,I will defeat all Worm!
 Dialogue: 0,0:10:44.73,0:10:45.84,Belt,,0,0,0,,STANDBY
-Dialogue: 0,0:10:46.62,0:10:47.68,Default,,0,0,0,,Transform.
-Dialogue: 0,0:10:47.68,0:10:48.46,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:10:46.62,0:10:47.68,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:10:47.68,0:10:48.46,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:10:52.91,0:10:55.19,Default,,0,0,0,,Then all Riders...
 Dialogue: 0,0:10:57.21,0:10:58.72,Default,,0,0,0,,...will be defeated by me.
 Dialogue: 0,0:11:11.96,0:11:14.40,Default,,0,0,0,,Sir! Are you okay?
@@ -223,9 +223,9 @@ Dialogue: 0,0:15:19.73,0:15:21.29,Default,,0,0,0,,Hiyori.
 Dialogue: 0,0:15:22.84,0:15:25.25,Default,,0,0,0,,No need to suffer anymore.
 Dialogue: 0,0:15:26.31,0:15:29.24,Default,,0,0,0,,Because I will erase him.
 Dialogue: 0,0:15:41.07,0:15:44.31,Default,,0,0,0,,What's with the serious look?
-Dialogue: 0,0:15:54.53,0:15:55.58,Default,,0,0,0,,Transform.
-Dialogue: 0,0:15:57.48,0:15:58.64,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:16:01.27,0:16:02.19,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:15:54.53,0:15:55.58,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:15:57.48,0:15:58.64,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:16:01.27,0:16:02.19,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:16:02.31,0:16:03.56,Default,,0,0,0,,What?!
 Dialogue: 0,0:16:03.56,0:16:05.92,Default,,0,0,0,,Tendou is going to lose to his mimic on purpose?
 Dialogue: 0,0:16:06.28,0:16:06.94,Default,,0,0,0,,Right.
@@ -262,8 +262,8 @@ Dialogue: 0,0:18:54.54,0:18:57.00,Default,,0,0,0,,You truly are an interesting f
 Dialogue: 0,0:19:03.80,0:19:05.54,Default,,0,0,0,,My grandmother once said...
 Dialogue: 0,0:19:07.15,0:19:09.11,Default,,0,0,0,,"I am the center of the world."
 Dialogue: 0,0:19:09.35,0:19:13.52,Default,,0,0,0,,"So... I will save the world!"
-Dialogue: 0,0:19:14.90,0:19:15.80,Default,,0,0,0,,Transform!
-Dialogue: 0,0:19:15.80,0:19:17.07,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:14.90,0:19:15.80,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:19:15.80,0:19:17.07,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:19:25.60,0:19:27.16,Default,,0,0,0,,I will defeat you.
 Dialogue: 0,0:19:28.17,0:19:29.63,Default,,0,0,0,,And save Hiyori.
 Dialogue: 0,0:19:30.21,0:19:30.85,Default,,0,0,0,,Cast Off!

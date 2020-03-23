@@ -111,8 +111,8 @@ Dialogue: 0,0:07:28.30,0:07:29.31,Default,,0,0,0,,Just now...
 Dialogue: 0,0:07:31.71,0:07:33.15,Default,,0,0,0,,You laughed at me, didn't you?
 Dialogue: 0,0:07:34.61,0:07:37.29,Default,,0,0,0,,Go... To...{\i0}
 Dialogue: 0,0:07:37.68,0:07:39.03,Default,,0,0,0,,Hell!{\i0}
-Dialogue: 0,0:07:48.16,0:07:50.36,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:07:53.88,0:07:54.72,Default,,0,0,0,,Transform!
+Dialogue: 0,0:07:48.16,0:07:50.36,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:07:53.88,0:07:54.72,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:08:06.55,0:08:07.02,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:08:07.02,0:08:08.44,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:08:08.80,0:08:10.05,Belt,,0,0,0,,CHANGE SCORPION
@@ -183,8 +183,8 @@ Dialogue: 0,0:14:50.37,0:14:54.10,Default,Italics,0,0,0,,{\i1}Misaki, when the h
 Dialogue: 0,0:14:54.76,0:14:55.71,Default,Italics,0,0,0,,{\i1}And you?{\i0}
 Dialogue: 0,0:14:56.41,0:14:58.70,Default,Italics,0,0,0,,{\i1}I'll stop him, somehow.{\i0}
 Dialogue: 0,0:15:11.63,0:15:13.93,Default,,0,0,0,,Tadokoro. Come.
-Dialogue: 0,0:15:23.33,0:15:24.23,Default,,0,0,0,,Transform!
-Dialogue: 0,0:15:24.23,0:15:25.21,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:15:23.33,0:15:24.23,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:15:24.23,0:15:25.21,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:15:25.26,0:15:28.35,Default,,0,0,0,,I knew it.
 Dialogue: 0,0:15:29.28,0:15:30.40,Belt,,0,0,0,,RIDER CUTTING
 Dialogue: 0,0:15:33.82,0:15:35.67,Default,,0,0,0,,Deceitful humans.
@@ -199,7 +199,7 @@ Dialogue: 0,0:17:08.94,0:17:11.26,Default,,0,0,0,,I just came to get tofu.
 Dialogue: 0,0:17:13.60,0:17:15.30,Default,,0,0,0,,How funny.
 Dialogue: 0,0:17:15.64,0:17:17.88,Default,,0,0,0,,Coming all this way just to lose?
 Dialogue: 0,0:17:18.27,0:17:20.69,Default,,0,0,0,,Although, I owe a debt to you as well.
-Dialogue: 0,0:17:48.02,0:17:48.92,Default,,0,0,0,,Transform!
+Dialogue: 0,0:17:48.02,0:17:48.92,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:17:48.92,0:17:49.56,Default,,0,0,0,,Hurry!
 Dialogue: 0,0:17:49.56,0:17:50.08,Default,,0,0,0,,Misaki!
 Dialogue: 0,0:17:50.55,0:17:51.35,Default,,0,0,0,,Get on!

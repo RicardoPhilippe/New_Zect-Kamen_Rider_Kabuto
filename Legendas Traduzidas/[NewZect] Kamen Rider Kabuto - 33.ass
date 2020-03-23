@@ -216,15 +216,15 @@ Dialogue: 0,0:13:58.58,0:14:01.20,Default,,0,0,0,,Hand over TheBee Zecter. Right
 Dialogue: 0,0:14:01.61,0:14:02.63,Default,,0,0,0,,What?!
 Dialogue: 0,0:14:07.13,0:14:08.92,Default,,0,0,0,,I'll never give this up!
 Dialogue: 0,0:14:09.78,0:14:12.08,Default,,0,0,0,,Then I'll take it using force.
-Dialogue: 0,0:14:13.23,0:14:14.04,Default,,0,0,0,,Transform.
-Dialogue: 0,0:14:14.04,0:14:15.07,Default,,0,0,0,,Transform!
-Dialogue: 0,0:14:15.95,0:14:17.31,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:14:13.23,0:14:14.04,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:14:14.04,0:14:15.07,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:14:15.95,0:14:17.31,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:14:20.06,0:14:22.06,Default,,0,0,0,,TheBee Zecter is as important as my life!
 Dialogue: 0,0:14:22.06,0:14:23.62,Default,,0,0,0,,Why would I give it to someone like you?!
 Dialogue: 0,0:14:32.62,0:14:33.85,Default,,0,0,0,,Stop it...
 Dialogue: 0,0:14:34.49,0:14:35.54,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:14:35.76,0:14:36.64,Default,,0,0,0,,Transform!
-Dialogue: 0,0:14:36.64,0:14:37.59,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:14:35.76,0:14:36.64,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:14:36.64,0:14:37.59,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:14:52.57,0:14:53.45,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:14:53.45,0:14:54.12,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:14:54.12,0:14:55.70,Belt,,0,0,0,,CAST OFF
@@ -290,8 +290,8 @@ Dialogue: 0,0:20:34.23,0:20:35.93,Default,,0,0,0,,What happened to your Perfect 
 Dialogue: 0,0:20:35.93,0:20:36.98,Default,,0,0,0,,Now...
 Dialogue: 0,0:20:37.88,0:20:40.30,Default,,0,0,0,,I no longer have Perfect Harmony.
 Dialogue: 0,0:20:47.17,0:20:49.20,Default,,0,0,0,,Either way, a loser like me...
-Dialogue: 0,0:20:53.90,0:20:54.86,Default,,0,0,0,,Transform.
-Dialogue: 0,0:20:55.34,0:20:56.56,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:20:53.90,0:20:54.86,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:20:55.34,0:20:56.56,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:21:00.86,0:21:03.62,Belt,,0,0,0,,CHANGE KICK HOPPER
 Dialogue: 0,0:21:12.95,0:21:15.94,Default,,0,0,0,,Now, who was it I heard laughing at me?{Right now, who was laughing at me?}
 Dialogue: 0,0:21:20.36,0:21:21.51,Default,,0,0,0,,Was it you?

@@ -231,8 +231,8 @@ Dialogue: 0,0:18:08.38,0:18:12.67,Default,Italics,0,0,0,,This chain of Worms are
 Dialogue: 0,0:18:13.54,0:18:14.99,Default,Italics,0,0,0,,That stone...
 Dialogue: 0,0:18:15.58,0:18:17.07,Default,Italics,0,0,0,,Hiyori is in danger!
 Dialogue: 0,0:18:46.93,0:18:49.57,Default,Italics,0,0,0,,Hurry up and run! I'll defeat him!
-Dialogue: 0,0:19:01.78,0:19:02.78,Default,Italics,0,0,0,,Transform!
-Dialogue: 0,0:19:02.78,0:19:04.00,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:01.78,0:19:02.78,Default,Italics,0,0,0,,Henshin!
+Dialogue: 0,0:19:02.78,0:19:04.00,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:19:29.58,0:19:30.60,Default,Italics,0,0,0,,Cast Off!
 Dialogue: 0,0:19:31.27,0:19:33.06,Belt,Italics,0,0,0,,CAST OFF
 Dialogue: 0,0:19:36.01,0:19:38.86,Belt,Italics,0,0,0,,CHANGE STAG BEETLE
@@ -252,11 +252,11 @@ Dialogue: 0,0:21:49.20,0:21:50.69,Default,Italics,0,0,0,,This stone is...
 Dialogue: 0,0:22:03.10,0:22:04.65,Default,Italics,0,0,0,,Sympathy...
 Dialogue: 0,0:22:04.95,0:22:06.63,Default,Italics,0,0,0,,...the greatest insult!
 Dialogue: 0,0:22:06.90,0:22:08.15,Belt,Italics,0,0,0,,STANDBY
-Dialogue: 0,0:22:11.04,0:22:12.56,Default,Italics,0,0,0,,Transform!
-Dialogue: 0,0:22:12.56,0:22:13.80,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:22:11.04,0:22:12.56,Default,Italics,0,0,0,,Henshin!
+Dialogue: 0,0:22:12.56,0:22:13.80,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:22:16.06,0:22:17.88,Default,Italics,0,0,0,,What a troublesome fellow.
-Dialogue: 0,0:22:18.97,0:22:19.77,Default,Italics,0,0,0,,Transform.
-Dialogue: 0,0:22:20.00,0:22:21.23,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:22:18.97,0:22:19.77,Default,Italics,0,0,0,,Henshin.
+Dialogue: 0,0:22:20.00,0:22:21.23,Belt,Italics,0,0,0,,HENSHIN
 Comment: 0,0:01:55.05,0:01:57.09,Show Song font KABUTO,,0,0,0,,Next Level - Opening
 Comment: 0,0:02:05.62,0:02:11.49,Show Song font KABUTO,,0,0,0,,{\blur1\pos(30,63.667)}Kimi ga negau koto nara subete genjitsu ni naru n' darou
 Dialogue: 0,0:02:05.48,0:02:05.60,Show Song Font english KABUTO,,0,0,0,,{\fad(150,0)\move(19.333,21,31.066,21,21,104)}All your wishes may come true...

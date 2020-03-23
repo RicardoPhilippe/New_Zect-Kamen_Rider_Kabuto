@@ -74,8 +74,8 @@ Dialogue: 0,0:05:30.28,0:05:33.89,Default,,0,0,0,,The national tournaments would
 Dialogue: 0,0:05:34.25,0:05:35.74,Default,,0,0,0,,Leave it to me.
 Dialogue: 0,0:06:01.11,0:06:05.55,Default,Italics,0,0,0,,{\i1}I won't rely on that charm anymore. \NI'll just work harder tomorrow.{\i0}
 Dialogue: 0,0:06:12.45,0:06:13.72,Default,,0,0,0,,You again?
-Dialogue: 0,0:06:17.58,0:06:18.48,Default,,0,0,0,,Transform!
-Dialogue: 0,0:06:18.48,0:06:19.23,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:06:17.58,0:06:18.48,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:06:18.48,0:06:19.23,Belt,,0,0,0,,HENSHIN
 Comment: 0,0:06:22.15,0:06:25.36,Default,Sign,200,0,530,,Seika Academy
 Dialogue: 0,0:06:22.15,0:06:25.35,Default,,0,0,0,,Each of you report on your findings.
 Dialogue: 0,0:06:25.82,0:06:28.38,Default,,0,0,0,,First, about the missing choir club.
@@ -204,24 +204,24 @@ Dialogue: 0,0:16:35.05,0:16:38.37,Default,,0,0,0,,I'm going ghost-hunting{I'm go
 Dialogue: 0,0:16:38.37,0:16:39.15,Default,,0,0,0,,Okay.
 Dialogue: 0,0:16:41.53,0:16:42.66,Default,,0,0,0,,Sir.{Mister.}
 Dialogue: 0,0:16:59.46,0:17:00.84,Default,,0,0,0,,You're fighting me.
-Dialogue: 0,0:17:04.24,0:17:05.00,Default,,0,0,0,,Transform!
-Dialogue: 0,0:17:05.00,0:17:06.54,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:04.24,0:17:05.00,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:17:05.00,0:17:06.54,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:17:17.44,0:17:19.84,Default,,0,0,0,,Broken brother.
 Dialogue: 0,0:17:24.69,0:17:27.39,Default,,0,0,0,,Brother, you should join us.
 Dialogue: 0,0:17:27.89,0:17:30.28,Default,,0,0,0,,Then we can do our best tomorrow.
 Dialogue: 0,0:17:32.10,0:17:34.07,Default,,0,0,0,,I'm jealous, Partner.
 Dialogue: 0,0:17:35.70,0:17:36.81,Default,,0,0,0,,Bro.
 Dialogue: 0,0:17:38.53,0:17:42.51,Default,,0,0,0,,I want to be cheered up too.
-Dialogue: 0,0:17:54.60,0:17:55.52,Default,,0,0,0,,Transform!
+Dialogue: 0,0:17:54.60,0:17:55.52,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:17:56.80,0:17:57.94,Default,,0,0,0,,Transform...
-Dialogue: 0,0:17:57.94,0:18:00.10,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:57.94,0:18:00.10,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:18:02.56,0:18:05.62,Belt,Left side,0,630,0,,CHANGE PUNCH HOPPER
 Dialogue: 0,0:18:02.56,0:18:05.62,Belt,Left side,630,0,0,,CHANGE KICK HOPPER
 Dialogue: 0,0:18:14.01,0:18:17.06,Default,,0,0,0,,My friend, Kagamin!
 Dialogue: 0,0:18:18.57,0:18:22.44,Default,,0,0,0,,I am the man who stands on the top of camping!
 Dialogue: 0,0:18:22.44,0:18:23.54,Belt,,0,0,0,,STANDBY
-Dialogue: 0,0:18:25.86,0:18:26.95,Default,,0,0,0,,Transform!
-Dialogue: 0,0:18:27.36,0:18:28.25,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:18:25.86,0:18:26.95,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:18:27.36,0:18:28.25,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:18:48.06,0:18:49.39,Belt,,0,0,0,,RIDER JUMP
 Dialogue: 0,0:18:51.37,0:18:52.98,Belt,,0,0,0,,RIDER JUMP
 Dialogue: 0,0:18:55.76,0:18:57.28,Belt,,0,0,0,,RIDER PUNCH

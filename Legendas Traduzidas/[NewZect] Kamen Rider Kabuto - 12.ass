@@ -44,8 +44,8 @@ Dialogue: 0,0:00:21.23,0:00:23.12,Default,,0,0,0,,So, what is that supposed to m
 Dialogue: 0,0:00:32.12,0:00:33.15,Default,,0,0,0,,Daisuke!
 Dialogue: 0,0:00:35.92,0:00:37.39,Default,,0,0,0,,Him again?
 Dialogue: 0,0:00:39.46,0:00:40.75,Default,,0,0,0,,No choice...
-Dialogue: 0,0:00:48.92,0:00:49.65,Default,,0,0,0,,Transform!
-Dialogue: 0,0:00:49.65,0:00:50.67,Belt,Drake,0,0,0,,TRANSFORM
+Dialogue: 0,0:00:48.92,0:00:49.65,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:00:49.65,0:00:50.67,Belt,Drake,0,0,0,,HENSHIN
 Dialogue: 0,0:00:59.26,0:00:59.98,Default,,0,0,0,,Gon.
 Dialogue: 0,0:03:12.05,0:03:14.04,Default,,0,0,0,,Who... are you?
 Dialogue: 0,0:03:14.34,0:03:17.26,Default,,0,0,0,,I can't believe you are also a chosen one.
@@ -296,10 +296,10 @@ Dialogue: 0,0:18:30.62,0:18:32.72,Default,,0,0,0,,...you cannot copy one's smell
 Dialogue: 0,0:18:40.26,0:18:41.52,Default,,0,0,0,,It can't be...
 Dialogue: 0,0:18:42.28,0:18:43.52,Default,,0,0,0,,Hurry and go.
 Dialogue: 0,0:18:44.60,0:18:45.52,Default,,0,0,0,,Gon!
-Dialogue: 0,0:19:01.22,0:19:01.76,Default,,0,0,0,,Transform.
-Dialogue: 0,0:19:01.76,0:19:02.57,Default,,0,0,0,,Transform!
-Dialogue: 0,0:19:02.57,0:19:03.17,Belt,Kabuto,0,0,0,,TRANSFORM
-Dialogue: 0,0:19:03.17,0:19:04.09,Belt,Drake,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:01.22,0:19:01.76,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:19:01.76,0:19:02.57,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:19:02.57,0:19:03.17,Belt,Kabuto,0,0,0,,HENSHIN
+Dialogue: 0,0:19:03.17,0:19:04.09,Belt,Drake,0,0,0,,HENSHIN
 Dialogue: 0,0:19:20.82,0:19:21.76,Default,,0,0,0,,Tendou!
 Dialogue: 0,0:19:24.01,0:19:25.20,Default,,0,0,0,,Kagami!
 Dialogue: 0,0:19:25.88,0:19:28.17,Default,,0,0,0,,Don't use "friendship" as an \Nexcuse to depend on me.

@@ -207,15 +207,15 @@ Dialogue: 0,0:12:38.21,0:12:40.34,Default,,0,0,0,,You need to die.
 Dialogue: 0,0:12:46.26,0:12:48.80,Default,,0,0,0,,Please run. I was told to protect you.
 Dialogue: 0,0:12:48.80,0:12:50.29,Default,,0,0,0,,Thank you, Kagami Arata.
 Dialogue: 0,0:12:50.29,0:12:51.33,Default,,0,0,0,,Why do you know my name?
-Dialogue: 0,0:12:56.92,0:12:57.63,Default,,0,0,0,,Transform!
-Dialogue: 0,0:12:57.63,0:12:58.50,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:12:56.92,0:12:57.63,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:12:57.63,0:12:58.50,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:13:19.97,0:13:21.52,Default,,0,0,0,,He's a Worm?!
 Dialogue: 0,0:13:30.77,0:13:33.08,Default,,0,0,0,,Why is a Worm being attacked by Worms?
 Dialogue: 0,0:13:36.03,0:13:37.12,Default,,0,0,0,,Please help me.
 Dialogue: 0,0:13:37.12,0:13:38.03,Default,,0,0,0,,You...
 Dialogue: 0,0:13:38.17,0:13:40.36,Default,,0,0,0,,...you're asking me to save a Worm?
 Dialogue: 0,0:13:40.36,0:13:41.81,Default,,0,0,0,,If you won't help me...
-Dialogue: 0,0:13:49.14,0:13:50.17,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:13:49.14,0:13:50.17,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:13:56.22,0:13:57.69,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:14:02.98,0:14:06.63,Default,,0,0,0,,So you've become a fool that no one will deal with.
 Dialogue: 0,0:14:07.52,0:14:08.96,Default,,0,0,0,,Kageyama Shun.
@@ -254,8 +254,8 @@ Dialogue: 0,0:17:18.42,0:17:19.92,Default,,0,0,0,,Yaguruma.
 Dialogue: 0,0:17:34.92,0:17:35.99,Default,,0,0,0,,Kageyama.
 Dialogue: 0,0:17:37.92,0:17:38.91,Default,,0,0,0,,Smile.
 Dialogue: 0,0:17:39.53,0:17:41.02,Default,,0,0,0,,Smile!
-Dialogue: 0,0:17:49.19,0:17:50.38,Default,,0,0,0,,Transform.
-Dialogue: 0,0:17:50.64,0:17:51.99,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:17:49.19,0:17:50.38,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:17:50.64,0:17:51.99,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:17:55.66,0:17:58.23,Belt,,0,0,0,,CHANGE KICK HOPPER
 Dialogue: 0,0:18:01.74,0:18:03.18,Belt,,0,0,0,,RIDER JUMP
 Dialogue: 0,0:18:03.81,0:18:05.87,Belt,,0,0,0,,RIDER KICK
@@ -273,8 +273,8 @@ Dialogue: 0,0:19:00.06,0:19:02.50,Default,,0,0,0,,...we Natives will be in troub
 Dialogue: 0,0:19:03.02,0:19:04.12,Default,,0,0,0,,Natives?
 Dialogue: 0,0:19:04.25,0:19:07.79,Default,,0,0,0,,Yes... the one important to you too...
 Dialogue: 0,0:19:27.64,0:19:28.70,Default,,0,0,0,,He's...!
-Dialogue: 0,0:19:29.86,0:19:30.35,Default,,0,0,0,,Transform!
-Dialogue: 0,0:19:30.35,0:19:31.32,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:19:29.86,0:19:30.35,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:19:30.35,0:19:31.32,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:19:38.62,0:19:42.07,Default,,0,0,0,,The "important person" you mention, \Ndo you mean Hiyori?!
 Dialogue: 0,0:19:47.32,0:19:50.12,Default,,0,0,0,,You know something about Hiyori, don't you?!
 Dialogue: 0,0:20:02.25,0:20:03.11,Default,,0,0,0,,Renge!
@@ -308,10 +308,10 @@ Dialogue: 0,0:22:34.07,0:22:38.81,Default,,0,0,0,,You're the only one who would 
 Dialogue: 0,0:22:41.25,0:22:42.83,Default,,0,0,0,,Let's walk together.
 Dialogue: 0,0:22:44.22,0:22:45.64,Default,,0,0,0,,With no goal in sight...
 Dialogue: 0,0:22:46.60,0:22:48.63,Default,,0,0,0,,...let's tread in the darkness.
-Dialogue: 0,0:22:57.24,0:22:58.27,Default,,0,0,0,,Transform!
-Comment: 0,0:22:57.24,0:22:58.27,Default,,0,0,0,,Transform!
-Dialogue: 0,0:22:58.27,0:22:59.44,Belt,,0,0,0,,TRANSFORM
-Comment: 0,0:22:58.27,0:22:59.44,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:22:57.24,0:22:58.27,Default,,0,0,0,,Henshin!
+Comment: 0,0:22:57.24,0:22:58.27,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:22:58.27,0:22:59.44,Belt,,0,0,0,,HENSHIN
+Comment: 0,0:22:58.27,0:22:59.44,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:23:01.18,0:23:03.94,Belt,,0,630,0,,CHANGE PUNCH HOPPER
 Dialogue: 0,0:23:01.18,0:23:03.94,Belt,,630,0,0,,CHANGE KICK HOPPER
 Comment: 0,0:02:05.02,0:02:07.06,Show Song font KABUTO,,0,0,0,,Next Level - Opening

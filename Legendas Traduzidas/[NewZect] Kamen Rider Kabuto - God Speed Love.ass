@@ -94,18 +94,18 @@ Dialogue: 0,0:06:55.08,0:07:01.45,Default,,0,0,0,,What we Neo-ZECT hate the most
 Dialogue: 0,0:07:07.61,0:07:09.32,Default,,0,0,0,,Then by my hands...
 Dialogue: 0,0:07:10.84,0:07:14.66,Default,,0,0,0,,...I will smash your rotten guts.
 Dialogue: 0,0:07:15.09,0:07:19.41,Default,,0,0,0,,That's what you should have \Nsaid in the first place, ZECT dog.
-Dialogue: 0,0:07:31.82,0:07:32.70,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:33.09,0:07:34.28,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:07:31.82,0:07:32.70,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:33.09,0:07:34.28,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:07:36.42,0:07:38.68,Belt,,0,0,0,,CHANGE BEETLE
-Dialogue: 0,0:07:44.36,0:07:45.44,Default,,0,0,0,,Transform.
-Dialogue: 0,0:07:45.98,0:07:47.15,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:07:44.36,0:07:45.44,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:07:45.98,0:07:47.15,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:07:51.10,0:07:53.41,Belt,,0,0,0,,CHANGE BEETLE
-Dialogue: 0,0:07:53.41,0:07:54.25,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:54.25,0:07:55.16,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:07:58.52,0:07:59.50,Default,,0,0,0,,Transform!
-Dialogue: 0,0:07:59.50,0:08:00.50,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:08:06.50,0:08:06.96,Default,,0,0,0,,Transform!
-Dialogue: 0,0:08:07.53,0:08:08.88,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:07:53.41,0:07:54.25,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:54.25,0:07:55.16,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:07:58.52,0:07:59.50,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:07:59.50,0:08:00.50,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:08:06.50,0:08:06.96,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:08:07.53,0:08:08.88,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:08:24.69,0:08:25.31,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:08:25.31,0:08:26.36,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:08:26.36,0:08:27.12,Default,,0,0,0,,Cast Off!
@@ -118,7 +118,7 @@ Dialogue: 0,0:09:26.60,0:09:30.69,Default,,0,0,0,,"I am, the man who walks the p
 Dialogue: 0,0:09:31.17,0:09:33.30,Default,,0,0,0,,"...the man who will rule over everything"
 Dialogue: 0,0:09:36.77,0:09:39.29,Default,,0,0,0,,Tendou... Souji.
 Dialogue: 0,0:09:44.53,0:09:46.80,Default,,0,0,0,,Transform...
-Dialogue: 0,0:09:50.77,0:09:51.78,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:09:50.77,0:09:51.78,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:09:55.99,0:09:57.66,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:09:58.07,0:09:59.42,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:10:01.09,0:10:02.91,Belt,,0,0,0,,CHANGE BEETLE
@@ -262,8 +262,8 @@ Dialogue: 0,0:23:08.77,0:23:09.96,Default,,0,0,0,,Arata!
 Dialogue: 0,0:23:11.21,0:23:12.96,Default,,0,0,0,,Run! Hurry!
 Dialogue: 0,0:23:13.73,0:23:14.72,Default,,0,0,0,,But...
 Dialogue: 0,0:23:14.72,0:23:15.65,Default,,0,0,0,,Hurry!
-Dialogue: 0,0:23:24.09,0:23:24.84,Default,,0,0,0,,Transform!
-Dialogue: 0,0:23:25.04,0:23:26.05,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:23:24.09,0:23:24.84,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:23:25.04,0:23:26.05,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:23:34.65,0:23:35.56,Default,,0,0,0,,Cast Off!
 Dialogue: 0,0:23:51.91,0:23:53.25,Default,,0,0,0,,Rider Kick!
 Dialogue: 0,0:23:53.25,0:23:54.78,Belt,,0,0,0,,RIDER KICK
@@ -391,8 +391,8 @@ Dialogue: 0,0:36:10.70,0:36:11.97,Default,italics,0,0,0,,Women are flowers.
 Dialogue: 0,0:36:12.86,0:36:17.53,Default,italics,0,0,0,,If it were up to me, I would not \Nbring a flower to the battlefield.
 Dialogue: 0,0:36:18.96,0:36:23.89,Default,italics,0,0,0,,When this project is over, \Ncan you do my make up?
 Dialogue: 0,0:36:25.24,0:36:26.58,Default,italics,0,0,0,,Be glad too.
-Dialogue: 0,0:36:30.70,0:36:31.34,Default,italics,0,0,0,,Transform!
-Dialogue: 0,0:36:31.34,0:36:32.20,Belt,italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:36:30.70,0:36:31.34,Default,italics,0,0,0,,Henshin!
+Dialogue: 0,0:36:31.34,0:36:32.20,Belt,italics,0,0,0,,HENSHIN
 Dialogue: 0,0:36:34.56,0:36:35.49,Default,italics,0,0,0,,I'm going on ahead.
 Dialogue: 0,0:36:46.77,0:36:47.98,Default,italics,0,0,0,,It's begun.
 Dialogue: 0,0:36:50.25,0:36:51.38,Default,italics,0,0,0,,We're going too.
@@ -420,10 +420,10 @@ Dialogue: 0,0:39:48.92,0:39:51.82,Default,italics,0,0,0,,I control the land. You
 Dialogue: 0,0:39:52.16,0:39:53.33,Default,italics,0,0,0,,Interesting!
 Dialogue: 0,0:39:56.33,0:39:57.96,Default,italics,0,0,0,,Your opponent is me!
 Dialogue: 0,0:39:58.10,0:39:59.72,Default,italics,0,0,0,,Fire!
-Dialogue: 0,0:40:07.24,0:40:08.26,Belt,italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:40:07.24,0:40:08.26,Belt,italics,0,0,0,,HENSHIN
 Dialogue: 0,0:40:16.53,0:40:18.38,Default,italics,0,0,0,,Your opponent is me.
-Dialogue: 0,0:40:18.82,0:40:20.14,Default,italics,0,0,0,,Transform.
-Dialogue: 0,0:40:20.14,0:40:21.18,Belt,italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:40:18.82,0:40:20.14,Default,italics,0,0,0,,Henshin.
+Dialogue: 0,0:40:20.14,0:40:21.18,Belt,italics,0,0,0,,HENSHIN
 Dialogue: 0,0:40:24.26,0:40:24.98,Default,italics,0,0,0,,Come.
 Dialogue: 0,0:40:44.38,0:40:45.65,Default,italics,0,0,0,,Mom...
 Dialogue: 0,0:40:47.34,0:40:51.16,Default,italics,0,0,0,,I'm able to have a new family.
@@ -445,10 +445,10 @@ Dialogue: 0,0:42:24.14,0:42:26.81,Default,italics,0,0,0,,There's always a hidden
 Dialogue: 0,0:42:27.09,0:42:28.90,Default,italics,0,0,0,,I have come to crush that.
 Dialogue: 0,0:42:31.01,0:42:34.37,Default,italics,0,0,0,,Kagami... you go on ahead.
 Dialogue: 0,0:42:35.93,0:42:38.61,Default,italics,0,0,0,,I'll get rid of this maggot.
-Dialogue: 0,0:43:04.85,0:43:05.31,Default,italics,0,0,0,,Transform!
-Dialogue: 0,0:43:05.31,0:43:06.31,Belt,italics,0,0,0,,TRANSFORM
-Dialogue: 0,0:43:06.31,0:43:07.18,Default,italics,0,0,0,,Transform!
-Dialogue: 0,0:43:07.18,0:43:08.31,Belt,italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:43:04.85,0:43:05.31,Default,italics,0,0,0,,Henshin!
+Dialogue: 0,0:43:05.31,0:43:06.31,Belt,italics,0,0,0,,HENSHIN
+Dialogue: 0,0:43:06.31,0:43:07.18,Default,italics,0,0,0,,Henshin!
+Dialogue: 0,0:43:07.18,0:43:08.31,Belt,italics,0,0,0,,HENSHIN
 Dialogue: 0,0:43:24.84,0:43:27.70,Default,top,0,0,0,,Computer. The first floor is locked.
 Dialogue: 0,0:43:29.10,0:43:31.01,Default,top,0,0,0,,Preparing to create a hole.
 Dialogue: 0,0:43:31.56,0:43:33.14,Default - Up,,0,0,0,,{\i1}Okay, I've got it.{\i0}
@@ -575,12 +575,12 @@ Dialogue: 0,1:02:43.22,1:02:45.12,Default - Up,TOp,0,0,0,,{\i1}Ignition and lift
 Dialogue: 0,1:02:43.53,1:02:44.40,Default,,0,0,0,,Lift off.
 Dialogue: 0,1:03:21.73,1:03:24.36,Default,,0,0,0,,Add to the color of my rose.
 Dialogue: 0,1:03:24.80,1:03:28.58,Default,,0,0,0,,The red blood of a traitor \Nand your tears of humiliation.
-Dialogue: 0,1:03:28.89,1:03:29.82,Default,,0,0,0,,Transform.
-Dialogue: 0,1:03:30.10,1:03:31.07,Default,,0,0,0,,Transform!
-Dialogue: 0,1:03:34.77,1:03:35.66,Default,,0,0,0,,Transform!
-Dialogue: 0,1:03:35.95,1:03:37.41,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,1:03:28.89,1:03:29.82,Default,,0,0,0,,Henshin.
+Dialogue: 0,1:03:30.10,1:03:31.07,Default,,0,0,0,,Henshin!
+Dialogue: 0,1:03:34.77,1:03:35.66,Default,,0,0,0,,Henshin!
+Dialogue: 0,1:03:35.95,1:03:37.41,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,1:03:38.29,1:03:40.54,Belt,,0,0,0,,CHANGE BEETLE
-Dialogue: 0,1:03:40.54,1:03:41.68,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,1:03:40.54,1:03:41.68,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,1:03:42.92,1:03:45.56,Belt,,0,600,0,,CHANGE STAG BEETLE
 Dialogue: 0,1:03:42.92,1:03:45.56,Belt,,600,0,0,,CHANGE BEETLE
 Dialogue: 0,1:03:47.72,1:03:48.17,Default,,0,0,0,,Clock Up.

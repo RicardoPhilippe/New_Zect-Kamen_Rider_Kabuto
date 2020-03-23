@@ -34,7 +34,7 @@ Style: Sign,Calibri,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.27,0:00:05.96,Belt,,0,0,120,,MAXIMUM HYPER CYCLONE
-Dialogue: 0,0:00:24.66,0:00:25.75,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:00:24.66,0:00:25.75,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:00:29.37,0:00:31.20,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:01:05.93,0:01:07.69,Default,,0,0,0,,I will destroy...
 Dialogue: 0,0:01:08.62,0:01:10.27,Default,,0,0,0,,...this world.
@@ -44,8 +44,8 @@ Dialogue: 0,0:01:21.45,0:01:23.51,Default,,0,0,0,,Because you hate everything.
 Dialogue: 0,0:01:25.50,0:01:26.77,Default,,0,0,0,,Come with us.
 Dialogue: 0,0:01:27.09,0:01:29.19,Default,,0,0,0,,Their defeat is near.
 Dialogue: 0,0:01:29.77,0:01:34.19,Default,,0,0,0,,If we keep attacking indiscriminately,\N the humans will end up being destroyed.
-Dialogue: 0,0:01:38.31,0:01:39.12,Belt,,0,0,0,,TRANSFORM
-Dialogue: 0,0:03:05.24,0:03:06.72,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:01:38.31,0:01:39.12,Belt,,0,0,0,,HENSHIN
+Dialogue: 0,0:03:05.24,0:03:06.72,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:03:18.16,0:03:21.97,Default,,0,0,0,,You are the same as a newborn child.
 Dialogue: 0,0:03:22.72,0:03:25.39,Default,,0,0,0,,Someday you will need our power.
 Dialogue: 0,0:03:35.50,0:03:36.23,Default,,0,0,0,,Hiyori!
@@ -85,8 +85,8 @@ Dialogue: 0,0:06:19.17,0:06:22.48,Default,,0,0,0,,Young Master! Young Master!
 Dialogue: 0,0:06:23.06,0:06:24.95,Default,,0,0,0,,What a terrible sight!
 Dialogue: 0,0:06:25.27,0:06:26.95,Default,,0,0,0,,How terrible!
 Dialogue: 0,0:06:28.08,0:06:29.75,Default,,0,0,0,,How terrible!
-Dialogue: 0,0:06:46.36,0:06:47.34,Default,,0,0,0,,Transform!
-Dialogue: 0,0:06:47.34,0:06:48.42,Belt,,0,0,0,,TRANSFORM
+Dialogue: 0,0:06:46.36,0:06:47.34,Default,,0,0,0,,Henshin!
+Dialogue: 0,0:06:47.34,0:06:48.42,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:07:02.15,0:07:03.65,Default,,0,0,0,,Mr. Negishi.
 Dialogue: 0,0:07:05.91,0:07:09.15,Default,,0,0,0,,Oh, I'm sorry. I arrived early.
 Dialogue: 0,0:07:09.15,0:07:10.77,Default,,0,0,0,,Am I causing a problem?
@@ -109,7 +109,7 @@ Dialogue: 0,0:08:30.81,0:08:33.22,Default,,0,0,0,,Just what I'd expect from Mr. 
 Dialogue: 0,0:08:34.34,0:08:36.34,Default,,0,0,0,,Is it okay if I become your fan?
 Dialogue: 0,0:08:36.98,0:08:38.69,Default,,0,0,0,,Do whatever you want.
 Dialogue: 0,0:08:41.29,0:08:44.85,Default,,0,0,0,,Worms have appeared in Area E2. Tendou, hurry!
-Dialogue: 0,0:08:52.15,0:08:53.01,Default,,0,0,0,,Transform.
+Dialogue: 0,0:08:52.15,0:08:53.01,Default,,0,0,0,,Henshin.
 Dialogue: 0,0:08:54.02,0:08:57.52,Default,,0,0,0,,Area B1, Area D8, Worms have appeared!
 Dialogue: 0,0:08:57.52,0:08:58.39,Default,,0,0,0,,It can't be!
 Dialogue: 0,0:08:59.91,0:09:02.48,Default,,0,0,0,,One after another!
@@ -178,8 +178,8 @@ Dialogue: 0,0:13:30.40,0:13:34.23,Default,Italics,0,0,0,,We are an organization 
 Dialogue: 0,0:13:34.23,0:13:39.54,Default,Italics,0,0,0,,Rejoice, Misakinu. Now your safety is insured.
 Dialogue: 0,0:14:14.50,0:14:17.59,Default,Italics,0,0,0,,No! Can't read the enemy movement at all.
 Dialogue: 0,0:14:32.34,0:14:35.56,Default,Italics,0,0,0,,Everyone in formation A. Protect Misakinu!
-Dialogue: 0,0:14:35.56,0:14:36.35,Default,Italics,0,0,0,,Transform!
-Dialogue: 0,0:14:36.35,0:14:37.47,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:14:35.56,0:14:36.35,Default,Italics,0,0,0,,Henshin!
+Dialogue: 0,0:14:36.35,0:14:37.47,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:14:40.26,0:14:41.46,Default,Italics,0,0,0,,Make some room!
 Dialogue: 0,0:14:52.21,0:14:53.86,Default,Italics,0,0,0,,Mission complete.
 Dialogue: 0,0:14:56.93,0:14:59.44,Default,Italics,0,0,0,,You're not hurt are you, Misakinu?
@@ -243,14 +243,14 @@ Dialogue: 0,0:20:26.66,0:20:33.49,Default,Italics,0,0,0,,{\i1}Just wait, Misakin
 Dialogue: 0,0:20:46.23,0:20:49.91,Default,Italics,0,0,0,,You seem well despite all \Nthose wounds I gave you.
 Dialogue: 0,0:20:49.91,0:20:51.64,Default,Italics,0,0,0,,You scum!
 Dialogue: 0,0:20:52.93,0:20:57.62,Default,Italics,0,0,0,,Today I'm not losing. Because \Ntoday is the most important day.
-Dialogue: 0,0:21:01.61,0:21:02.82,Default,Italics,0,0,0,,Transform.
-Dialogue: 0,0:21:02.82,0:21:03.57,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:21:01.61,0:21:02.82,Default,Italics,0,0,0,,Henshin.
+Dialogue: 0,0:21:02.82,0:21:03.57,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:21:22.28,0:21:24.83,Default,Italics,0,0,0,,You scumbag... you're alive?
 Dialogue: 0,0:21:26.40,0:21:27.99,Default,,0,0,0,,I'm immortal!
 Dialogue: 0,0:21:27.99,0:21:29.15,Default,Italics,0,0,0,,Then...
 Dialogue: 0,0:21:29.62,0:21:31.52,Default,Italics,0,0,0,,I'll defeat you as many times as need be.
-Dialogue: 0,0:21:32.48,0:21:33.51,Default,Italics,0,0,0,,Transform.
-Dialogue: 0,0:21:33.89,0:21:34.85,Belt,Italics,0,0,0,,TRANSFORM
+Dialogue: 0,0:21:32.48,0:21:33.51,Default,Italics,0,0,0,,Henshin.
+Dialogue: 0,0:21:33.89,0:21:34.85,Belt,Italics,0,0,0,,HENSHIN
 Dialogue: 0,0:21:38.94,0:21:40.39,Belt,Italics,0,0,0,,CAST OFF
 Dialogue: 0,0:22:04.76,0:22:06.10,Default,Italics,0,0,0,,He's...
 Dialogue: 0,0:22:07.33,0:22:08.55,Default,Italics,0,0,0,,It can't be...
