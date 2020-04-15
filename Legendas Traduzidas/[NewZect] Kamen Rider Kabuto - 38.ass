@@ -33,7 +33,7 @@ Style: Sign,Calibri,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.32,0:00:06.03,Default,,0,0,120,,My grandmother once said...\N "My evolution is faster than the speed of the light"
+Dialogue: 0,0:00:01.32,0:00:06.03,Default,,0,0,120,,Minha vó uma vez disse...\N "My evolution is faster than the speed of the light"
 Dialogue: 0,0:00:10.53,0:00:14.09,Default,,0,0,0,,"Nothing in this universe can\N keep up with my evolution."
 Dialogue: 0,0:00:42.00,0:00:43.57,Belt,,0,0,0,,KABUTO POWER
 Dialogue: 0,0:00:46.31,0:00:47.48,Belt,,0,0,0,,RIDER CUTTING
@@ -163,7 +163,7 @@ Dialogue: 0,0:13:19.65,0:13:23.80,Default,,0,0,0,,You joined with the Worms to h
 Dialogue: 0,0:13:23.94,0:13:26.73,Default,,0,0,0,,So that's how the cursed \Nmirror rumors started, right?
 Dialogue: 0,0:13:26.73,0:13:29.27,Default,,0,0,0,,The students wished for it themselves.
 Dialogue: 0,0:13:29.27,0:13:31.12,Default,,0,0,0,,What's wrong with making it come true?
-Dialogue: 0,0:13:31.12,0:13:35.99,Default,,0,0,0,,My grandmother once said... \N"The wishes of children are the future of reality."
+Dialogue: 0,0:13:31.12,0:13:35.99,Default,,0,0,0,,Minha vó uma vez disse... \N"The wishes of children are the future of reality."
 Dialogue: 0,0:13:35.99,0:13:39.23,Default,,0,0,0,,"Adults that laugh at such \Ndreams are no longer human."
 Dialogue: 0,0:13:41.00,0:13:43.90,Default,,0,0,0,,You are someone who has no right to be an educator.
 Dialogue: 0,0:13:46.81,0:13:52.88,Default,,0,0,0,,The next... student. Tendou Juka's wish \Nhas already been conveyed to the Worm.
@@ -231,7 +231,7 @@ Dialogue: 0,0:19:14.66,0:19:16.00,Default,,0,0,0,,No, you are, Bro.
 Dialogue: 0,0:19:44.02,0:19:45.44,Default,,0,0,0,,Hyper Cast Off.
 Dialogue: 0,0:19:46.49,0:19:48.50,Belt,,0,0,0,,HYPER CAST OFF
 Dialogue: 0,0:20:08.13,0:20:09.36,Default,,0,0,0,,What is this?
-Dialogue: 0,0:20:18.60,0:20:20.37,Default,,0,0,0,,My grandmother once said...
+Dialogue: 0,0:20:18.60,0:20:20.37,Default,,0,0,0,,Minha vó uma vez disse...
 Dialogue: 0,0:20:21.37,0:20:25.08,Default,,0,0,0,,"A bond is a deep connection \Nthat can never be broken."
 Dialogue: 0,0:20:25.74,0:20:29.79,Default,,0,0,0,,"Even if apart, heart and \Nheart are still connected."
 Dialogue: 0,0:20:31.10,0:20:32.63,Belt,,0,0,0,,KABUTO POWER
