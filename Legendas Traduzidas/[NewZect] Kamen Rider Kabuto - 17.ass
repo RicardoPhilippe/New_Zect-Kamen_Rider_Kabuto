@@ -16,9 +16,9 @@ Video File: [NewZect] Kamen Rider Kabuto - 17.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 32
-Active Line: 44
-Video Position: 6070
+Scroll Position: 277
+Active Line: 286
+Video Position: 31536
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,13 +58,13 @@ Dialogue: 0,0:01:14.55,0:01:15.85,Default,,0,0,0,,Daisuke!
 Dialogue: 0,0:01:15.04,0:01:16.20,Default,Italics,0,0,0,,Gon.
 Dialogue: 0,0:01:20.35,0:01:21.40,Default,,0,0,0,,Daisuke!
 Dialogue: 0,0:01:22.98,0:01:24.20,Default,,0,0,0,,Daisuke...
-Dialogue: 0,0:01:24.20,0:01:26.35,Default,,0,0,0,,Ei, o que houve? O que há de errado?
+Dialogue: 0,0:01:24.20,0:01:26.35,Default,,0,0,0,,Ei, aconteceu algo? O que há de errado?
 Dialogue: 0,0:01:26.90,0:01:29.52,Default,,0,0,0,,Alguém me atacou.
 Dialogue: 0,0:01:29.52,0:01:30.65,Default,,0,0,0,,O quê?
-Dialogue: 0,0:01:33.10,0:01:35.62,Default,,0,0,0,,\NVocê está brincando comigo?
+Dialogue: 0,0:01:33.10,0:01:35.62,Default,,0,0,0,,Você está brincando comigo?
 Dialogue: 0,0:01:36.08,0:01:38.35,Default,,0,0,0,,Não, Daisuke. Aconteceu de verdade.
 Dialogue: 0,0:01:38.35,0:01:41.47,Default,,0,0,0,,Hunrrum. Entendi. Vamos indo.
-Dialogue: 0,0:03:21.97,0:03:27.52,Default,,0,0,0,,Essa foi uma verdadeira luta mano-a-mano \Ncontra um Worm com minha vida em jogo!
+Dialogue: 0,0:03:21.97,0:03:27.52,Default,,0,0,0,,Essa foi uma verdadeira luta mano-a-mano \Ncontra um Worm com minha vida em risco!
 Dialogue: 0,0:03:32.53,0:03:35.27,Default,,0,0,0,,Uma batalha entre Worm e \Nhumano, com um futuro em jogo!
 Dialogue: 0,0:03:35.50,0:03:40.37,Default,,0,0,0,,Para derrotá-lo, eu apostei tudo na minha última bala.
 Dialogue: 0,0:03:44.60,0:03:46.32,Default,,0,0,0,,Foi assim que aconteceu.
@@ -78,260 +78,260 @@ Dialogue: 0,0:04:01.96,0:04:03.60,Default,,0,0,0,,Contra um Worm...
 Dialogue: 0,0:04:04.25,0:04:05.26,Default,,0,0,0,,...com minha vida em jogo.
 Dialogue: 0,0:04:05.26,0:04:06.85,Default,,0,0,0,,Eu disse já chega!
 Dialogue: 0,0:04:08.50,0:04:13.15,Default,,0,0,0,,Mais importante.... Ouvi dizer que você saiu da ZECT.
-Dialogue: 0,0:04:13.15,0:04:16.62,Default,,0,0,0,,Sim. My reason for staying in ZECT is gone.
-Dialogue: 0,0:04:17.73,0:04:19.15,Default,,0,0,0,,That's too bad.
-Dialogue: 0,0:04:20.15,0:04:23.24,Default,,0,0,0,,I thought you'd continue to work for ZECT.
-Dialogue: 0,0:04:24.05,0:04:25.28,Default,,0,0,0,,Really?
-Dialogue: 0,0:04:26.33,0:04:29.80,Default,,0,0,0,,I think Tendou is better off alone though.
-Dialogue: 0,0:04:30.52,0:04:32.50,Default,,0,0,0,,It suits you better, Tendou.{That's more like you, Tendou.}
-Dialogue: 0,0:04:32.78,0:04:33.87,Default,,0,0,0,,What's with you?
-Dialogue: 0,0:04:34.60,0:04:36.42,Default,,0,0,0,,That's not what you said before.
-Dialogue: 0,0:04:36.98,0:04:39.57,Default,,0,0,0,,That was... well...
-Dialogue: 0,0:04:40.10,0:04:43.32,Default,,0,0,0,,I said it before, I will not be \Na part of any organization.
-Dialogue: 0,0:04:43.95,0:04:46.02,Default,,0,0,0,,My container is just too big.
-Dialogue: 0,0:04:46.93,0:04:49.25,Default,,0,0,0,,It's as simple as not entering \Na bath that's too small.
-Dialogue: 0,0:05:10.23,0:05:13.20,Default,,0,0,0,,Hey, Gon. Eyeliner #3.
-Dialogue: 0,0:05:16.68,0:05:19.35,Default,,0,0,0,,Didn't you hear me? The eyeliner.
-Dialogue: 0,0:05:38.15,0:05:39.37,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:05:39.84,0:05:41.02,Default,,0,0,0,,Come with me.
-Dialogue: 0,0:05:44.80,0:05:46.35,Default,,0,0,0,,What's wrong with you?
-Dialogue: 0,0:05:46.35,0:05:47.48,Default,,0,0,0,,You've been acting strangely.
-Dialogue: 0,0:05:47.48,0:05:50.14,Default,,0,0,0,,Someone might attack me again.
-Dialogue: 0,0:05:50.14,0:05:52.10,Default,,0,0,0,,Be quiet and focus on the job.
-Dialogue: 0,0:05:54.23,0:05:55.07,Default,,0,0,0,,I'm sorry for that.
-Dialogue: 0,0:06:04.53,0:06:05.70,Default,,0,0,0,,Hey, Daisuke.
-Dialogue: 0,0:06:05.83,0:06:06.75,Default,,0,0,0,,What is it?
-Dialogue: 0,0:06:06.95,0:06:09.40,Default,,0,0,0,,Always hold my hand, okay?
-Dialogue: 0,0:06:09.78,0:06:11.85,Default,,0,0,0,,Be sure not to let go.
-Dialogue: 0,0:06:12.30,0:06:14.10,Default,,0,0,0,,There's no way I can do that.
-Dialogue: 0,0:06:18.05,0:06:18.97,Default,,0,0,0,,Hey!
-Dialogue: 0,0:06:19.18,0:06:21.35,Default,,0,0,0,,What is it? Where are we going?!
-Dialogue: 0,0:06:21.35,0:06:22.20,Default,,0,0,0,,Hey...
-Dialogue: 0,0:06:22.78,0:06:24.40,Default,,0,0,0,,Wait. Wait, Gon.
-Dialogue: 0,0:06:25.13,0:06:29.23,Default,,0,0,0,,Hey! Why do I have to be here?!
-Dialogue: 0,0:06:29.23,0:06:31.75,Default,,0,0,0,,Because I'm afraid.
-Dialogue: 0,0:06:32.18,0:06:34.62,Default,,0,0,0,,Whatever. Just hurry up.
-Dialogue: 0,0:06:34.88,0:06:36.27,Default,,0,0,0,,Hurry.
-Dialogue: 0,0:06:36.87,0:06:38.45,Default,,0,0,0,,Hurry.
-Dialogue: 0,0:06:42.58,0:06:43.46,Default,,0,0,0,,Beautiful.
-Dialogue: 0,0:06:44.85,0:06:47.59,Default,,0,0,0,,You shine brighter than the summer sun.
-Dialogue: 0,0:06:48.08,0:06:49.63,Default,,0,0,0,,You are truly beauty's...
-Dialogue: 0,0:06:51.15,0:06:51.89,Default,,0,0,0,,Beauty's...
-Dialogue: 0,0:06:52.72,0:06:54.07,Default,,0,0,0,,Ummm...
-Dialogue: 0,0:06:54.20,0:06:55.30,Default,Italics,0,0,0,,...personification.
-Dialogue: 0,0:06:56.03,0:06:57.89,Default,,0,0,0,,Yes, yes. That that.
-Dialogue: 0,0:07:08.73,0:07:09.92,Default,,0,0,0,,That way.
-Dialogue: 0,0:07:12.03,0:07:14.20,Default,,0,0,0,,To beat him....
-Dialogue: 0,0:07:14.20,0:07:17.22,Default,,0,0,0,,...I put everything in my last bullet!
-Dialogue: 0,0:07:19.00,0:07:20.90,Default,,0,0,0,,So that's how it happened.
-Dialogue: 0,0:07:22.40,0:07:24.47,Default,,0,0,0,,Not to brag of course.
-Dialogue: 0,0:07:24.68,0:07:25.77,Default,,0,0,0,,Enough.
-Dialogue: 0,0:07:25.98,0:07:27.38,Default,,0,0,0,,This is the fourth time I've heard it.
-Dialogue: 0,0:07:27.38,0:07:28.88,Default,,0,0,0,,It's my twelfth time.
-Dialogue: 0,0:07:28.88,0:07:30.17,Default,,0,0,0,,Let me go into more detail.
-Dialogue: 0,0:07:30.17,0:07:31.22,Default,,0,0,0,,Yes...
-Dialogue: 0,0:07:31.22,0:07:35.04,Default,,0,0,0,,It was truly a one-on-one battle \Nagainst a Worm with my life at stake!
-Dialogue: 0,0:07:35.04,0:07:38.20,Default,,0,0,0,,A battle between Worm and \Nhuman, with the future at stake!
-Dialogue: 0,0:07:38.20,0:07:38.98,Default,,0,0,0,,Hello?
-Dialogue: 0,0:07:38.98,0:07:41.20,Default,Italics,0,0,0,,I put everything in the last bullet!
-Dialogue: 0,0:07:41.60,0:07:42.84,Default,Italics,0,0,0,,Hey, are you listening?
-Dialogue: 0,0:07:42.84,0:07:45.61,Default,,0,0,0,,Do you remember that promise you made to me?
-Dialogue: 0,0:07:46.58,0:07:47.73,Default,,0,0,0,,Promise?!
-Dialogue: 0,0:07:47.73,0:07:50.77,Default,,0,0,0,,You said you'd be my make up model.
-Dialogue: 0,0:07:50.77,0:07:53.36,Default,Italics,0,0,0,,I showed I can do it!
-Dialogue: 0,0:07:55.45,0:07:57.13,Default,,0,0,0,,Big bro, good morning!
-Dialogue: 0,0:07:57.13,0:07:59.82,Default,,0,0,0,,And in the next moment...
-Dialogue: 0,0:08:00.35,0:08:01.46,Default,,0,0,0,,Down the hatch!
-Dialogue: 0,0:08:09.18,0:08:09.96,Default,,0,0,0,,What's the matter?!{What's wrong?!}
-Dialogue: 0,0:08:11.17,0:08:14.68,Default,,0,0,0,,It's just so delicious, I lost consciousness.
-Dialogue: 0,0:08:14.68,0:08:17.88,Default,,0,0,0,,It's boiled onion pottara.
-Dialogue: 0,0:08:17.88,0:08:21.57,Default,,0,0,0,,Bathed in olive oil, you add a \Nwhole onion when it's lukewarm.
-Dialogue: 0,0:08:21.85,0:08:24.91,Default,,0,0,0,,The sweetness and scent of the \Nonion can even reach the heart.
-Dialogue: 0,0:08:24.91,0:08:27.15,Default,,0,0,0,,It makes your soul feel relived as you eat it.
-Dialogue: 0,0:08:29.14,0:08:31.91,Default,,0,0,0,,By the way, what's Mr. Kagami been doing lately?
-Dialogue: 0,0:08:31.91,0:08:34.15,Default,,0,0,0,,I haven't seen him come by recently.
-Dialogue: 0,0:08:34.31,0:08:36.75,Default,,0,0,0,,Yeah. He's still being interesting.
-Dialogue: 0,0:08:40.31,0:08:42.87,Default,,0,0,0,,And here's a weird one.
-Dialogue: 0,0:08:51.28,0:08:53.65,Default,,0,0,0,,Excuse me, can you turn your body more this way.
-Dialogue: 0,0:08:53.65,0:08:56.01,Default,,0,0,0,,Yes, like that. Here I go.
-Dialogue: 0,0:09:00.17,0:09:01.89,Default,,0,0,0,,Don't worry about the camera.
-Dialogue: 0,0:09:02.37,0:09:04.20,Default,,0,0,0,,Just look at me.
-Dialogue: 0,0:09:06.54,0:09:08.48,Default,,0,0,0,,Yes. Relax.
+Dialogue: 0,0:04:13.15,0:04:16.62,Default,,0,0,0,,Sim. Não há mais razão para eu ficar na ZECT.
+Dialogue: 0,0:04:17.73,0:04:19.15,Default,,0,0,0,,Que pena.
+Dialogue: 0,0:04:20.15,0:04:23.24,Default,,0,0,0,,Eu pensei que você continuaria na ZECT.
+Dialogue: 0,0:04:24.05,0:04:25.28,Default,,0,0,0,,De verdade?
+Dialogue: 0,0:04:26.33,0:04:29.80,Default,,0,0,0,,Já eu acho que o Tendou se sai melhor sozinho.
+Dialogue: 0,0:04:30.52,0:04:32.50,Default,,0,0,0,,É mais a sua cara, Tendou.{That's more like you, Tendou.}
+Dialogue: 0,0:04:32.78,0:04:33.87,Default,,0,0,0,,O que há com você?
+Dialogue: 0,0:04:34.60,0:04:36.42,Default,,0,0,0,,Não foi isso que disse antes.
+Dialogue: 0,0:04:36.98,0:04:39.57,Default,,0,0,0,,Aquilo foi... é...
+Dialogue: 0,0:04:40.10,0:04:43.32,Default,,0,0,0,,Como eu disse antes, não farei parte \Nde nenhuma organização.
+Dialogue: 0,0:04:43.95,0:04:46.02,Default,,0,0,0,,Eu sou muita areia.{My container is just too big.}
+Dialogue: 0,0:04:46.93,0:04:49.25,Default,,0,0,0,,Logo, não cabo em seu caminhãozinho.
+Dialogue: 0,0:05:10.23,0:05:13.20,Default,,0,0,0,,Ei, Gon. Delineador nº3.
+Dialogue: 0,0:05:16.68,0:05:19.35,Default,,0,0,0,,Não me ouviu? O delineador.
+Dialogue: 0,0:05:38.15,0:05:39.37,Default,,0,0,0,,Desculpe.
+Dialogue: 0,0:05:39.84,0:05:41.02,Default,,0,0,0,,Vem cá.
+Dialogue: 0,0:05:44.80,0:05:46.35,Default,,0,0,0,,O que há de errado?
+Dialogue: 0,0:05:46.35,0:05:47.48,Default,,0,0,0,,Você tem agido estranho.
+Dialogue: 0,0:05:47.48,0:05:50.14,Default,,0,0,0,,Alguém pode me atacar de novo.
+Dialogue: 0,0:05:50.14,0:05:52.10,Default,,0,0,0,,Fique quieta e foque no trabalho.
+Dialogue: 0,0:05:54.23,0:05:55.07,Default,,0,0,0,,Desculpe por isso.
+Dialogue: 0,0:06:04.53,0:06:05.70,Default,,0,0,0,,Oi, Daisuke.
+Dialogue: 0,0:06:05.83,0:06:06.75,Default,,0,0,0,,O que foi?
+Dialogue: 0,0:06:06.95,0:06:09.40,Default,,0,0,0,,Você sempre vai segurar a minha mão, né?
+Dialogue: 0,0:06:09.78,0:06:11.85,Default,,0,0,0,,Nunca me deixe.
+Dialogue: 0,0:06:12.30,0:06:14.10,Default,,0,0,0,,Não tem como eu fazer isso.
+Dialogue: 0,0:06:18.05,0:06:18.97,Default,,0,0,0,,Ei!
+Dialogue: 0,0:06:19.18,0:06:21.35,Default,,0,0,0,,O que houve? Onde está me levando?!
+Dialogue: 0,0:06:21.35,0:06:22.20,Default,,0,0,0,,Hã?!
+Dialogue: 0,0:06:22.78,0:06:24.40,Default,,0,0,0,,Pera. Pera, Gon.
+Dialogue: 0,0:06:25.13,0:06:29.23,Default,,0,0,0,,Oi! Por que eu tenho que estar aqui?!
+Dialogue: 0,0:06:29.23,0:06:31.75,Default,,0,0,0,,Porque estou com medo.
+Dialogue: 0,0:06:32.18,0:06:34.62,Default,,0,0,0,,Tudo bem, apenas ande logo.
+Dialogue: 0,0:06:34.88,0:06:36.27,Default,,0,0,0,,Anda.
+Dialogue: 0,0:06:36.87,0:06:38.45,Default,,0,0,0,,Anda.
+Dialogue: 0,0:06:42.58,0:06:43.46,Default,,0,0,0,,Linda.
+Dialogue: 0,0:06:44.85,0:06:47.59,Default,,0,0,0,,Seu brilho reluz mais que o Sol de verão.
+Dialogue: 0,0:06:48.08,0:06:49.63,Default,,0,0,0,,Você é a pura personificação da...
+Dialogue: 0,0:06:51.15,0:06:51.89,Default,,0,0,0,,Personificação da...
+Dialogue: 0,0:06:52.72,0:06:54.07,Default,,0,0,0,,Hum...
+Dialogue: 0,0:06:54.20,0:06:55.30,Default,Italics,0,0,0,,...beleza.
+Dialogue: 0,0:06:56.03,0:06:57.89,Default,,0,0,0,,Sim, sim. Isso isso.
+Dialogue: 0,0:07:08.73,0:07:09.92,Default,,0,0,0,,Foi por ali.
+Dialogue: 0,0:07:12.03,0:07:14.20,Default,,0,0,0,,Para derrotá-lo...
+Dialogue: 0,0:07:14.20,0:07:17.22,Default,,0,0,0,,...eu apostei tudo na minha última bala!
+Dialogue: 0,0:07:19.00,0:07:20.90,Default,,0,0,0,,Foi assim que aconteceu.
+Dialogue: 0,0:07:22.40,0:07:24.47,Default,,0,0,0,,Não que eu esteja me gabando.
+Dialogue: 0,0:07:24.68,0:07:25.77,Default,,0,0,0,,Já chega.
+Dialogue: 0,0:07:25.98,0:07:27.38,Default,,0,0,0,,Já é a quarta vez que ouço isso.
+Dialogue: 0,0:07:27.38,0:07:28.88,Default,,0,0,0,,Pra mim já é a décima segunda.
+Dialogue: 0,0:07:28.88,0:07:30.17,Default,,0,0,0,,Só um pouquinho mais.
+Dialogue: 0,0:07:30.17,0:07:31.22,Default,,0,0,0,,Certo...
+Dialogue: 0,0:07:31.22,0:07:35.04,Default,,0,0,0,,Foi uma verdadeira luta mano-a-mano contra um Worm com minha vida em risco!
+Dialogue: 0,0:07:35.04,0:07:38.20,Default,,0,0,0,,Uma batalha entre Worm e \Nhumano, com um futuro em jogo!
+Dialogue: 0,0:07:38.20,0:07:38.98,Default,,0,0,0,,Alô?
+Dialogue: 0,0:07:38.98,0:07:41.20,Default,Italics,0,0,0,,Apostei tudo na última bala!
+Dialogue: 0,0:07:41.60,0:07:42.84,Default,Italics,0,0,0,,Ei, vocês estão ouvindo?
+Dialogue: 0,0:07:42.84,0:07:45.61,Default,,0,0,0,,Se lembra da promessa que me fez?
+Dialogue: 0,0:07:46.58,0:07:47.73,Default,,0,0,0,,Promessa?!
+Dialogue: 0,0:07:47.73,0:07:50.77,Default,,0,0,0,,Disse que seria a minha modelo de maquiagem.
+Dialogue: 0,0:07:50.77,0:07:53.36,Default,Italics,0,0,0,,Eu mostrei que sou capaz!
+Dialogue: 0,0:07:55.45,0:07:57.13,Default,,0,0,0,,Irmãozão, bom dia!
+Dialogue: 0,0:07:57.13,0:07:59.82,Default,,0,0,0,,E agora...
+Dialogue: 0,0:08:00.35,0:08:01.46,Default,,0,0,0,,Hora de comer!
+Dialogue: 0,0:08:09.18,0:08:09.96,Default,,0,0,0,,O que foi?!{What's wrong?!}
+Dialogue: 0,0:08:11.17,0:08:14.68,Default,,0,0,0,,Está tão delicioso que me fez desmaiar.
+Dialogue: 0,0:08:14.68,0:08:17.88,Default,,0,0,0,,Eu preparei cebola pottara cozida.
+Dialogue: 0,0:08:17.88,0:08:21.57,Default,,0,0,0,,Banhado em azeite de oliva, você adiciona \Na cebola inteira quando estiver morno.
+Dialogue: 0,0:08:21.85,0:08:24.91,Default,,0,0,0,,A doçura e o aroma da cebola podem até mesmo alcançar o coração.
+Dialogue: 0,0:08:24.91,0:08:27.15,Default,,0,0,0,,Faz sua alma sentir-se revigorada enquanto a come.
+Dialogue: 0,0:08:29.14,0:08:31.91,Default,,0,0,0,,A propósito, como está o Sr. Kagami?
+Dialogue: 0,0:08:31.91,0:08:34.15,Default,,0,0,0,,Não tenho mais o visto recentemente.
+Dialogue: 0,0:08:34.31,0:08:36.75,Default,,0,0,0,,Hunrrum, ele continua sendo um cara interessante{divertido}.
+Dialogue: 0,0:08:40.31,0:08:42.87,Default,,0,0,0,,E aqui está um esquisito.
+Dialogue: 0,0:08:51.28,0:08:53.65,Default,,0,0,0,,Com licença, poderia virar um pouco mais o seu corpo?
+Dialogue: 0,0:08:53.65,0:08:56.01,Default,,0,0,0,,Aí, isso mesmo. Aqui vai.
+Dialogue: 0,0:09:00.17,0:09:01.89,Default,,0,0,0,,Não ligue para a câmera.
+Dialogue: 0,0:09:02.37,0:09:04.20,Default,,0,0,0,,Só olhe pra mim.
+Dialogue: 0,0:09:06.54,0:09:08.48,Default,,0,0,0,,Isso, relaxe.
 Dialogue: 0,0:09:17.48,0:09:18.40,Default,,0,0,0,,Gon.
-Dialogue: 0,0:09:19.68,0:09:21.32,Default,,0,0,0,,No, this one.
-Dialogue: 0,0:09:30.14,0:09:33.06,Default,,0,0,0,,You truly are the ultimate photo specimen.
-Dialogue: 0,0:09:34.94,0:09:36.89,Default,,0,0,0,,My eye is never wrong.
+Dialogue: 0,0:09:19.68,0:09:21.32,Default,,0,0,0,,Não, esse daqui.
+Dialogue: 0,0:09:30.14,0:09:33.06,Default,,0,0,0,,Você é, de fato, a modelo perfeita.
+Dialogue: 0,0:09:34.94,0:09:36.89,Default,,0,0,0,,Meu olho nunca erra.
 Dialogue: 0,0:09:37.31,0:09:38.43,Default,,0,0,0,,Gon.
-Dialogue: 0,0:09:38.43,0:09:39.80,Default,,0,0,0,,Lip brush #6.
-Dialogue: 0,0:09:40.91,0:09:41.60,Default,,0,0,0,,This way.
-Dialogue: 0,0:09:46.71,0:09:48.63,Default,,0,0,0,,Gon. Cut it out!
-Dialogue: 0,0:09:51.40,0:09:53.32,Default,,0,0,0,,Enough. Go over there.
-Dialogue: 0,0:09:53.80,0:09:55.72,Default,,0,0,0,,I'm sorry, Daisuke.
-Dialogue: 0,0:09:55.88,0:09:58.82,Default,,0,0,0,,My model today is important. \NDon't get in the way, get out!
-Dialogue: 0,0:10:29.88,0:10:30.89,Default,,0,0,0,,You...
-Dialogue: 0,0:10:31.57,0:10:33.28,Default,Italics,0,0,0,,What about your father and mother?
-Dialogue: 0,0:10:33.28,0:10:37.12,Default,Italics,0,0,0,,I don't have any. But that's okay, I have Daisuke.
-Dialogue: 0,0:10:40.45,0:10:43.17,Default,,0,0,0,,Did something happen?
-Dialogue: 0,0:10:46.63,0:10:50.26,Default,,0,0,0,,I made.... Daisuke mad...
-Dialogue: 0,0:10:57.23,0:10:58.95,Default,,0,0,0,,What's today's recipe?
-Dialogue: 0,0:11:02.11,0:11:03.26,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:11:08.48,0:11:11.73,Default,,0,0,0,,I see... Kazama Daisuke is an idiot.
-Dialogue: 0,0:11:12.10,0:11:15.17,Default,,0,0,0,,Seems like he did not understand\N the hurtful nature of his words.
-Dialogue: 0,0:11:15.17,0:11:17.92,Default,,0,0,0,,But... it was my fault.
-Dialogue: 0,0:11:18.80,0:11:23.40,Default,,0,0,0,,Hey, Hiyori. I want to apologize\N to Daisuke. Come with me.
-Dialogue: 0,0:11:23.68,0:11:26.57,Default,,0,0,0,,Daisuke has a weakness for women.
-Dialogue: 0,0:11:27.37,0:11:28.69,Default,,0,0,0,,Okay...
-Dialogue: 0,0:11:29.77,0:11:33.06,Default,,0,0,0,,You said you didn't have parents, right?
-Dialogue: 0,0:11:34.34,0:11:36.09,Default,,0,0,0,,Are they dead?
-Dialogue: 0,0:11:37.25,0:11:38.49,Default,,0,0,0,,I don't know.
-Dialogue: 0,0:11:39.97,0:11:41.06,Default,,0,0,0,,Don't know?
-Dialogue: 0,0:11:41.37,0:11:44.17,Default,,0,0,0,,Well... I don't remember anything.
-Dialogue: 0,0:11:44.34,0:11:45.96,Default,,0,0,0,,What do you mean?
-Dialogue: 0,0:11:45.96,0:11:48.06,Default,,0,0,0,,How do you know Daisuke?
-Dialogue: 0,0:11:48.54,0:11:53.85,Default,,0,0,0,,My mind was all blank. I didn't know what to do.
-Dialogue: 0,0:11:54.11,0:11:57.27,Default,,0,0,0,,Then Daisuke bought me some strawberry milk.
-Dialogue: 0,0:11:56.19,0:11:57.27,Default - Up,Top,0,0,0,,'Strawberry Milk'
-Dialogue: 0,0:11:59.10,0:12:02.68,Default,,0,0,0,,He suddenly said "Here, drink it".
-Dialogue: 0,0:12:03.34,0:12:07.20,Default,,0,0,0,,Seems like she has amnesia.
-Dialogue: 0,0:12:08.20,0:12:12.12,Default,,0,0,0,,Anyway, come with me to\N apologize to Daisuke. Please.
-Dialogue: 0,0:12:14.68,0:12:15.92,Default,,0,0,0,,Take care of the restaurant.
-Dialogue: 0,0:12:21.45,0:12:25.54,Default,,0,0,0,,So you don't have a father or mother either?
-Dialogue: 0,0:12:25.54,0:12:26.49,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:12:26.74,0:12:30.46,Default,,0,0,0,,Who is that Tendou person from before? A friend?
-Dialogue: 0,0:12:31.25,0:12:33.17,Default,,0,0,0,,I don't know yet.
-Dialogue: 0,0:12:34.14,0:12:36.77,Default,,0,0,0,,Hey... can we hold hands?
-Dialogue: 0,0:12:49.17,0:12:50.20,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:12:50.77,0:12:52.29,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:12:52.77,0:12:55.83,Default,,0,0,0,,I guess I can't if it's not Daisuke's hand.
-Dialogue: 0,0:13:12.43,0:13:14.31,Default,,0,0,0,,What a nice restaurant.
-Dialogue: 0,0:13:14.31,0:13:17.32,Default,,0,0,0,,Yes. They have good coffee here.
-Dialogue: 0,0:13:17.80,0:13:19.83,Default,,0,0,0,,But what a surprise.
-Dialogue: 0,0:13:20.12,0:13:22.80,Default,,0,0,0,,I've met so many writers before...
-Dialogue: 0,0:13:22.80,0:13:26.03,Default,,0,0,0,,But never one as beautiful as you.
-Dialogue: 0,0:13:26.36,0:13:27.60,Default,,0,0,0,,Thank you!
-Dialogue: 0,0:13:27.60,0:13:29.80,Default,,0,0,0,,Then let's get straight to the interview.
-Dialogue: 0,0:13:30.28,0:13:31.00,Default,,0,0,0,,Okay.
-Dialogue: 0,0:13:31.00,0:13:34.17,Default,,0,0,0,,First, why did you become a make up artist?
-Dialogue: 0,0:13:37.14,0:13:41.38,Default,,0,0,0,,What are you doing here{in this place}?
-Dialogue: 0,0:13:41.38,0:13:43.29,Default,,0,0,0,,That's my line.
-Dialogue: 0,0:13:43.92,0:13:45.34,Default,,0,0,0,,Did you see Gon?
-Dialogue: 0,0:13:45.98,0:13:47.84,Default,,0,0,0,,She said she wanted to apologize to you, but...
-Dialogue: 0,0:13:48.43,0:13:50.44,Default,,0,0,0,,I'm working right now.
-Dialogue: 0,0:13:50.44,0:13:52.26,Default,,0,0,0,,Please don't interfere.
-Dialogue: 0,0:13:54.43,0:13:55.77,Default,,0,0,0,,You're scum.
-Dialogue: 0,0:13:56.36,0:13:59.09,Default,,0,0,0,,This man is scum! Write that in your article.
-Dialogue: 0,0:14:00.00,0:14:02.74,Default,,0,0,0,,He's an insensitive man who doesn't\N understand the feelings of children.
-Dialogue: 0,0:14:02.74,0:14:03.77,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:14:04.25,0:14:05.78,Default,,0,0,0,,I know how children feel.
-Dialogue: 0,0:14:05.78,0:14:09.09,Default,,0,0,0,,Children that age are very tricky!
-Dialogue: 0,0:14:09.78,0:14:13.86,Default,,0,0,0,,She said she was attacked by someone. \NWho knows if that was real or not.
-Dialogue: 0,0:14:15.30,0:14:16.50,Default,,0,0,0,,Attacked?
+Dialogue: 0,0:09:38.43,0:09:39.80,Default,,0,0,0,,Pincel labial nº6.
+Dialogue: 0,0:09:40.91,0:09:41.60,Default,,0,0,0,,Por aqui.
+Dialogue: 0,0:09:46.71,0:09:48.63,Default,,0,0,0,,Gon, muito bem!
+Dialogue: 0,0:09:51.40,0:09:53.32,Default,,0,0,0,,Já chega, vai pra lá.
+Dialogue: 0,0:09:53.80,0:09:55.72,Default,,0,0,0,,Me desculpa, Daisuke.
+Dialogue: 0,0:09:55.88,0:09:58.82,Default,,0,0,0,,Minha modelo de hoje é importante. \NNão fique no caminho, saia!
+Dialogue: 0,0:10:29.88,0:10:30.89,Default,,0,0,0,,Você...
+Dialogue: 0,0:10:31.57,0:10:33.28,Default,Italics,0,0,0,,E seu pai e sua mãe?
+Dialogue: 0,0:10:33.28,0:10:37.12,Default,Italics,0,0,0,,Eu não tenho, mas tudo bem, tenho o Daisuke.
+Dialogue: 0,0:10:40.45,0:10:43.17,Default,,0,0,0,,O que aconteceu?
+Dialogue: 0,0:10:46.63,0:10:50.26,Default,,0,0,0,,Eu deixei o.... Daisuke bravo...
+Dialogue: 0,0:10:57.23,0:10:58.95,Default,,0,0,0,,Qual é o prato de hoje?
+Dialogue: 0,0:11:02.11,0:11:03.26,Default,,0,0,0,,O que há de errado?
+Dialogue: 0,0:11:08.48,0:11:11.73,Default,,0,0,0,,Entendi... Kazama Daisuke é um idiota.
+Dialogue: 0,0:11:12.10,0:11:15.17,Default,,0,0,0,,Parece que ele não entendeu a \Nnatureza dolorosa de suas palavras.
+Dialogue: 0,0:11:15.17,0:11:17.92,Default,,0,0,0,,Mas... foi minha culpa.
+Dialogue: 0,0:11:18.80,0:11:23.40,Default,,0,0,0,,Ei, Hiyori. Eu quero me desculpar \Ncom o Daisuke. Venha comigo.
+Dialogue: 0,0:11:23.68,0:11:26.57,Default,,0,0,0,,Daisuke tem uma queda por mulheres.
+Dialogue: 0,0:11:27.37,0:11:28.69,Default,,0,0,0,,Bom...
+Dialogue: 0,0:11:29.77,0:11:33.06,Default,,0,0,0,,Você disse que não tinha pais, certo?
+Dialogue: 0,0:11:34.34,0:11:36.09,Default,,0,0,0,,Eles morreram?
+Dialogue: 0,0:11:37.25,0:11:38.49,Default,,0,0,0,,Eu não sei.
+Dialogue: 0,0:11:39.97,0:11:41.06,Default,,0,0,0,,Não sabe?
+Dialogue: 0,0:11:41.37,0:11:44.17,Default,,0,0,0,,É que... eu não me lembro de nada.
+Dialogue: 0,0:11:44.34,0:11:45.96,Default,,0,0,0,,Como assim?
+Dialogue: 0,0:11:45.96,0:11:48.06,Default,,0,0,0,,Como conheceu o Daisuke?
+Dialogue: 0,0:11:48.54,0:11:53.85,Default,,0,0,0,,Eu estava... sem memórias... não sabia o que fazer.
+Dialogue: 0,0:11:54.11,0:11:57.27,Default,,0,0,0,,Então Daisuke me comprou um pouco de leite com morango.
+Dialogue: 0,0:11:56.19,0:11:57.27,Default - Up,Top,0,0,0,,'Leite com Morango'
+Dialogue: 0,0:11:59.10,0:12:02.68,Default,,0,0,0,,De repente, ele disse "Aqui, beba".
+Dialogue: 0,0:12:03.34,0:12:07.20,Default,,0,0,0,,Parece que ela tem amnésia.
+Dialogue: 0,0:12:08.20,0:12:12.12,Default,,0,0,0,,A propósito, venha comigo para \Nme desculpar com Daisuke, por favor.
+Dialogue: 0,0:12:14.68,0:12:15.92,Default,,0,0,0,,Cuide do restaurante.
+Dialogue: 0,0:12:21.45,0:12:25.54,Default,,0,0,0,,Então você também não tem um pai ou uma mãe?
+Dialogue: 0,0:12:25.54,0:12:26.49,Default,,0,0,0,,Hunrrum.
+Dialogue: 0,0:12:26.74,0:12:30.46,Default,,0,0,0,,Quem é aquele Tendou de antes? Um amigo?
+Dialogue: 0,0:12:31.25,0:12:33.17,Default,,0,0,0,,Não sei ainda.
+Dialogue: 0,0:12:34.14,0:12:36.77,Default,,0,0,0,,Ei... podemos dar as mãos?
+Dialogue: 0,0:12:49.17,0:12:50.20,Default,,0,0,0,,O que foi?
+Dialogue: 0,0:12:50.77,0:12:52.29,Default,,0,0,0,,Me desculpe.
+Dialogue: 0,0:12:52.77,0:12:55.83,Default,,0,0,0,,Acho que não consigo \Nse não for a mão do Daisuke.
+Dialogue: 0,0:13:12.43,0:13:14.31,Default,,0,0,0,,Que belo restaurante.
+Dialogue: 0,0:13:14.31,0:13:17.32,Default,,0,0,0,,Sim, eles servem um ótimo café.
+Dialogue: 0,0:13:17.80,0:13:19.83,Default,,0,0,0,,Mas que surpresa.
+Dialogue: 0,0:13:20.12,0:13:22.80,Default,,0,0,0,,Eu conheci muitas escritoras antes...
+Dialogue: 0,0:13:22.80,0:13:26.03,Default,,0,0,0,,mas não uma tão linda quanto você.
+Dialogue: 0,0:13:26.36,0:13:27.60,Default,,0,0,0,,Obrigada!
+Dialogue: 0,0:13:27.60,0:13:29.80,Default,,0,0,0,,Vamos direto para a entrevista.
+Dialogue: 0,0:13:30.28,0:13:31.00,Default,,0,0,0,,Sim.
+Dialogue: 0,0:13:31.00,0:13:34.17,Default,,0,0,0,,Primeiro: Por que você se tornou um maquiador?
+Dialogue: 0,0:13:37.14,0:13:41.38,Default,,0,0,0,,Você... O que está fazendo aqui?
+Dialogue: 0,0:13:41.38,0:13:43.29,Default,,0,0,0,,Essa fala é minha.
+Dialogue: 0,0:13:43.92,0:13:45.34,Default,,0,0,0,,Você viu a Gon?
+Dialogue: 0,0:13:45.98,0:13:47.84,Default,,0,0,0,,Ela disse que queria se desculpar com você, mas...
+Dialogue: 0,0:13:48.43,0:13:50.44,Default,,0,0,0,,Estou trabalhando agora.
+Dialogue: 0,0:13:50.44,0:13:52.26,Default,,0,0,0,,Não interfira por favor.
+Dialogue: 0,0:13:54.43,0:13:55.77,Default,,0,0,0,,Você é uma escória.
+Dialogue: 0,0:13:56.36,0:13:59.09,Default,,0,0,0,,Este homem é uma escória! \NEscreva isso no seu artigo.
+Dialogue: 0,0:14:00.00,0:14:02.74,Default,,0,0,0,,Um insensível que não entende \Nos sentimentos das crianças.
+Dialogue: 0,0:14:02.74,0:14:03.77,Default,,0,0,0,,Pare!
+Dialogue: 0,0:14:04.25,0:14:05.78,Default,,0,0,0,,Eu sei como as crianças se sentem.
+Dialogue: 0,0:14:05.78,0:14:09.09,Default,,0,0,0,,As crianças dessa idade são muito complicadas!
+Dialogue: 0,0:14:09.78,0:14:13.86,Default,,0,0,0,,Ela disse que foi atacada por alguém. \NQuem sabe se isso era verdade ou não.
+Dialogue: 0,0:14:15.30,0:14:16.50,Default,,0,0,0,,Atacada?
 Dialogue: 0,0:14:32.17,0:14:33.40,Default,,0,0,0,,Gon!
 Dialogue: 0,0:14:45.61,0:14:46.82,Belt,Kabuto,0,0,0,,CLOCK OVER
-Dialogue: 0,0:14:51.33,0:14:52.58,Default,,0,0,0,,You...
-Dialogue: 0,0:14:53.06,0:14:54.58,Default,,0,0,0,,Run.
+Dialogue: 0,0:14:51.33,0:14:52.58,Default,,0,0,0,,Você...
+Dialogue: 0,0:14:53.06,0:14:54.58,Default,,0,0,0,,Corram.
 Dialogue: 0,0:14:56.79,0:14:58.90,Default,,0,0,0,,Gon! Gon!
-Dialogue: 0,0:14:58.90,0:15:00.75,Default,,0,0,0,,Are you okay?! Gon!
-Dialogue: 0,0:15:01.33,0:15:04.91,Default,,0,0,0,,Gon. Open you eyes! Gon!
+Dialogue: 0,0:14:58.90,0:15:00.75,Default,,0,0,0,,Você está bem?! Gon!
+Dialogue: 0,0:15:01.33,0:15:04.91,Default,,0,0,0,,Gon. Abra os olhos! Gon!
 Dialogue: 0,0:15:05.29,0:15:06.21,Default,,0,0,0,,Gon!
 Dialogue: 0,0:15:07.16,0:15:08.28,Default,,0,0,0,,Gon!
-Dialogue: 0,0:15:08.53,0:15:09.91,Default,,0,0,0,,Are you okay?
-Dialogue: 0,0:15:17.99,0:15:20.19,Default - Up,Top,0,0,0,,Kotogawa Station
-Dialogue: 0,0:15:20.19,0:15:22.61,Default,,0,0,0,,Gon. Are you okay?
-Dialogue: 0,0:15:23.02,0:15:25.05,Default,,0,0,0,,Gon! Can you stand{up?
+Dialogue: 0,0:15:08.53,0:15:09.91,Default,,0,0,0,,Tudo bem?
+Dialogue: 0,0:15:17.99,0:15:20.19,Default - Up,Top,0,0,0,,Estação Kotogawa
+Dialogue: 0,0:15:20.19,0:15:22.61,Default,,0,0,0,,Gon, tudo bem?
+Dialogue: 0,0:15:23.02,0:15:25.05,Default,,0,0,0,,Gon! Consegue se levantar?
 Dialogue: 0,0:15:37.19,0:15:38.21,Default,,0,0,0,,Gon.
-Dialogue: 0,0:15:42.43,0:15:45.18,Default,,0,0,0,,Gon... are you okay?
-Dialogue: 0,0:15:46.42,0:15:48.51,Default,,0,0,0,,You were on a bus to Kotogawa Station?
-Dialogue: 0,0:15:49.18,0:15:51.72,Default,,0,0,0,,So your memory's back?
-Dialogue: 0,0:15:51.72,0:15:54.05,Default,,0,0,0,,So? What happened then?
-Dialogue: 0,0:15:54.19,0:15:56.28,Default,,0,0,0,,That's all I remember right now.
-Dialogue: 0,0:16:00.49,0:16:04.05,Default,,0,0,0,,More importantly. I'm sorry, Daisuke.
-Dialogue: 0,0:16:04.66,0:16:07.31,Default,,0,0,0,,I got in the way of you job earlier.
-Dialogue: 0,0:16:08.46,0:16:10.35,Default,,0,0,0,,Yeah. Exactly.
-Dialogue: 0,0:16:14.46,0:16:16.84,Default,,0,0,0,,I did today's recipe.
-Dialogue: 0,0:16:16.84,0:16:18.65,Default,,0,0,0,,Please try it.
-Dialogue: 0,0:16:19.36,0:16:20.48,Default,,0,0,0,,Go ahead.
-Dialogue: 0,0:16:36.12,0:16:37.11,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:16:37.42,0:16:38.43,Default,,0,0,0,,It's bad.
-Dialogue: 0,0:16:39.93,0:16:45.78,Default,,0,0,0,,You're the first person to eat \Nmy cooking and say it's bad.
-Dialogue: 0,0:16:45.78,0:16:50.36,Default,,0,0,0,,It's just... I feel like I've had \Nmore delicious miso soup before.
+Dialogue: 0,0:15:42.43,0:15:45.18,Default,,0,0,0,,Gon... você está bem?
+Dialogue: 0,0:15:46.42,0:15:48.51,Default,,0,0,0,,Você estava em um ônibus indo \Npara a Estação Kotogawa?
+Dialogue: 0,0:15:49.18,0:15:51.72,Default,,0,0,0,,Então suas memórias voltaram?
+Dialogue: 0,0:15:51.72,0:15:54.05,Default,,0,0,0,,E o que houve depois?
+Dialogue: 0,0:15:54.19,0:15:56.28,Default,,0,0,0,,É tudo que me lembro por enquanto.
+Dialogue: 0,0:16:00.49,0:16:04.05,Default,,0,0,0,,Mais importante, me desculpe, Daisuke.
+Dialogue: 0,0:16:04.66,0:16:07.31,Default,,0,0,0,,Eu atrapalhei seu trabalho mais cedo.
+Dialogue: 0,0:16:08.46,0:16:10.35,Default,,0,0,0,,Sim, exatamente.
+Dialogue: 0,0:16:14.46,0:16:16.84,Default,,0,0,0,,Eu fiz o prato de hoje.
+Dialogue: 0,0:16:16.84,0:16:18.65,Default,,0,0,0,,Por favor comam.
+Dialogue: 0,0:16:19.36,0:16:20.48,Default,,0,0,0,,Venha.
+Dialogue: 0,0:16:36.12,0:16:37.11,Default,,0,0,0,,O que há de errado?
+Dialogue: 0,0:16:37.42,0:16:38.43,Default,,0,0,0,,Está ruim.
+Dialogue: 0,0:16:39.93,0:16:45.78,Default,,0,0,0,,Você é a primeira pessoa que come \Na minha comida e diz que está ruim.
+Dialogue: 0,0:16:45.78,0:16:50.36,Default,,0,0,0,,É que... Sinto que já provei sopas de miso melhores antes
 Dialogue: 0,0:16:50.60,0:16:51.65,Default,,0,0,0,,Gon...
-Dialogue: 0,0:16:52.34,0:16:56.28,Default,,0,0,0,,If your memory is back, why don't you go home?
+Dialogue: 0,0:16:52.34,0:16:56.28,Default,,0,0,0,,Se suas memória voltaram, \Npor que você não volta para casa?
 Dialogue: 0,0:16:57.62,0:16:59.11,Default,,0,0,0,,Daisuke...
-Dialogue: 0,0:16:59.60,0:17:04.44,Default,,0,0,0,,It's only natural. We only \Nhappened to meet in the city.
-Dialogue: 0,0:17:04.44,0:17:06.78,Default,,0,0,0,,There's no reason we have to always be together.
-Dialogue: 0,0:17:07.63,0:17:08.75,Default,,0,0,0,,And...
-Dialogue: 0,0:17:08.75,0:17:11.58,Default,,0,0,0,,I'm going to become more famous.
-Dialogue: 0,0:17:12.32,0:17:14.35,Default,,0,0,0,,I'd rather not be seen with a kid around.
-Dialogue: 0,0:17:17.19,0:17:18.41,Default,,0,0,0,,I get it.
-Dialogue: 0,0:17:19.06,0:17:22.28,Default,,0,0,0,,If I'm in your way, Daisuke, then forget it.
-Dialogue: 0,0:17:24.03,0:17:25.98,Default,,0,0,0,,Gon! Wait!
-Dialogue: 0,0:17:26.40,0:17:30.14,Default,,0,0,0,,You... really are scum.
-Dialogue: 0,0:17:30.14,0:17:32.41,Default,,0,0,0,,I thought you were a better guy than that.
-Dialogue: 0,0:17:44.19,0:17:45.21,Default,,0,0,0,,How's it going?
-Dialogue: 0,0:17:45.56,0:17:47.21,Default,,0,0,0,,Remember anything?
-Dialogue: 0,0:18:27.03,0:18:28.15,Default,,0,0,0,,Mom...
-Dialogue: 0,0:18:35.06,0:18:36.65,Default,,0,0,0,,{\i1}I'm going to get killed...
-Dialogue: 0,0:18:37.03,0:18:38.65,Default,,0,0,0,,{\i1}Don't kill...
-Dialogue: 0,0:18:39.03,0:18:40.65,Default,,0,0,0,,{\i1}Don't kill...
-Dialogue: 0,0:18:54.03,0:18:55.38,Default,,0,0,0,,Don't kill...
-Dialogue: 0,0:18:56.03,0:18:58.86,Default,,0,0,0,,Don't kill! Don't kill!
+Dialogue: 0,0:16:59.60,0:17:04.44,Default,,0,0,0,,Claro, nós apenas nos conhecemos na cidade.
+Dialogue: 0,0:17:04.44,0:17:06.78,Default,,0,0,0,,Não há razão para estarmos sempre juntos.
+Dialogue: 0,0:17:07.63,0:17:08.75,Default,,0,0,0,,E...
+Dialogue: 0,0:17:08.75,0:17:11.58,Default,,0,0,0,,Vou acabar me tornando mais e mais famoso.
+Dialogue: 0,0:17:12.32,0:17:14.35,Default,,0,0,0,,Prefiro não ser visto com uma criança por perto.
+Dialogue: 0,0:17:17.19,0:17:18.41,Default,,0,0,0,,Entendi.
+Dialogue: 0,0:17:19.06,0:17:22.28,Default,,0,0,0,,Se estou atrapalhando, Daisuke, então esqueça.
+Dialogue: 0,0:17:24.03,0:17:25.98,Default,,0,0,0,,Gon! Espera!
+Dialogue: 0,0:17:26.40,0:17:30.14,Default,,0,0,0,,Você... é mesmo uma escória.
+Dialogue: 0,0:17:30.14,0:17:32.41,Default,,0,0,0,,Achei que fosse melhor que isso.
+Dialogue: 0,0:17:44.19,0:17:45.21,Default,,0,0,0,,Como se sente?
+Dialogue: 0,0:17:45.56,0:17:47.21,Default,,0,0,0,,Se lembra de algo?
+Dialogue: 0,0:18:27.03,0:18:28.15,Default,,0,0,0,,Mamãe...
+Dialogue: 0,0:18:35.06,0:18:36.65,Default,,0,0,0,,{\i1}Não mate...
+Dialogue: 0,0:18:37.03,0:18:38.65,Default,,0,0,0,,{\i1}Não mate...
+Dialogue: 0,0:18:39.03,0:18:40.65,Default,,0,0,0,,{\i1}Não mate...
+Dialogue: 0,0:18:54.03,0:18:55.38,Default,,0,0,0,,Não mate...
+Dialogue: 0,0:18:56.03,0:18:58.86,Default,,0,0,0,,Não mate! Não mate!
 Dialogue: 0,0:18:58.86,0:18:59.71,Default,,0,0,0,,Gon...
-Dialogue: 0,0:18:59.96,0:19:02.98,Default,Italics,0,0,0,,Please! Don't kill!
-Dialogue: 0,0:19:04.39,0:19:06.20,Default,Italics,0,0,0,,Don't kill!
-Dialogue: 0,0:19:06.83,0:19:10.55,Default,,0,0,0,,It's the same... as my memory.
+Dialogue: 0,0:18:59.96,0:19:02.98,Default,Italics,0,0,0,,Por favor! Não mate!
+Dialogue: 0,0:19:04.39,0:19:06.20,Default,Italics,0,0,0,,Não mate!
+Dialogue: 0,0:19:06.83,0:19:10.55,Default,,0,0,0,,É igual a... minha lembrança.
 Dialogue: 0,0:19:24.53,0:19:25.78,Default,,0,0,0,,Hiyori!
-Dialogue: 0,0:19:26.63,0:19:29.05,Default,,0,0,0,,Hang on! Hey!
+Dialogue: 0,0:19:26.63,0:19:29.05,Default,,0,0,0,,Aguente firme! Ei!
 Dialogue: 0,0:19:33.96,0:19:35.08,Default,,0,0,0,,Gon...
-Dialogue: 0,0:19:35.96,0:19:36.94,Default,,0,0,0,,Where's Gon?
-Dialogue: 0,0:19:51.62,0:19:53.42,Default,,0,0,0,,What do you want?
-Dialogue: 0,0:19:54.35,0:19:56.32,Default,,0,0,0,,Why'd you call me here?
-Dialogue: 0,0:19:56.66,0:19:59.62,Default,,0,0,0,,If it's about joining ZECT, \NI already refused before.
-Dialogue: 0,0:20:00.16,0:20:03.57,Default,,0,0,0,,The situations changed.
+Dialogue: 0,0:19:35.96,0:19:36.94,Default,,0,0,0,,Onde está a Gon?
+Dialogue: 0,0:19:51.62,0:19:53.42,Default,,0,0,0,,O que você quer?
+Dialogue: 0,0:19:54.35,0:19:56.32,Default,,0,0,0,,Por que me chamou aqui?
+Dialogue: 0,0:19:56.66,0:19:59.62,Default,,0,0,0,,Se é sobre entrar para a ZECT, \Neu já recusei antes.
+Dialogue: 0,0:20:00.16,0:20:03.57,Default,,0,0,0,,Os termos mudaram.
 Dialogue: 0,0:20:05.15,0:20:06.35,Default,Italics,0,0,0,,Daisuke!
-Dialogue: 0,0:20:07.10,0:20:08.55,Default,Italics,0,0,0,,Get me out of here{Open this}!
-Dialogue: 0,0:20:09.03,0:20:10.05,Default,Italics,0,0,0,,Get me out!{Open it!}
+Dialogue: 0,0:20:07.10,0:20:08.55,Default,Italics,0,0,0,,Me tire daqui{Open this}!
+Dialogue: 0,0:20:09.03,0:20:10.05,Default,Italics,0,0,0,,Me tire daqui!{Open it!}
 Dialogue: 0,0:20:10.05,0:20:10.82,Default,,0,0,0,,Gon!
 Dialogue: 0,0:20:11.10,0:20:12.12,Default,Italics,0,0,0,,Daisuke!
-Dialogue: 0,0:20:14.32,0:20:15.20,Default - Up,Italics,0,0,0,,Get me out!{Open it!}
-Dialogue: 0,0:20:12.78,0:20:16.92,Default,,0,0,0,,How you act... will affect\N how this girl is treated.
+Dialogue: 0,0:20:14.32,0:20:15.20,Default - Up,Italics,0,0,0,,Me tire daqui!{Open it!}
+Dialogue: 0,0:20:12.78,0:20:16.92,Default,,0,0,0,,A forma como você agir... irá afetar a \Nforma que essa garota será tratada.
 Dialogue: 0,0:20:16.64,0:20:17.95,Default - Up,Italics,0,0,0,,Daisuke!
-Dialogue: 0,0:20:18.16,0:20:19.35,Default,,0,0,0,,You bastard...
-Dialogue: 0,0:20:20.44,0:20:22.85,Default,,0,0,0,,From here onward you are a member of ZECT.
-Dialogue: 0,0:20:24.00,0:20:26.15,Default,,0,0,0,,First, kill{defeat} Kabuto for us.
-Dialogue: 0,0:20:27.40,0:20:28.68,Default,,0,0,0,,No way.
+Dialogue: 0,0:20:18.16,0:20:19.35,Default,,0,0,0,,Maldito...
+Dialogue: 0,0:20:20.44,0:20:22.85,Default,,0,0,0,,Daqui por diante, você é um membro do ZECT.
+Dialogue: 0,0:20:24.00,0:20:26.15,Default,,0,0,0,,Primeiro, derrote Kabuto para nós.
+Dialogue: 0,0:20:27.40,0:20:28.68,Default,,0,0,0,,Sem chance.
 Dialogue: 0,0:20:28.68,0:20:29.68,Default - Up,Italics,0,0,0,,Daisuke!
-Dialogue: 0,0:20:29.46,0:20:32.18,Default,,0,0,0,,I have no relationship with Gon.
-Dialogue: 0,0:20:32.18,0:20:33.46,Default,,0,0,0,,Do what you want.
+Dialogue: 0,0:20:29.46,0:20:32.18,Default,,0,0,0,,Eu não tenho mais nenhuma relação com a Gon.
+Dialogue: 0,0:20:32.18,0:20:33.46,Default,,0,0,0,,Faça o que quiser.
 Dialogue: 0,0:20:34.65,0:20:35.75,Default,Italics,0,0,0,,Daisuke!
-Dialogue: 0,0:20:37.60,0:20:39.05,Default,Italics,0,0,0,,Get me out!{Open it!}
+Dialogue: 0,0:20:37.60,0:20:39.05,Default,Italics,0,0,0,,Me tire daqui!
 Dialogue: 0,0:20:40.23,0:20:42.97,Default,Italics,0,0,0,,Daisuke! Daisuke!
-Dialogue: 0,0:20:43.30,0:20:44.76,Default,Italics,0,0,0,,Get me out!{Open it!}
-Dialogue: 0,0:20:53.14,0:20:54.10,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:20:54.34,0:20:56.60,Default,,0,0,0,,You said I was scum, but...
-Dialogue: 0,0:20:57.86,0:20:58.98,Default,,0,0,0,,Unfortunately....
-Dialogue: 0,0:20:59.58,0:21:02.40,Default,,0,0,0,,It seems I can't just be scum.
-Dialogue: 0,0:21:04.33,0:21:06.11,Default,,0,0,0,,What are you thinking?
-Dialogue: 0,0:21:06.54,0:21:08.92,Default,,0,0,0,,Picking a fight here?
+Dialogue: 0,0:20:43.30,0:20:44.76,Default,Italics,0,0,0,,Me tire daqui!
+Dialogue: 0,0:20:53.14,0:20:54.10,Default,,0,0,0,,O que foi?
+Dialogue: 0,0:20:54.34,0:20:56.60,Default,,0,0,0,,Você disse que eu era uma escória, mas...
+Dialogue: 0,0:20:57.86,0:20:58.98,Default,,0,0,0,,Infelizmente....
+Dialogue: 0,0:20:59.58,0:21:02.40,Default,,0,0,0,,Parece que eu não posso ser como você diz.
+Dialogue: 0,0:21:04.33,0:21:06.11,Default,,0,0,0,,No que está pensando?
+Dialogue: 0,0:21:06.54,0:21:08.92,Default,,0,0,0,,Começando uma luta aqui?
 Dialogue: 0,0:21:10.88,0:21:12.57,Default,,0,0,0,,Minha vó uma vez disse...
-Dialogue: 0,0:21:13.23,0:21:15.37,Default,,0,0,0,,"Immature fruit is sour....
-Dialogue: 0,0:21:16.45,0:21:18.71,Default,,0,0,0,,...producing immature fights."
+Dialogue: 0,0:21:13.23,0:21:15.37,Default,,0,0,0,,"O fruto da imaturidade é amargo...
+Dialogue: 0,0:21:16.45,0:21:18.71,Default,,0,0,0,,... e traz lutas desnecessárias. "
 Dialogue: 0,0:21:28.78,0:21:29.76,Default,,0,0,0,,Henshin.
 Dialogue: 0,0:21:29.76,0:21:31.10,Belt,Kabuto,0,0,0,,HENSHIN
 Dialogue: 0,0:21:54.18,0:21:54.96,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:21:54.25,0:21:54.96,Belt,,0,0,0,,{\a6}CAST OFF
 Dialogue: 0,0:21:55.30,0:21:56.22,Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:21:55.65,0:21:56.68,Belt,Kabuto Top,0,0,0,,{\a6}CAST OFF
-Dialogue: 0,0:22:03.23,0:22:04.67,Default,,0,0,0,,I will defeat you!
-Dialogue: 0,0:22:08.55,0:22:10.05,Default,,0,0,0,,I {\i1}must{\i0} defeat you!
-Dialogue: 0,0:22:10.75,0:22:12.30,Default,,0,0,0,,Die, Tendou!
+Dialogue: 0,0:22:03.23,0:22:04.67,Default,,0,0,0,,Eu vou derrotar você!
+Dialogue: 0,0:22:08.55,0:22:10.05,Default,,0,0,0,,Eu {\i1}tenho{\i0} que te derrotar!
+Dialogue: 0,0:22:10.75,0:22:12.30,Default,,0,0,0,,Morra, Tendou!
 Dialogue: 0,0:22:14.39,0:22:15.77,Belt,Kabuto,0,0,0,,CLOCK UP
 Dialogue: 0,0:22:17.10,0:22:18.34,Belt,Drake,0,0,0,,CLOCK UP
 Dialogue: 0,0:22:31.68,0:22:32.37,Belt,Kabuto,0,0,0,,CLOCK OVER
 Dialogue: 0,0:22:32.37,0:22:33.04,Belt,Drake,0,0,0,,CLOCK OVER
-Dialogue: 0,0:22:47.40,0:22:48.52,Default,,0,0,0,,Please die.
-Dialogue: 0,0:22:50.65,0:22:53.37,Default,,0,0,0,,If I don't kill you... Gon will be in danger!{Unless I defeat you... ...Gon will be in danger!}
-Dialogue: 0,0:22:57.40,0:22:58.60,Default,,0,0,0,,So that's how it is.
+Dialogue: 0,0:22:47.40,0:22:48.52,Default,,0,0,0,,Morra.
+Dialogue: 0,0:22:50.65,0:22:53.37,Default,,0,0,0,,A menos que eu te derrote... Gon estará em perigo!
+Dialogue: 0,0:22:57.40,0:22:58.60,Default,,0,0,0,,Então é por isso?
 Dialogue: 0,0:22:58.60,0:22:59.98,Belt,Kabuto,0,0,0,,ONE TWO THREE
 Dialogue: 0,0:23:00.58,0:23:02.00,Default,,0,0,0,,Rider Shooting.
 Dialogue: 0,0:23:02.00,0:23:03.79,Belt,Drake,0,0,0,,RIDER SHOOTING
@@ -376,8 +376,8 @@ Dialogue: 0,0:03:02.07,0:03:02.20,Show Song Font english KABUTO,,0,0,0,,{\fad(15
 Dialogue: 0,0:03:02.20,0:03:05.01,Show Song Font english KABUTO,,0,0,0,,{\fad(0,192)}{\blur1\move(30,21,90,21,2571,2771)}...if you can surpass it!
 Comment: 0,0:23:14.83,0:23:14.87,Default - Up,,0,0,0,,Preview
 Dialogue: 0,0:23:15.40,0:23:16.87,Default - Up,,0,0,0,,Kamen Rider Kabuto!
-Dialogue: 0,0:23:16.87,0:23:19.58,Default - Up,,0,0,0,,The agreement was that I'd defeat\N Kabuto, then you'd let Gon free.
-Dialogue: 0,0:23:19.58,0:23:21.29,Default - Up,,0,0,0,,It's no surprise that ZECT would do this.
-Dialogue: 0,0:23:21.29,0:23:24.59,Default - Up,,0,0,0,,It's my fault. It's all... my fault.
-Dialogue: 0,0:23:24.59,0:23:26.84,Default - Up,,0,0,0,,Goodbye, Gon.
+Dialogue: 0,0:23:16.87,0:23:19.58,Default - Up,,0,0,0,,O acordo era que se eu derrotasse o Kabuto, você soltaria a Gon.
+Dialogue: 0,0:23:19.58,0:23:21.29,Default - Up,,0,0,0,,Não estou surpreso que a ZECT tenha feito isso.
+Dialogue: 0,0:23:21.29,0:23:24.59,Default - Up,,0,0,0,,A culpa é minha. \NToda... minha.
+Dialogue: 0,0:23:24.59,0:23:26.84,Default - Up,,0,0,0,,Adeus, Gon.
 Dialogue: 0,0:23:26.84,0:23:29.88,Default - Up,,0,0,0,,Trilhando o caminho do Céu. Governando a todos nós.
