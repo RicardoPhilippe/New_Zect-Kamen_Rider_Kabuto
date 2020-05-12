@@ -33,13 +33,13 @@ Style: Sign,Calibri,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:07.53,0:00:08.61,Default,,0,0,0,,Perfect.
-Dialogue: 0,0:00:13.49,0:00:15.41,Default,,0,0,0,,Good morning, Young Master.
+Dialogue: 0,0:00:13.49,0:00:15.41,Default,,0,0,0,,Good morning, Jovem Mestre.
 Dialogue: 0,0:00:16.35,0:00:17.37,Default,,0,0,0,,Morning.
 Dialogue: 0,0:00:25.15,0:00:27.27,Default,,0,0,0,,The main course is red tonguesole.
 Dialogue: 0,0:00:27.51,0:00:29.27,Default,,0,0,0,,It's a full course.
 Dialogue: 0,0:00:29.61,0:00:31.63,Default,,0,0,0,,Excellent work, Jiiya.
 Dialogue: 0,0:00:32.13,0:00:33.65,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:00:35.63,0:00:42.31,Default,,0,0,0,,Young Master, remember your ancestors\N started England's famous Discabil family.
+Dialogue: 0,0:00:35.63,0:00:42.31,Default,,0,0,0,,Jovem Mestre, remember your ancestors\N started England's famous Discabil family.
 Dialogue: 0,0:00:43.11,0:00:50.56,Default,,0,0,0,,So that you do not forget that brilliance,\N we must be more extravagant.
 Dialogue: 0,0:00:50.56,0:00:52.55,Default,,0,0,0,,Yes, I understand.
 Dialogue: 0,0:00:54.35,0:00:59.35,Default,,0,0,0,,I plan to stand at the summit in all fields so\N that I do not disgrace my noble family.
@@ -64,7 +64,7 @@ Dialogue: 0,0:01:57.21,0:01:58.43,Default,,0,0,0,,Excuse me, sir.
 Dialogue: 0,0:02:00.37,0:02:01.25,Default,,0,0,0,,Hello?
 Dialogue: 0,0:02:01.49,0:02:02.97,Default,,0,0,0,,This is Kamishiro's...
 Dialogue: 0,0:02:04.43,0:02:05.35,Default,,0,0,0,,Yes.
-Dialogue: 0,0:02:06.31,0:02:07.47,Default,,0,0,0,,Young Master.
+Dialogue: 0,0:02:06.31,0:02:07.47,Default,,0,0,0,,Jovem Mestre.
 Dialogue: 0,0:02:08.27,0:02:10.25,Default,,0,0,0,,Pardon me for bothering\N you while you are eating...
 Dialogue: 0,0:02:10.43,0:02:12.07,Default,,0,0,0,,But you're needed elsewhere.{But, there's a job that needs to be done.}
 Dialogue: 0,0:02:36.38,0:02:38.41,Default,,0,0,0,,Hey, you in the car! Stop!
@@ -86,7 +86,7 @@ Dialogue: 0,0:03:32.74,0:03:33.77,Belt,,0,0,0,,STANDBY
 Dialogue: 0,0:03:41.11,0:03:42.36,Default,,0,0,0,,Henshin!
 Dialogue: 0,0:03:42.36,0:03:43.45,Belt,,0,0,0,,HENSHIN
 Dialogue: 0,0:05:28.07,0:05:30.33,Default,,0,0,0,,Excellent work.
-Dialogue: 0,0:05:30.45,0:05:31.65,Default,,0,0,0,,Young Master.
+Dialogue: 0,0:05:30.45,0:05:31.65,Default,,0,0,0,,Jovem Mestre.
 Dialogue: 0,0:05:36.03,0:05:40.45,Default,,0,0,0,,Misaki, do you ever have feelings of\N doubt or rebellion against ZECT?
 Dialogue: 0,0:05:42.39,0:05:43.81,Default,,0,0,0,,Well, it's not that I haven't, but...
 Dialogue: 0,0:05:44.55,0:05:46.05,Default,,0,0,0,,...it's{But that's} okay as it is.
@@ -196,7 +196,7 @@ Dialogue: 0,0:14:20.06,0:14:21.15,Default,,0,0,0,,Okay!
 Dialogue: 0,0:14:46.66,0:14:47.52,Default,,0,0,0,,Mika...{Sister...}
 Dialogue: 0,0:14:49.28,0:14:50.75,Default,,0,0,0,,Mika!
 Dialogue: 0,0:14:52.40,0:14:53.20,Default,,0,0,0,,Mika...
-Dialogue: 0,0:14:53.66,0:14:54.42,Default,,0,0,0,,Young Master!
+Dialogue: 0,0:14:53.66,0:14:54.42,Default,,0,0,0,,Jovem Mestre!
 Dialogue: 0,0:14:55.06,0:14:56.42,Default,,0,0,0,,Mika!
 Dialogue: 0,0:14:56.91,0:14:58.17,Default,,0,0,0,,Mika!
 Dialogue: 0,0:14:58.17,0:14:58.97,Default,,0,0,0,,Master!
@@ -211,7 +211,7 @@ Dialogue: 0,0:15:36.36,0:15:37.82,Default,,0,0,0,,What is it?
 Dialogue: 0,0:15:40.43,0:15:44.35,Default,,0,0,0,,Can you... stay by my side, till I fall asleep?{I... Till I fall asleep, stay by my side.}
 Dialogue: 0,0:15:54.06,0:15:54.92,Default,,0,0,0,,Stop!
 Dialogue: 0,0:15:56.16,0:15:56.92,Default,,0,0,0,,Stop!
-Dialogue: 0,0:16:19.46,0:16:21.00,Default,,0,0,0,,Young Master.
+Dialogue: 0,0:16:19.46,0:16:21.00,Default,,0,0,0,,Jovem Mestre.
 Dialogue: 0,0:17:01.91,0:17:03.34,Default,,0,0,0,,What are you doing, Kagami?
 Dialogue: 0,0:17:03.58,0:17:05.22,Default,,0,0,0,,Doing checks for Worms.
 Dialogue: 0,0:17:05.66,0:17:06.37,Default,,0,0,0,,You know.

@@ -42,7 +42,7 @@ Dialogue: 0,0:00:25.21,0:00:27.23,Belt,,0,0,0,,CHANGE SCORPION
 Dialogue: 0,0:00:38.43,0:00:39.93,Default,,0,0,0,,Looks like the match is over.
 Dialogue: 0,0:00:42.72,0:00:45.84,Default,,0,0,0,,This is the horn that signals the end of battle.
 Dialogue: 0,0:00:47.29,0:00:48.33,Default,,0,0,0,,Jiiya.
-Dialogue: 0,0:00:49.26,0:00:52.40,Default,,0,0,0,,You have lost this duel, Young Master.
+Dialogue: 0,0:00:49.26,0:00:52.40,Default,,0,0,0,,You have lost this duel, Jovem Mestre.
 Dialogue: 0,0:00:52.74,0:00:53.69,Default,,0,0,0,,What?
 Dialogue: 0,0:00:53.91,0:00:55.03,Default,,0,0,0,,That's correct.
 Dialogue: 0,0:00:55.84,0:00:57.03,Default,,0,0,0,,Look more carefully.
@@ -54,7 +54,7 @@ Dialogue: 0,0:01:20.07,0:01:21.95,Default,,0,0,0,,My sword was faster.
 Dialogue: 0,0:01:23.06,0:01:24.43,Default,,0,0,0,,I'm sure of it.
 Dialogue: 0,0:01:28.22,0:01:32.90,Default,,0,0,0,,More importantly... I cannot \Nforgive you for opposing me.
 Dialogue: 0,0:01:33.65,0:01:35.16,Default,,0,0,0,,You are fired!
-Dialogue: 0,0:01:35.65,0:01:39.91,Default,,0,0,0,,No! I merely wish for your growth, Young Master!
+Dialogue: 0,0:01:35.65,0:01:39.91,Default,,0,0,0,,No! I merely wish for your growth, Jovem Mestre!
 Dialogue: 0,0:01:41.80,0:01:45.04,Default,,0,0,0,,I am already on top. There is no more growing for me.
 Dialogue: 0,0:01:45.82,0:01:47.64,Default,,0,0,0,,Never appear before me again.
 Dialogue: 0,0:01:47.64,0:01:50.67,Default,,0,0,0,,P-please! Please! Forgive me!
@@ -137,10 +137,10 @@ Dialogue: 0,0:08:34.48,0:08:39.43,Default,,0,0,0,,There is a light shining in th
 Dialogue: 0,0:08:41.17,0:08:44.69,Default,,0,0,0,,If you're going to hell either way...
 Dialogue: 0,0:08:45.25,0:08:49.03,Default,,0,0,0,,...you should embrace all your hope.
 Dialogue: 0,0:08:58.29,0:09:00.31,Default,,0,0,0,,That is what I wish for.{That's what I want.}
-Dialogue: 0,0:09:11.19,0:09:14.78,Default,,0,0,0,,I apologize deeply for the\N trouble Young Master is causing.
+Dialogue: 0,0:09:11.19,0:09:14.78,Default,,0,0,0,,I apologize deeply for the\N trouble Jovem Mestre is causing.
 Dialogue: 0,0:09:14.78,0:09:19.03,Default,,0,0,0,,Please stop. Here's the money from today's sales.
 Dialogue: 0,0:09:20.02,0:09:21.68,Default,,0,0,0,,I'm so sorry.
-Dialogue: 0,0:09:22.69,0:09:27.25,Default,,0,0,0,,At Young Master's restaurant, the more\N customers that come, the more he goes into debt!
+Dialogue: 0,0:09:22.69,0:09:27.25,Default,,0,0,0,,At Jovem Mestre's restaurant, the more\N customers that come, the more he goes into debt!
 Dialogue: 0,0:09:28.31,0:09:30.27,Default,,0,0,0,,Why does a person like you...?
 Dialogue: 0,0:09:31.43,0:09:33.33,Default,,0,0,0,,Let's settle things tomorrow.
 Dialogue: 0,0:09:34.34,0:09:36.69,Default,,0,0,0,,Please forgive me.
@@ -207,7 +207,7 @@ Dialogue: 0,0:14:26.02,0:14:27.43,Default,,0,0,0,,"...there is something greater
 Dialogue: 0,0:14:28.93,0:14:31.68,Default,,0,0,0,,"And that's the love of the\N person creating the food"
 Dialogue: 0,0:14:38.36,0:14:39.59,Default,,0,0,0,,I suppose...
 Dialogue: 0,0:14:40.69,0:14:42.80,Default,,0,0,0,,Jiiya's cooking truly is the best.
-Dialogue: 0,0:14:48.76,0:14:51.07,Default,,0,0,0,,Y-Young Master.
+Dialogue: 0,0:14:48.76,0:14:51.07,Default,,0,0,0,,Y-Jovem Mestre.
 Dialogue: 0,0:14:56.53,0:14:57.52,Default,,0,0,0,,Wait.
 Dialogue: 0,0:15:00.62,0:15:03.46,Default,,0,0,0,,I have... lost this duel.{This duel... I have lost it.}
 Dialogue: 0,0:15:06.93,0:15:08.96,Default,,0,0,0,,So you acknowledge your defeat?
@@ -215,7 +215,7 @@ Dialogue: 0,0:15:10.68,0:15:12.82,Default,,0,0,0,,I did not lose the duel.
 Dialogue: 0,0:15:13.96,0:15:17.93,Default,,0,0,0,,I lost to your noblesse oblige.
 Dialogue: 0,0:15:18.80,0:15:20.64,Default,,0,0,0,,Right, Jiiya?
 Dialogue: 0,0:15:21.48,0:15:23.49,Default,,0,0,0,,Well said.
-Dialogue: 0,0:15:24.21,0:15:25.68,Default,,0,0,0,,Young Master!
+Dialogue: 0,0:15:24.21,0:15:25.68,Default,,0,0,0,,Jovem Mestre!
 Dialogue: 0,0:15:39.17,0:15:40.91,Default,,0,0,0,,Hey, Miss.
 Dialogue: 0,0:15:42.39,0:15:44.79,Default,,0,0,0,,You shouldn't go in there.{You can't get in there.}
 Dialogue: 0,0:15:47.42,0:15:51.34,Default,,0,0,0,,If you go, you won't return alive.
