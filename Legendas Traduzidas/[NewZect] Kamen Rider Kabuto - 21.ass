@@ -11,19 +11,19 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
-Last Style Storage: Kaburo
-Audio File: [Kadubbed] Kamen Rider Kabuto - 21.mkv
-Video File: [Kadubbed] Kamen Rider Kabuto - 21.mkv
+Last Style Storage: Default
+Audio File: ../../../../../Torrents/[YoY-Earthly] Kamen Rider Kabuto - Complete Series Batch (1-49 + Movie + HBV)/[YoY-Earthly] Kamen Rider Kabuto - 21 [647B6C09].mkv
+Video File: ../../../../../Torrents/[YoY-Earthly] Kamen Rider Kabuto - Complete Series Batch (1-49 + Movie + HBV)/[YoY-Earthly] Kamen Rider Kabuto - 21 [647B6C09].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 238
-Active Line: 246
-Video Position: 31877
+Video Zoom Percent: 0.750000
+Scroll Position: 284
+Active Line: 293
+Video Position: 33639
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Exo 2 Semi Bold,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,40,1
+Style: 720 - Default,RotisWtf,58,&H00FFFFFF,&H000000FF,&H00000000,&HC0000000,0,0,0,0,100,110,0,0,1,3,2,2,10,10,20,1
 Style: K.Zect,Arial,40,&H000000FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,20,1
 Style: Show Song font KABUTO,Calibri,40,&H003334D9,&H000000FF,&H00000000,&H008283C5,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,21,1
 Style: Show Song Font english KABUTO,Sui Generis Rg,40,&H00D98F33,&H000000FF,&H00000000,&H008283C5,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,21,1
@@ -33,258 +33,258 @@ Style: Sign,Calibri,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.41,0:00:11.88,Default,,0,0,0,,Iniciem o experimento.
-Dialogue: 0,0:00:31.01,0:00:32.00,Default,,0,0,0,,Devemos interromper!
-Dialogue: 0,0:00:32.16,0:00:33.35,Default,,0,0,0,,Negativo.
-Dialogue: 0,0:00:33.93,0:00:36.16,Default,,0,0,0,,Este é o homem que o Zecter Gatack escolheu.
-Dialogue: 0,0:00:46.38,0:00:50.02,Default,,0,0,0,,Muitos já perderam as vidas.
-Dialogue: 0,0:00:50.86,0:00:54.80,Default,,0,0,0,,Até então, o Gatack não escolheu nenhuma cobaia.
-Dialogue: 0,0:00:55.53,0:00:59.23,Default,,0,0,0,,Entretanto... o Gatack é o ponto crucial para o Projeto Kamen Rider.
-Dialogue: 0,0:00:59.81,0:01:01.84,Default,,0,0,0,,Não podemos desistir agora.
-Dialogue: 0,0:01:05.15,0:01:07.59,Default,,0,0,0,,Você conhecer Abraham, não?
-Dialogue: 0,0:01:08.22,0:01:09.06,Default,,0,0,0,,Sim.
-Dialogue: 0,0:01:11.02,0:01:15.70,Default,,0,0,0,,Ele, para tocar uma nova religião Divina... {of God}
-Dialogue: 0,0:01:16.32,0:01:19.05,Default,,0,0,0,,foi longe a ponto de sacrificar seu filho...
-Dialogue: 0,0:01:21.74,0:01:24.04,Default,,0,0,0,,e a própria vida. {entendendo o TAKE HIS CHILD como que morreu tb junto com ele, por isso sacrificar seu filho}
-Dialogue: 0,0:01:26.76,0:01:27.87,Default,,0,0,0,,Em outras palavras...
-Dialogue: 0,0:01:28.79,0:01:30.05,Default,,0,0,0,,Até seu próprio filho...
-Dialogue: 0,0:01:30.51,0:01:33.51,Default,,0,0,0,,Está preparado para oferecer seu filho como cobaia?
-Dialogue: 0,0:03:11.16,0:03:12.36,Default,,0,0,0,,Mano! {eu sempre entendi que os subs internacionais fazem esquisito ao dizer o nome quando a chamada é carinhosa, como de uma irmã. analise por favor}
-Dialogue: 0,0:03:12.89,0:03:14.87,Default,,0,0,0,,Bom-dia!
-Dialogue: 0,0:03:15.15,0:03:15.99,Default,,0,0,0,,Bom dia!
-Dialogue: 0,0:03:16.49,0:03:20.12,Default,,0,0,0,,O café da manhã de hoje é caranguejo frito, bacon, ovos e... {eita, parece um almoço}
-Dialogue: 0,0:03:21.34,0:03:22.71,Default,,0,0,0,,Minestrone.
-Dialogue: 0,0:03:32.36,0:03:35.34,Default,,0,0,0,,Os feijões nesta sopa parecem ótimamente cozidos.
-Dialogue: 0,0:03:36.60,0:03:38.47,Default,,0,0,0,,Estes feijões estão ótimos!
-Dialogue: 0,0:03:38.68,0:03:40.28,Default,,0,0,0,,Percepção exemplar, Juka.
-Dialogue: 0,0:03:40.28,0:03:41.64,Default,,0,0,0,,Quando cozinhei os feijões...
-Dialogue: 0,0:03:41.64,0:03:43.87,Default,,0,0,0,,Primeiro cobrir com azeite de oliva...
-Dialogue: 0,0:03:43.87,0:03:46.78,Default,,0,0,0,,e então remover a casca. 
-Dialogue: 0,0:03:47.52,0:03:50.47,Default,,0,0,0,,A propósito, você sabe que dia é amanhã?
-Dialogue: 0,0:03:50.81,0:03:52.47,Default,,0,0,0,,Mas com certeza!
-Dialogue: 0,0:03:52.68,0:03:53.69,Default,,0,0,0,,Amanhã...
-Dialogue: 0,0:03:53.69,0:03:59.26,Default,,0,0,0,,o planeta todo irá comemorar o seu Aniversário.
+Dialogue: 0,0:00:10.41,0:00:11.88,720 - Default,,0,0,0,,Iniciem o experimento.
+Dialogue: 0,0:00:31.01,0:00:32.00,720 - Default,,0,0,0,,Devemos interromper!
+Dialogue: 0,0:00:32.16,0:00:33.35,720 - Default,,0,0,0,,Negativo.
+Dialogue: 0,0:00:33.93,0:00:36.16,720 - Default,,0,0,0,,Este é o homem que o Zecter Gatack escolheu.
+Dialogue: 0,0:00:46.38,0:00:50.02,720 - Default,,0,0,0,,Muitos já perderam a vida.
+Dialogue: 0,0:00:50.86,0:00:54.80,720 - Default,,0,0,0,,Até então, o Gatack não escolheu nenhuma cobaia.
+Dialogue: 0,0:00:55.53,0:00:59.23,720 - Default,,0,0,0,,Entretanto... o Gatack é o ponto crucial para o Projeto Kamen Rider.
+Dialogue: 0,0:00:59.81,0:01:01.84,720 - Default,,0,0,0,,Não podemos desistir agora.
+Dialogue: 0,0:01:05.15,0:01:07.59,720 - Default,,0,0,0,,Você conhece Abraão?
+Dialogue: 0,0:01:08.22,0:01:09.06,720 - Default,,0,0,0,,O quê?
+Dialogue: 0,0:01:11.02,0:01:15.70,720 - Default,,0,0,0,,Para provar sua fé a Deus...
+Dialogue: 0,0:01:16.32,0:01:19.05,720 - Default,,0,0,0,,até a vida de seu próprio filho...
+Dialogue: 0,0:01:21.74,0:01:24.04,720 - Default,,0,0,0,,ele tentou oferecer.
+Dialogue: 0,0:01:26.76,0:01:27.87,720 - Default,,0,0,0,,Em outras palavras...
+Dialogue: 0,0:01:28.79,0:01:30.05,720 - Default,,0,0,0,,Até seu próprio filho...
+Dialogue: 0,0:01:30.51,0:01:33.51,720 - Default,,0,0,0,,Está preparado para oferecê-lo como cobaia?
+Dialogue: 0,0:03:11.16,0:03:12.36,720 - Default,,0,0,0,,Mano! {eu sempre entendi que os subs internacionais fazem esquisito ao dizer o nome quando a chamada é carinhosa, como de uma irmã. analise por favor}
+Dialogue: 0,0:03:12.89,0:03:14.87,720 - Default,,0,0,0,,Bom dia!
+Dialogue: 0,0:03:15.15,0:03:15.99,720 - Default,,0,0,0,,Bom dia!
+Dialogue: 0,0:03:16.49,0:03:20.12,720 - Default,,0,0,0,,O café da manhã de hoje está bem \Ncrocante com bacon, ovos e... {eita, parece um almoço}
+Dialogue: 0,0:03:21.34,0:03:22.71,720 - Default,,0,0,0,,minestrone.
+Dialogue: 0,0:03:32.36,0:03:35.34,720 - Default,,0,0,0,,Os feijões nesta sopa parecem ótimamente cozidos.
+Dialogue: 0,0:03:36.60,0:03:38.47,720 - Default,,0,0,0,,Estes feijões estão ótimos!
+Dialogue: 0,0:03:38.68,0:03:40.28,720 - Default,,0,0,0,,Percepção exemplar, Juka.
+Dialogue: 0,0:03:40.28,0:03:41.64,720 - Default,,0,0,0,,Quando cozinhei os feijões...
+Dialogue: 0,0:03:41.64,0:03:43.87,720 - Default,,0,0,0,,Primeiro cobri com azeite de oliva...
+Dialogue: 0,0:03:43.87,0:03:46.78,720 - Default,,0,0,0,,e então removi a casca.
+Dialogue: 0,0:03:47.52,0:03:50.47,720 - Default,,0,0,0,,A propósito, você sabe que dia é amanhã?
+Dialogue: 0,0:03:50.81,0:03:52.47,720 - Default,,0,0,0,,Mas com certeza!
+Dialogue: 0,0:03:52.68,0:03:53.69,720 - Default,,0,0,0,,Amanhã...
+Dialogue: 0,0:03:53.69,0:03:59.26,720 - Default,,0,0,0,,o planeta todo irá comemorar o seu aniversário.
 Dialogue: 0,0:03:55.54,0:03:59.09,Default - Up,,0,0,0,,Tsurugi, Jovem Mestre
-Dialogue: 0,0:03:55.54,0:03:59.09,Default - Up,,0,0,0,,Comemoração do Aniversário
-Dialogue: 0,0:03:59.60,0:04:02.43,Default,,0,0,0,,O ano passado foi divertido. Minha irmã, ela...
-Dialogue: 0,0:04:07.29,0:04:10.30,Default,,0,0,0,,Vamos fazer algo diferente este ano.
-Dialogue: 0,0:04:10.30,0:04:14.72,Default,,0,0,0,,Que tal uma festa de Aniversário do lado de fora?
-Dialogue: 0,0:04:18.24,0:04:19.98,Default - Up,,0,0,0,,Proibida a Entrada
-Dialogue: 0,0:04:21.00,0:04:22.86,Default,,0,0,0,,O Worm está lá...
-Dialogue: 0,0:04:22.86,0:04:27.11,Default,,0,0,0,,Isso é muito provável a partir dos relatos de testemunhas.
-Dialogue: 0,0:04:29.92,0:04:30.77,Default,,0,0,0,,Alô.
-Dialogue: 0,0:04:32.45,0:04:34.04,Default,,0,0,0,,Tadokoro foi hospitalizado?!
-Dialogue: 0,0:04:35.32,0:04:36.60,Default,,0,0,0,,Entendido.
-Dialogue: 0,0:04:37.12,0:04:38.69,Default,,0,0,0,,Tadokoro está bem?
-Dialogue: 0,0:04:38.69,0:04:39.65,Default,,0,0,0,,Como ele está?
-Dialogue: 0,0:04:39.99,0:04:41.65,Default,,0,0,0,,Preciso partir.
-Dialogue: 0,0:04:41.86,0:04:43.65,Default,,0,0,0,,Você continua mantendo vigilância.
-Dialogue: 0,0:05:16.53,0:05:17.34,Default,,0,0,0,,Quem está aí?! {podia jurar que ele está dizendo PARADO!}
-Dialogue: 0,0:05:19.28,0:05:21.10,Default,,0,0,0,,Oh... me perdoe.
-Dialogue: 0,0:05:21.91,0:05:23.10,Default,,0,0,0,,Entendo.
-Dialogue: 0,0:05:24.32,0:05:26.52,Default,,0,0,0,,Os vizinhos pediram a você para investigar?
-Dialogue: 0,0:05:28.04,0:05:31.47,Default,,0,0,0,,Na verdade também passei por isso.
-Dialogue: 0,0:05:32.11,0:05:34.48,Default,,0,0,0,,Bem... foi um gato de rua.
-Dialogue: 0,0:05:34.67,0:05:35.84,Default,,0,0,0,,Um gato de rua?!
-Dialogue: 0,0:05:35.84,0:05:36.81,Default,,0,0,0,,Sim.
-Dialogue: 0,0:05:37.17,0:05:41.06,Default,,0,0,0,,Ele acabou causando interrupção na operação.
-Dialogue: 0,0:05:42.81,0:05:43.94,Default,,0,0,0,,Eu entendi.
-Dialogue: 0,0:05:44.35,0:05:46.38,Default,,0,0,0,,Eu irei reportar isso.
-Dialogue: 0,0:06:08.39,0:06:09.98,Default,,0,0,0,,Tio, por aqui!
-Dialogue: 0,0:06:12.15,0:06:13.15,Default,,0,0,0,,Depressa!
-Dialogue: 0,0:06:47.24,0:06:48.34,Default,,0,0,0,,Você está atrasado.
-Dialogue: 0,0:06:49.14,0:06:50.08,Default,,0,0,0,,Como é?
-Dialogue: 0,0:06:50.42,0:06:52.08,Default,,0,0,0,,Você estava esperando por mim?
-Dialogue: 0,0:06:53.38,0:06:56.43,Default,,0,0,0,,A Yumiko está doente, então tirou folga hoje.
-Dialogue: 0,0:06:57.55,0:06:58.65,Default,,0,0,0,,Então...
-Dialogue: 0,0:06:58.96,0:07:00.56,Default,,0,0,0,,Hoje você é o chef.
-Dialogue: 0,0:07:00.56,0:07:04.25,Default,,0,0,0,,"Então..." e daí?\NVocê mesma pode cozinhar.
-Dialogue: 0,0:07:04.25,0:07:06.99,Default,,0,0,0,,A Yumiko passou a incumbência para você.
-Dialogue: 0,0:07:08.91,0:07:10.44,Default,,0,0,0,,Mas não me responsabilizo...
-Dialogue: 0,0:07:10.92,0:07:13.28,Default,,0,0,0,,se o restaurante repentinamente ficar super intenso.
-Dialogue: 0,0:07:27.63,0:07:28.86,Default,,0,0,0,,Obrigado.
-Dialogue: 0,0:07:28.86,0:07:30.10,Default,,0,0,0,,Você me salvou.
-Dialogue: 0,0:07:30.31,0:07:32.09,Default,,0,0,0,,Ei... você tem água?
-Dialogue: 0,0:07:32.09,0:07:33.19,Default,,0,0,0,,Comida?
-Dialogue: 0,0:07:37.87,0:07:39.29,Default,,0,0,0,,Desculpe... não tenho nada.
-Dialogue: 0,0:07:39.84,0:07:41.81,Default,,0,0,0,,Mas que droga...
-Dialogue: 0,0:07:41.81,0:07:44.50,Default,,0,0,0,,Saco... salvo ele e olha o que ganho.
-Dialogue: 0,0:07:46.32,0:07:47.53,Default,,0,0,0,,Pensando bem...
-Dialogue: 0,0:07:48.41,0:07:49.53,Default,,0,0,0,,tenho doces.
-Dialogue: 0,0:07:56.16,0:07:59.66,Default,,0,0,0,,Você esteve se escondendo aqui o tempo todo?
-Dialogue: 0,0:08:00.14,0:08:01.66,Default,,0,0,0,,Makoto.
-Dialogue: 0,0:08:03.34,0:08:05.04,Default,,0,0,0,,Esse é o meu nome.
-Dialogue: 0,0:08:06.98,0:08:12.07,Default,,0,0,0,,Sei... então o seu pai é um vigia nesta fábrica? {live-in guard me faltouo  nome. tenho quase certeza que existe um termo mais apropriado}
-Dialogue: 0,0:08:14.52,0:08:17.10,Default,,0,0,0,,Mas... aquele dia eu o vi!
-Dialogue: 0,0:08:17.60,0:08:20.27,Default,,0,0,0,,Monstros estranhos estavam atacando pessoas!
-Dialogue: 0,0:08:21.23,0:08:25.65,Default,,0,0,0,,Apesar disso...\Nninguém acredita em mim...
-Dialogue: 0,0:08:26.57,0:08:29.40,Default,,0,0,0,,Todos ficaram fazendo aquelas caras assustadoras...
-Dialogue: 0,0:08:30.84,0:08:33.70,Default,,0,0,0,,Até o meu pai.
-Dialogue: 0,0:08:36.29,0:08:39.64,Default,,0,0,0,,Achei este local enquanto percorria tudo.
-Dialogue: 0,0:08:42.33,0:08:43.56,Default,,0,0,0,,Entendo...
-Dialogue: 0,0:08:45.84,0:08:47.87,Default,,0,0,0,,Você realmente estava por conta própria.
-Dialogue: 0,0:08:49.16,0:08:50.33,Default,,0,0,0,,Mas está tudo bem agora.
-Dialogue: 0,0:08:50.67,0:08:52.24,Default,,0,0,0,,Vou te ajudar a fugir.
-Dialogue: 0,0:08:52.24,0:08:53.32,Default,,0,0,0,,Não!
-Dialogue: 0,0:08:53.47,0:08:56.59,Default,,0,0,0,,Eu já tentei isso muitas pessoas!
-Dialogue: 0,0:08:56.84,0:09:00.31,Default,,0,0,0,,Tem demais daqueles monstros!
-Dialogue: 0,0:09:00.31,0:09:02.07,Default,,0,0,0,,Acredite em mim!
-Dialogue: 0,0:09:02.44,0:09:07.34,Default,,0,0,0,,Não! Você não estava totalmente sem saída antes?!
-Dialogue: 0,0:09:08.54,0:09:10.33,Default,,0,0,0,,Bem...
-Dialogue: 0,0:09:11.48,0:09:12.65,Default,,0,0,0,,Mana...
-Dialogue: 0,0:09:13.74,0:09:14.99,Default,,0,0,0,,Mana!
-Dialogue: 0,0:09:18.14,0:09:20.92,Default,,0,0,0,,Aquele sonho novamente?
-Dialogue: 0,0:09:33.29,0:09:34.43,Default,,0,0,0,,Este aroma...
-Dialogue: 0,0:09:35.53,0:09:38.17,Default,,0,0,0,,Pode significar alimento digno de minha degustação.
-Dialogue: 0,0:09:38.17,0:09:40.52,Default,,0,0,0,,Excelente olfato, Jovem Mestre.
-Dialogue: 0,0:09:40.82,0:09:44.20,Default,,0,0,0,,O Jii também estava considerando isso.
-Dialogue: 0,0:09:54.66,0:09:56.41,Default,,0,0,0,,Este é um belo telescópio.
-Dialogue: 0,0:09:56.92,0:10:00.95,Default,,0,0,0,,Meu sonho é ver um ArcoLuar com ele.
-Dialogue: 0,0:10:01.38,0:10:02.77,Default,,0,0,0,,"ArcoLuar"?
-Dialogue: 0,0:10:04.52,0:10:07.56,Default,,0,0,0,,É um Arco-Íris feito do luar.
-Dialogue: 0,0:10:08.20,0:10:09.89,Default,,0,0,0,,Dizem que se você vir um...
-Dialogue: 0,0:10:10.10,0:10:12.65,Default,,0,0,0,,você ficará feliz.
-Dialogue: 0,0:10:15.58,0:10:17.24,Default,,0,0,0,,Espero que algum dia você veja um.
-Dialogue: 0,0:10:19.92,0:10:22.55,Default,,0,0,0,,Mas de jeito algum conseguirei ver um aqui.
-Dialogue: 0,0:10:26.29,0:10:27.16,Default,,0,0,0,,Sabe...
-Dialogue: 0,0:10:28.02,0:10:30.79,Default,,0,0,0,,Não se pode fazer nada aqui.
-Dialogue: 0,0:10:32.11,0:10:34.20,Default,,0,0,0,,Sejamos corajosos e sair daqui.
-Dialogue: 0,0:10:35.22,0:10:37.63,Default,,0,0,0,,Definitivamente protegerei você, Makoto.
-Dialogue: 0,0:11:21.32,0:11:22.64,Default,,0,0,0,,Tio!
-Dialogue: 0,0:11:22.64,0:11:24.17,Default,,0,0,0,,Volte para aquele local!
-Dialogue: 0,0:11:24.28,0:11:26.02,Default,,0,0,0,,Vou voltar e salvar você!
-Dialogue: 0,0:11:26.02,0:11:27.53,Default,,0,0,0,,É uma promessa? {ele afirma na legenda. eu entendo que pra nossa percepção, pergunta ficaria melhor}
-Dialogue: 0,0:11:59.84,0:12:00.97,Default,,0,0,0,,O cara...
-Dialogue: 0,0:12:01.52,0:12:02.97,Default,,0,0,0,,de antes...
-Dialogue: 0,0:12:04.49,0:12:07.16,Default,,0,0,0,,Este recinto pouco lisonjeiro é algum tipo de depósito?
-Dialogue: 0,0:12:07.16,0:12:11.41,Default,,0,0,0,,Não. É um restaurante para a classe trabalhadora.
-Dialogue: 0,0:12:11.68,0:12:14.40,Default,,0,0,0,,O aroma de antes veio deste restaurante.
-Dialogue: 0,0:12:14.85,0:12:19.89,Default,,0,0,0,,Mas eventualmente... \Neste lugar seja inapropriado para você?
-Dialogue: 0,0:12:19.89,0:12:20.79,Default,,0,0,0,,Não.
-Dialogue: 0,0:12:21.32,0:12:23.76,Default,,0,0,0,,Eu sempre desejei experimentar os pratos de gente comum.
-Dialogue: 0,0:12:25.04,0:12:26.37,Default,,0,0,0,,Eu compreendo.
-Dialogue: 0,0:12:34.68,0:12:35.45,Default,,0,0,0,,Ei.
-Dialogue: 0,0:12:36.17,0:12:37.40,Default,,0,0,0,,Tem um esquisito aqui.
-Dialogue: 0,0:12:39.70,0:12:40.61,Default,,0,0,0,,Como é?
-Dialogue: 0,0:12:41.48,0:12:43.79,Default,,0,0,0,,Vejam só quem é, o Jovem Mestre.
-Dialogue: 0,0:12:51.21,0:12:53.05,Default,,0,0,0,,Você me personificou?! {imitou? copiou? não sei o que estão botando}
-Dialogue: 0,0:13:28.66,0:13:29.76,Default,,0,0,0,,Kageyama!
-Dialogue: 0,0:13:29.93,0:13:32.24,Default,,0,0,0,,Temos problemas! \NTem Worms dentro daquela fábrica!
-Dialogue: 0,0:13:32.24,0:13:33.23,Default,,0,0,0,,Eu sei!
-Dialogue: 0,0:13:34.02,0:13:36.00,Default,,0,0,0,,Já estávamos investigando.
-Dialogue: 0,0:13:36.21,0:13:40.26,Default,,0,0,0,,Por você ter entrado sem permissão, eles agora estão cientes de nossa atividade!
-Dialogue: 0,0:13:40.26,0:13:43.45,Default,,0,0,0,,Me desculpo por isso.\NMas tem um garoto lá dentro!
-Dialogue: 0,0:13:43.45,0:13:44.72,Default,,0,0,0,,Precisamos nos apressar e salvá-lo!
-Dialogue: 0,0:13:44.72,0:13:46.08,Default,,0,0,0,,Pura besteira.
-Dialogue: 0,0:13:46.38,0:13:48.08,Default,,0,0,0,,Ele é um Worm.
-Dialogue: 0,0:13:48.81,0:13:50.08,Default,,0,0,0,,Não pode ser...
-Dialogue: 0,0:13:50.44,0:13:55.17,Default,,0,0,0,,Restam apenas Worms naquela fábrica.
-Dialogue: 0,0:13:55.81,0:13:57.61,Default,,0,0,0,,O Makoto é...
-Dialogue: 0,0:13:59.70,0:14:00.83,Default,,0,0,0,,...um Worm?
-Dialogue: 0,0:14:04.28,0:14:06.99,Default,,0,0,0,,Não acredito que o Makoto seja um Worm.
-Dialogue: 0,0:14:07.30,0:14:09.19,Default,,0,0,0,,Precisamos salvá-lo imediatamente!
-Dialogue: 0,0:14:09.66,0:14:12.32,Default,,0,0,0,,Seu relato já foi enviado ao QG.
-Dialogue: 0,0:14:12.96,0:14:16.15,Default,,0,0,0,,Mas o fato é que aquela fábrica é um ninho de Worms.
-Dialogue: 0,0:14:17.33,0:14:20.47,Default,,0,0,0,,E eles estão escondendo algo que não querem que seja descoberto.
-Dialogue: 0,0:14:21.52,0:14:24.71,Default,,0,0,0,,O QG já deu ordens para que a fábrica seja destruída.
-Dialogue: 0,0:14:24.86,0:14:26.35,Default,,0,0,0,,Destruída...
-Dialogue: 0,0:14:27.18,0:14:28.82,Default,,0,0,0,,Não posso aceitar isso!
-Dialogue: 0,0:14:28.82,0:14:29.83,Default,,0,0,0,,Kagami.
-Dialogue: 0,0:14:31.13,0:14:32.72,Default,,0,0,0,,É hora do seu trabalho de meio expediente, não?
-Dialogue: 0,0:14:32.72,0:14:34.26,Default,,0,0,0,,Não há tempo pra isso!
-Dialogue: 0,0:14:34.26,0:14:35.07,Default,,0,0,0,,Vá!
-Dialogue: 0,0:14:36.01,0:14:38.51,Default,,0,0,0,,E... não volte mais.
-Dialogue: 0,0:14:42.26,0:14:43.45,Default,,0,0,0,,Tadokoro...
-Dialogue: 0,0:14:52.69,0:14:55.00,Default,,0,0,0,,Tadokoro certamente é gentil...
-Dialogue: 0,0:14:58.66,0:15:02.19,Default,,0,0,0,,Você sabe por que ele está ferido?
-Dialogue: 0,0:15:03.21,0:15:05.57,Default,,0,0,0,,Quem é você?
-Dialogue: 0,0:15:06.49,0:15:09.31,Default,,0,0,0,,O QG ordenou a ele para arranjar uma cobaia de teste...
-Dialogue: 0,0:15:09.89,0:15:12.67,Default,,0,0,0,,Para manter seus belos subalternos fora de perigo...
-Dialogue: 0,0:15:13.00,0:15:14.92,Default,,0,0,0,,ele concedeu a si mesmo como material de teste.
-Dialogue: 0,0:15:15.41,0:15:17.14,Default,,0,0,0,,Ele ficou ferido assim...
-Dialogue: 0,0:15:18.30,0:15:20.05,Default,,0,0,0,,Você é da organização?
-Dialogue: 0,0:15:20.25,0:15:22.15,Default,,0,0,0,,Qual experimento era esse?
-Dialogue: 0,0:15:25.17,0:15:29.82,Default,,0,0,0,,Um experimento para se tornar o novo Rider... Gatack.
-Dialogue: 0,0:15:30.22,0:15:31.69,Default,,0,0,0,,Um novo Rider...
-Dialogue: 0,0:15:33.72,0:15:34.91,Default,,0,0,0,,Gatack?!
-Dialogue: 0,0:15:35.30,0:15:38.17,Default,,0,0,0,,Se o pudermos concluir, ele provavelmente será o Rider mais poderoso da ZECT.
-Dialogue: 0,0:15:40.37,0:15:44.32,Default,,0,0,0,,Poderoso o bastante para enfrentar um ninho de Worms... sozinho.
-Dialogue: 0,0:15:52.10,0:15:53.35,Default,,0,0,0,,Kagami!
-Dialogue: 0,0:16:09.48,0:16:10.67,Default,,0,0,0,,Jiiya.
-Dialogue: 0,0:16:24.33,0:16:26.04,Default,,0,0,0,,Este sabor é parecido com o de Jiiya.
-Dialogue: 0,0:16:29.61,0:16:30.80,Default,,0,0,0,,Com licença.
-Dialogue: 0,0:16:35.40,0:16:36.63,Default,,0,0,0,,Entendo.
-Dialogue: 0,0:16:37.21,0:16:42.10,Default,,0,0,0,,Mas peca num sabor em específico para seu padrão.
-Dialogue: 0,0:16:48.70,0:16:50.97,Default,,0,0,0,,Tudo bem pra você que ele use aqui? {o AQUI coloquei. ficava deslocado sem um sujeito}
-Dialogue: 0,0:16:51.70,0:16:54.61,Default,,0,0,0,,A habilidade manual dele mostra que ele não é um cozinheiro comum.
-Dialogue: 0,0:17:08.25,0:17:10.55,Default,,0,0,0,,A cozinha {alimento}de Jiiya realmente é a melhor.
-Dialogue: 0,0:17:11.48,0:17:13.73,Default,,0,0,0,,Seus elogios são jogados fora em mim.
-Dialogue: 0,0:17:14.74,0:17:19.89,Default,,0,0,0,,O que me lembra, estive preocupado com a sopa...
-Dialogue: 0,0:17:22.58,0:17:23.49,Default,,0,0,0,,Vamos ver...
-Dialogue: 0,0:17:34.20,0:17:36.09,Default,,0,0,0,,É tão perfeito.
-Dialogue: 0,0:17:37.38,0:17:38.89,Default,,0,0,0,,É a primeira vez que o experimento.
-Dialogue: 0,0:17:39.13,0:17:41.07,Default,,0,0,0,,Hiyori a fez.
-Dialogue: 0,0:17:46.81,0:17:48.56,Default,,0,0,0,,Darei a você esta honra...
-Dialogue: 0,0:17:49.20,0:17:51.40,Default,,0,0,0,,Cozinhe para a comemoração do meu Aniversário.
-Dialogue: 0,0:17:52.02,0:17:53.40,Default,,0,0,0,,Por que eu?
-Dialogue: 0,0:17:53.72,0:17:54.37,Default,,0,0,0,,Me recus...
-Dialogue: 0,0:17:54.37,0:17:56.81,Default,,0,0,0,,É uma posição desejada por chefs do mundo todo.
-Dialogue: 0,0:17:57.10,0:17:58.81,Default,,0,0,0,,Você valorizará isso para o resto de sua vida. {modesto... parece o toskudocu}
-Dialogue: 0,0:18:07.06,0:18:10.04,Default,,0,0,0,,Ele é tão inesperado... comendo e indo embora sem pagar...
-Dialogue: 0,0:18:13.64,0:18:15.05,Default,,0,0,0,,Este sabor!
-Dialogue: 0,0:18:16.06,0:18:17.24,Default,,0,0,0,,Aquele velho...
-Dialogue: 0,0:18:17.77,0:18:18.79,Default,,0,0,0,,Não pode ser...
-Dialogue: 0,0:18:33.00,0:18:34.33,Default,,0,0,0,,Pare!
-Dialogue: 0,0:18:34.33,0:18:37.12,Default,,0,0,0,,Você vai jogar fora o sacrifício que Tadokoro fez por você?!
-Dialogue: 0,0:18:37.12,0:18:38.57,Default,,0,0,0,,Me largue!
-Dialogue: 0,0:18:43.37,0:18:45.87,Default,,0,0,0,,Há alguém que espera o meu salvamento.
-Dialogue: 0,0:18:55.48,0:18:57.09,Default,,0,0,0,,Kagami!
-Dialogue: 0,0:18:57.90,0:18:59.09,Default,,0,0,0,,Kagami!
-Dialogue: 0,0:19:00.13,0:19:01.37,Default,,0,0,0,,Kagami!
-Dialogue: 0,0:19:04.99,0:19:07.11,Default,,0,0,0,,Preciso de seu poder.
-Dialogue: 0,0:19:09.12,0:19:10.13,Default,,0,0,0,,Agora venha...
-Dialogue: 0,0:19:10.76,0:19:12.23,Default,,0,0,0,,Zecter Gatack!
-Dialogue: 0,0:19:28.82,0:19:30.43,Default,,0,0,0,,Kagami!
-Dialogue: 0,0:19:32.88,0:19:33.99,Default,,0,0,0,,Kagami!
-Dialogue: 0,0:19:33.99,0:19:34.90,Default,,0,0,0,,Aguente firme!
-Dialogue: 0,0:19:35.57,0:19:37.23,Default,,0,0,0,,Kagami!
-Dialogue: 0,0:19:37.94,0:19:39.09,Default,,0,0,0,,Força!
-Dialogue: 0,0:19:39.81,0:19:40.81,Default,,0,0,0,,Consegue me ouvir?
-Dialogue: 0,0:19:41.61,0:19:43.04,Default,,0,0,0,,Kagami!
-Dialogue: 0,0:19:44.13,0:19:45.80,Default,,0,0,0,,Aguente firme!
-Dialogue: 0,0:19:52.89,0:19:54.09,Default,,0,0,0,,Não consigo definir!
-Dialogue: 0,0:19:54.33,0:19:56.13,Default,,0,0,0,,Qual sabor ele adicionou?
-Dialogue: 0,0:20:07.13,0:20:08.15,Default,,0,0,0,,Como?
-Dialogue: 0,0:20:08.72,0:20:10.15,Default,,0,0,0,,O Kagami está seriamente ferido?
-Dialogue: 0,0:20:11.33,0:20:13.96,Default,,0,0,0,,Ele foi personificado por um Worm.
-Dialogue: 0,0:20:14.52,0:20:18.43,Default,,0,0,0,,Ele agiu precipitadamente para proteger um garoto daquele Worm.
-Dialogue: 0,0:20:19.29,0:20:21.38,Default,,0,0,0,,Preciso que ajude com seu poder. {I need you to lend me your power.}
-Dialogue: 0,0:20:21.38,0:20:22.35,Default,,0,0,0,,Me recuso.
-Dialogue: 0,0:20:23.85,0:20:25.15,Default,,0,0,0,,Tendou?!
-Dialogue: 0,0:20:25.34,0:20:27.52,Default,,0,0,0,,Alô?! Alô?!
-Dialogue: 0,0:20:29.69,0:20:31.20,Default,,0,0,0,,Qual o problema com ele?!
-Dialogue: 0,0:20:32.74,0:20:36.45,Default,,0,0,0,,{\i1}Kagami idiota... \Nsempre causando problemas...{\i0}
-Dialogue: 0,0:20:52.64,0:20:54.71,Default,,0,0,0,,Ele foi tão descuidado com a própria vida...
-Dialogue: 0,0:21:27.37,0:21:28.52,Default,,0,0,0,,Você!
-Dialogue: 0,0:21:28.90,0:21:30.79,Default,,0,0,0,,Minha vó uma vez disse...
-Dialogue: 0,0:21:31.76,0:21:36.65,Default,,0,0,0,,"Assim que conhecer a verdade...\Nnão será enganado por uma imitação." {"Once you know the real thing... \Nyou won't be fooled by an imitation."}
-Dialogue: 0,0:21:37.78,0:21:40.51,Default,,0,0,0,,Um Worm que personificaria o apressado Kagami...
-Dialogue: 0,0:21:41.36,0:21:43.99,Default,,0,0,0,,certamente viria eliminar o original.
-Dialogue: 0,0:21:48.48,0:21:49.24,Default,,0,0,0,,Henshin.
+Dialogue: 0,0:03:55.54,0:03:59.09,Default - Up,,0,0,0,,Comemoração de aniversário
+Dialogue: 0,0:03:59.60,0:04:02.43,720 - Default,,0,0,0,,No ano passado foi divertido. Minha irmã, ela...
+Dialogue: 0,0:04:07.29,0:04:10.30,720 - Default,,0,0,0,,Vamos fazer algo diferente este ano.
+Dialogue: 0,0:04:10.30,0:04:14.72,720 - Default,,0,0,0,,Que tal uma festa fora da mansão?
+Dialogue: 0,0:04:18.24,0:04:19.98,Default - Up,,0,0,0,,Entrada proibida
+Dialogue: 0,0:04:21.00,0:04:22.86,720 - Default,,0,0,0,,O Worm está lá...
+Dialogue: 0,0:04:22.86,0:04:27.11,720 - Default,,0,0,0,,A probabilidade é alta devido as \Ninformações de avistamento.
+Dialogue: 0,0:04:29.92,0:04:30.77,720 - Default,,0,0,0,,Alô.
+Dialogue: 0,0:04:32.45,0:04:34.04,720 - Default,,0,0,0,,Tadokoro foi hospitalizado?!
+Dialogue: 0,0:04:35.32,0:04:36.60,720 - Default,,0,0,0,,Entendido.
+Dialogue: 0,0:04:37.12,0:04:38.69,720 - Default,,0,0,0,,Tadokoro está bem?
+Dialogue: 0,0:04:38.69,0:04:39.65,720 - Default,,0,0,0,,Como ele está?
+Dialogue: 0,0:04:39.99,0:04:41.65,720 - Default,,0,0,0,,Preciso ir.
+Dialogue: 0,0:04:41.86,0:04:43.65,720 - Default,,0,0,0,,Você continua vigiando.
+Dialogue: 0,0:05:16.53,0:05:17.34,720 - Default,,0,0,0,,Quem está aí?! {podia jurar que ele está dizendo PARADO!}
+Dialogue: 0,0:05:19.28,0:05:21.10,720 - Default,,0,0,0,,Oh... me desculpe.
+Dialogue: 0,0:05:21.91,0:05:23.10,720 - Default,,0,0,0,,Entendo.
+Dialogue: 0,0:05:24.32,0:05:26.52,720 - Default,,0,0,0,,Os vizinhos pediram para você investigar?
+Dialogue: 0,0:05:28.04,0:05:31.47,720 - Default,,0,0,0,,Na verdade, estamos com as mãos bem ocupadas.
+Dialogue: 0,0:05:32.11,0:05:34.48,720 - Default,,0,0,0,,Bem... foi um gato de rua.
+Dialogue: 0,0:05:34.67,0:05:35.84,720 - Default,,0,0,0,,Um gato de rua?!
+Dialogue: 0,0:05:35.84,0:05:36.81,720 - Default,,0,0,0,,Sim.
+Dialogue: 0,0:05:37.17,0:05:41.06,720 - Default,,0,0,0,,Ele acabou causando interrupção na operação.
+Dialogue: 0,0:05:42.81,0:05:43.94,720 - Default,,0,0,0,,Eu entendi.
+Dialogue: 0,0:05:44.35,0:05:46.38,720 - Default,,0,0,0,,Eu irei reportar isso.
+Dialogue: 0,0:06:08.39,0:06:09.98,720 - Default,,0,0,0,,Tio, por aqui!
+Dialogue: 0,0:06:12.15,0:06:13.15,720 - Default,,0,0,0,,Depressa!
+Dialogue: 0,0:06:47.24,0:06:48.34,720 - Default,,0,0,0,,Você está atrasado.
+Dialogue: 0,0:06:49.14,0:06:50.08,720 - Default,,0,0,0,,Como é?
+Dialogue: 0,0:06:50.42,0:06:52.08,720 - Default,,0,0,0,,Você estava esperando por mim?
+Dialogue: 0,0:06:53.38,0:06:56.43,720 - Default,,0,0,0,,A Yumiko está doente, então tirou folga hoje.
+Dialogue: 0,0:06:57.55,0:06:58.65,720 - Default,,0,0,0,,Então...
+Dialogue: 0,0:06:58.96,0:07:00.56,720 - Default,,0,0,0,,Hoje você é o chef.
+Dialogue: 0,0:07:00.56,0:07:04.25,720 - Default,,0,0,0,,"Então..." e daí? Você mesma pode \Ncozinhar a maioria dos pratos.
+Dialogue: 0,0:07:04.25,0:07:06.99,720 - Default,,0,0,0,,A Yumiko deixou isso com você.
+Dialogue: 0,0:07:08.91,0:07:10.44,720 - Default,,0,0,0,,Mas não me responsabilizo...
+Dialogue: 0,0:07:10.92,0:07:13.28,720 - Default,,0,0,0,,se o restaurante se tornar uma sensação.
+Dialogue: 0,0:07:27.63,0:07:28.86,720 - Default,,0,0,0,,Obrigado.
+Dialogue: 0,0:07:28.86,0:07:30.10,720 - Default,,0,0,0,,Você me salvou.
+Dialogue: 0,0:07:30.31,0:07:32.09,720 - Default,,0,0,0,,Ei... você tem água?
+Dialogue: 0,0:07:32.09,0:07:33.19,720 - Default,,0,0,0,,Comida?
+Dialogue: 0,0:07:37.87,0:07:39.29,720 - Default,,0,0,0,,Desculpe... não tenho nada.
+Dialogue: 0,0:07:39.84,0:07:41.81,720 - Default,,0,0,0,,Mas que droga...
+Dialogue: 0,0:07:41.81,0:07:44.50,720 - Default,,0,0,0,,Saco... salvo ele e olha o que ganho.
+Dialogue: 0,0:07:46.32,0:07:47.53,720 - Default,,0,0,0,,Pensando bem...
+Dialogue: 0,0:07:48.41,0:07:49.53,720 - Default,,0,0,0,,tenho doces.
+Dialogue: 0,0:07:56.16,0:07:59.66,720 - Default,,0,0,0,,Você esteve se escondendo aqui o tempo todo?
+Dialogue: 0,0:08:00.14,0:08:01.66,720 - Default,,0,0,0,,Makoto.
+Dialogue: 0,0:08:03.34,0:08:05.04,720 - Default,,0,0,0,,Esse é o meu nome.
+Dialogue: 0,0:08:06.98,0:08:12.07,720 - Default,,0,0,0,,Sei... então o seu pai é um segurança da fábrica? {live-in guard me faltouo  nome. tenho quase certeza que existe um termo mais apropriado}
+Dialogue: 0,0:08:14.52,0:08:17.10,720 - Default,,0,0,0,,Mas... um dia eu vi...
+Dialogue: 0,0:08:17.60,0:08:20.27,720 - Default,,0,0,0,,...monstros estranhos atacando as pessoas!
+Dialogue: 0,0:08:21.23,0:08:25.65,720 - Default,,0,0,0,,Mas ninguém acreditou em mim...
+Dialogue: 0,0:08:26.57,0:08:29.40,720 - Default,,0,0,0,,Todos começaram \Na ficar assustadores...
+Dialogue: 0,0:08:30.84,0:08:33.70,720 - Default,,0,0,0,,Então... até o meu pai...
+Dialogue: 0,0:08:36.29,0:08:39.64,720 - Default,,0,0,0,,Encontrei esse lugar enquanto fugia.
+Dialogue: 0,0:08:42.33,0:08:43.56,720 - Default,,0,0,0,,Entendo...
+Dialogue: 0,0:08:45.84,0:08:47.87,720 - Default,,0,0,0,,Você realmente estava por conta própria.
+Dialogue: 0,0:08:49.16,0:08:50.33,720 - Default,,0,0,0,,Mas está tudo bem agora.
+Dialogue: 0,0:08:50.67,0:08:52.24,720 - Default,,0,0,0,,Vamos fugir juntos.
+Dialogue: 0,0:08:52.24,0:08:53.32,720 - Default,,0,0,0,,Não!
+Dialogue: 0,0:08:53.47,0:08:56.59,720 - Default,,0,0,0,,Eu já tentei isso muitas vezes!
+Dialogue: 0,0:08:56.84,0:09:00.31,720 - Default,,0,0,0,,Mas esses monstros estão \Nem um número enorme!
+Dialogue: 0,0:09:00.31,0:09:02.07,720 - Default,,0,0,0,,Acredite em mim!
+Dialogue: 0,0:09:02.44,0:09:07.34,720 - Default,,0,0,0,,Não! Agora há pouco você não foi fraco?!
+Dialogue: 0,0:09:08.54,0:09:10.33,720 - Default,,0,0,0,,Bem...
+Dialogue: 0,0:09:11.48,0:09:12.65,720 - Default,,0,0,0,,Irmã...
+Dialogue: 0,0:09:13.74,0:09:14.99,720 - Default,,0,0,0,,Irmã!
+Dialogue: 0,0:09:18.14,0:09:20.92,720 - Default,,0,0,0,,Aquele sonho novamente?
+Dialogue: 0,0:09:33.29,0:09:34.43,720 - Default,,0,0,0,,Este aroma...
+Dialogue: 0,0:09:35.53,0:09:38.17,720 - Default,,0,0,0,,Pode significar alimento digno de minha degustação.
+Dialogue: 0,0:09:38.17,0:09:40.52,720 - Default,,0,0,0,,Como esperado, Jovem Mestre.
+Dialogue: 0,0:09:40.82,0:09:44.20,720 - Default,,0,0,0,,O Jii também estava considerando isso.
+Dialogue: 0,0:09:54.66,0:09:56.41,720 - Default,,0,0,0,,Este é um belo telescópio.
+Dialogue: 0,0:09:56.92,0:10:00.95,720 - Default,,0,0,0,,Meu sonho é ver um arco-íris lunar com ele.
+Dialogue: 0,0:10:01.38,0:10:02.77,720 - Default,,0,0,0,,Arco-íris lunar?
+Dialogue: 0,0:10:04.52,0:10:07.56,720 - Default,,0,0,0,,É um arco-íris que pode ser visto à luz da lua.
+Dialogue: 0,0:10:08.20,0:10:09.89,720 - Default,,0,0,0,,Dizem que se você ver um...
+Dialogue: 0,0:10:10.10,0:10:12.65,720 - Default,,0,0,0,,...a felicidade virá.
+Dialogue: 0,0:10:15.58,0:10:17.24,720 - Default,,0,0,0,,Espero que algum dia você veja.
+Dialogue: 0,0:10:19.92,0:10:22.55,720 - Default,,0,0,0,,Mas é impossível ver um daqui.
+Dialogue: 0,0:10:26.29,0:10:27.16,720 - Default,,0,0,0,,Sabe...
+Dialogue: 0,0:10:28.02,0:10:30.79,720 - Default,,0,0,0,,Não se pode fazer nada daqui.
+Dialogue: 0,0:10:32.11,0:10:34.20,720 - Default,,0,0,0,,Vamos ser corajosos e sair.
+Dialogue: 0,0:10:35.22,0:10:37.63,720 - Default,,0,0,0,,Eu sempre vou te proteger, Makoto.
+Dialogue: 0,0:11:21.32,0:11:22.64,720 - Default,,0,0,0,,Tio!
+Dialogue: 0,0:11:22.64,0:11:24.17,720 - Default,,0,0,0,,Volte pra lá!
+Dialogue: 0,0:11:24.28,0:11:26.02,720 - Default,,0,0,0,,Voltarei com ajuda!
+Dialogue: 0,0:11:26.02,0:11:27.53,720 - Default,,0,0,0,,É uma promessa!
+Dialogue: 0,0:11:59.84,0:12:00.97,720 - Default,,0,0,0,,O cara...
+Dialogue: 0,0:12:01.52,0:12:02.97,720 - Default,,0,0,0,,de antes...
+Dialogue: 0,0:12:04.49,0:12:07.16,720 - Default,,0,0,0,,Este quartinho sujo é algum tipo de depósito?
+Dialogue: 0,0:12:07.16,0:12:11.41,720 - Default,,0,0,0,,Não, é um lugar para as pessoas comuns comerem.
+Dialogue: 0,0:12:11.68,0:12:14.40,720 - Default,,0,0,0,,O aroma de antes veio deste restaurante.
+Dialogue: 0,0:12:14.85,0:12:19.89,720 - Default,,0,0,0,,Considera aqui um local inadequado?
+Dialogue: 0,0:12:19.89,0:12:20.79,720 - Default,,0,0,0,,Não.
+Dialogue: 0,0:12:21.32,0:12:23.76,720 - Default,,0,0,0,,Eu sempre desejei experimentar os pratos de gente comum.
+Dialogue: 0,0:12:25.04,0:12:26.37,720 - Default,,0,0,0,,Eu compreendo.
+Dialogue: 0,0:12:34.68,0:12:35.45,720 - Default,,0,0,0,,Ei.
+Dialogue: 0,0:12:36.17,0:12:37.40,720 - Default,,0,0,0,,Tem um esquisito aqui.
+Dialogue: 0,0:12:39.70,0:12:40.61,720 - Default,,0,0,0,,Como é?
+Dialogue: 0,0:12:41.48,0:12:43.79,720 - Default,,0,0,0,,Vejam só quem é, o Jovem Mestre.
+Dialogue: 0,0:12:51.21,0:12:53.05,720 - Default,,0,0,0,,Você me imitou?!
+Dialogue: 0,0:13:28.66,0:13:29.76,720 - Default,,0,0,0,,Kageyama!
+Dialogue: 0,0:13:29.93,0:13:32.24,720 - Default,,0,0,0,,Temos problemas! \NTem Worms dentro daquela fábrica!
+Dialogue: 0,0:13:32.24,0:13:33.23,720 - Default,,0,0,0,,Eu sei!
+Dialogue: 0,0:13:34.02,0:13:36.00,720 - Default,,0,0,0,,Já estávamos investigando.
+Dialogue: 0,0:13:36.21,0:13:40.26,720 - Default,,0,0,0,,Por você ter entrado sem permissão, eles agora estão cientes de nossa atividade!
+Dialogue: 0,0:13:40.26,0:13:43.45,720 - Default,,0,0,0,,Me desculpo por isso.\NMas tem um garoto lá dentro!
+Dialogue: 0,0:13:43.45,0:13:44.72,720 - Default,,0,0,0,,Precisamos nos apressar e salvá-lo!
+Dialogue: 0,0:13:44.72,0:13:46.08,720 - Default,,0,0,0,,Pura besteira.
+Dialogue: 0,0:13:46.38,0:13:48.08,720 - Default,,0,0,0,,Ele é um Worm.
+Dialogue: 0,0:13:48.81,0:13:50.08,720 - Default,,0,0,0,,Não pode ser...
+Dialogue: 0,0:13:50.44,0:13:55.17,720 - Default,,0,0,0,,Restam apenas Worms naquela fábrica.
+Dialogue: 0,0:13:55.81,0:13:57.61,720 - Default,,0,0,0,,O Makoto é...
+Dialogue: 0,0:13:59.70,0:14:00.83,720 - Default,,0,0,0,,...um Worm?
+Dialogue: 0,0:14:04.28,0:14:06.99,720 - Default,,0,0,0,,Não acredito que o Makoto seja um Worm.
+Dialogue: 0,0:14:07.30,0:14:09.19,720 - Default,,0,0,0,,Precisamos salvá-lo imediatamente!
+Dialogue: 0,0:14:09.66,0:14:12.32,720 - Default,,0,0,0,,Seu relato já foi enviado ao QG.
+Dialogue: 0,0:14:12.96,0:14:16.15,720 - Default,,0,0,0,,Mas o fato é que aquela fábrica é um ninho de Worms.
+Dialogue: 0,0:14:17.33,0:14:20.47,720 - Default,,0,0,0,,E eles estão escondendo algo que não querem que seja descoberto.
+Dialogue: 0,0:14:21.52,0:14:24.71,720 - Default,,0,0,0,,O QG já deu ordens para que a fábrica seja destruída.
+Dialogue: 0,0:14:24.86,0:14:26.35,720 - Default,,0,0,0,,Destruída...
+Dialogue: 0,0:14:27.18,0:14:28.82,720 - Default,,0,0,0,,Não posso aceitar isso!
+Dialogue: 0,0:14:28.82,0:14:29.83,720 - Default,,0,0,0,,Kagami.
+Dialogue: 0,0:14:31.13,0:14:32.72,720 - Default,,0,0,0,,É hora do seu trabalho de meio expediente, não?
+Dialogue: 0,0:14:32.72,0:14:34.26,720 - Default,,0,0,0,,Não há tempo pra isso!
+Dialogue: 0,0:14:34.26,0:14:35.07,720 - Default,,0,0,0,,Vá!
+Dialogue: 0,0:14:36.01,0:14:38.51,720 - Default,,0,0,0,,E... não volte mais.
+Dialogue: 0,0:14:42.26,0:14:43.45,720 - Default,,0,0,0,,Tadokoro...
+Dialogue: 0,0:14:52.69,0:14:55.00,720 - Default,,0,0,0,,Tadokoro certamente é gentil...
+Dialogue: 0,0:14:58.66,0:15:02.19,720 - Default,,0,0,0,,Você sabe por que ele está ferido?
+Dialogue: 0,0:15:03.21,0:15:05.57,720 - Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:15:06.49,0:15:09.31,720 - Default,,0,0,0,,O QG ordenou a ele para arranjar uma cobaia de teste...
+Dialogue: 0,0:15:09.89,0:15:12.67,720 - Default,,0,0,0,,Para manter seus belos subalternos fora de perigo...
+Dialogue: 0,0:15:13.00,0:15:14.92,720 - Default,,0,0,0,,ele concedeu a si mesmo como material de teste.
+Dialogue: 0,0:15:15.41,0:15:17.14,720 - Default,,0,0,0,,Ele ficou ferido assim...
+Dialogue: 0,0:15:18.30,0:15:20.05,720 - Default,,0,0,0,,Você é da organização?
+Dialogue: 0,0:15:20.25,0:15:22.15,720 - Default,,0,0,0,,Qual experimento era esse?
+Dialogue: 0,0:15:25.17,0:15:29.82,720 - Default,,0,0,0,,Um experimento para se tornar o novo Rider... Gatack.
+Dialogue: 0,0:15:30.22,0:15:31.69,720 - Default,,0,0,0,,Um novo Rider...
+Dialogue: 0,0:15:33.72,0:15:34.91,720 - Default,,0,0,0,,Gatack?!
+Dialogue: 0,0:15:35.30,0:15:38.17,720 - Default,,0,0,0,,Se pudermos concluí-lo, ele será o Rider mais poderoso da ZECT.
+Dialogue: 0,0:15:40.37,0:15:44.32,720 - Default,,0,0,0,,Poderoso o bastante para enfrentar um ninho de Worms sozinho.
+Dialogue: 0,0:15:52.10,0:15:53.35,720 - Default,,0,0,0,,Kagami!
+Dialogue: 0,0:16:09.48,0:16:10.67,720 - Default,,0,0,0,,Jiiya.
+Dialogue: 0,0:16:24.33,0:16:26.04,720 - Default,,0,0,0,,Este sabor é parecido com o de Jiiya.
+Dialogue: 0,0:16:29.61,0:16:30.80,720 - Default,,0,0,0,,Com licença.
+Dialogue: 0,0:16:35.40,0:16:36.63,720 - Default,,0,0,0,,Entendo.
+Dialogue: 0,0:16:37.21,0:16:42.10,720 - Default,,0,0,0,,Mas peca num sabor em específico para seu padrão.
+Dialogue: 0,0:16:48.70,0:16:50.97,720 - Default,,0,0,0,,Tudo bem pra você que ele use aqui? {o AQUI coloquei. ficava deslocado sem um sujeito}
+Dialogue: 0,0:16:51.70,0:16:54.61,720 - Default,,0,0,0,,Eu não sou o único com habilidades.
+Dialogue: 0,0:17:08.25,0:17:10.55,720 - Default,,0,0,0,,A comida do Jiiya é realmente a melhor.
+Dialogue: 0,0:17:11.48,0:17:13.73,720 - Default,,0,0,0,,Não há motivo para desperdiçar seus elogios comigo.
+Dialogue: 0,0:17:14.74,0:17:19.89,720 - Default,,0,0,0,,O que me lembra, estive preocupado com a sopa...
+Dialogue: 0,0:17:22.58,0:17:23.49,720 - Default,,0,0,0,,Vamos ver...
+Dialogue: 0,0:17:34.20,0:17:36.09,720 - Default,,0,0,0,,Delicada e ousada.
+Dialogue: 0,0:17:37.38,0:17:38.89,720 - Default,,0,0,0,,É a primeira vez \Nque provo esse sabor.
+Dialogue: 0,0:17:39.13,0:17:41.07,720 - Default,,0,0,0,,Foi feito pela Hiyori.
+Dialogue: 0,0:17:46.81,0:17:48.56,720 - Default,,0,0,0,,Darei a você esta honra...
+Dialogue: 0,0:17:49.20,0:17:51.40,720 - Default,,0,0,0,,Cozinhe um prato para \Ncelebrar o meu aniversário.
+Dialogue: 0,0:17:52.02,0:17:53.40,720 - Default,,0,0,0,,Por que eu?
+Dialogue: 0,0:17:53.72,0:17:54.37,720 - Default,,0,0,0,,Me recus...
+Dialogue: 0,0:17:54.37,0:17:56.81,720 - Default,,0,0,0,,É uma posição desejada por chefs do mundo todo.
+Dialogue: 0,0:17:57.10,0:17:58.81,720 - Default,,0,0,0,,Faça disso um tesouro de uma vida.
+Dialogue: 0,0:18:07.06,0:18:10.04,720 - Default,,0,0,0,,Eles estão indo embora... sem pagar...
+Dialogue: 0,0:18:13.64,0:18:15.05,720 - Default,,0,0,0,,Este tempero...
+Dialogue: 0,0:18:16.06,0:18:17.24,720 - Default,,0,0,0,,Aquele velho...
+Dialogue: 0,0:18:17.77,0:18:18.79,720 - Default,,0,0,0,,Não pode ser...
+Dialogue: 0,0:18:33.00,0:18:34.33,720 - Default,,0,0,0,,Pare!
+Dialogue: 0,0:18:34.33,0:18:37.12,720 - Default,,0,0,0,,Você vai jogar fora o sacrifício que Tadokoro fez por você?!
+Dialogue: 0,0:18:37.12,0:18:38.57,720 - Default,,0,0,0,,Por favor, deixa ir!
+Dialogue: 0,0:18:43.37,0:18:45.87,720 - Default,,0,0,0,,Tem alguém esperando a minha ajuda.
+Dialogue: 0,0:18:55.48,0:18:57.09,720 - Default,,0,0,0,,Kagami!
+Dialogue: 0,0:18:57.90,0:18:59.09,720 - Default,,0,0,0,,Kagami!
+Dialogue: 0,0:19:00.13,0:19:01.37,720 - Default,,0,0,0,,Kagami!
+Dialogue: 0,0:19:04.99,0:19:07.11,720 - Default,,0,0,0,,Eu preciso da sua força.
+Dialogue: 0,0:19:09.12,0:19:10.13,720 - Default,,0,0,0,,Agora venha...
+Dialogue: 0,0:19:10.76,0:19:12.23,720 - Default,,0,0,0,,Zecter Gatack!
+Dialogue: 0,0:19:28.82,0:19:30.43,720 - Default,,0,0,0,,Kagami!
+Dialogue: 0,0:19:32.88,0:19:33.99,720 - Default,,0,0,0,,Kagami!
+Dialogue: 0,0:19:33.99,0:19:34.90,720 - Default,,0,0,0,,Aguente firme!
+Dialogue: 0,0:19:35.57,0:19:37.23,720 - Default,,0,0,0,,Kagami!
+Dialogue: 0,0:19:37.94,0:19:39.09,720 - Default,,0,0,0,,Força!
+Dialogue: 0,0:19:39.81,0:19:40.81,720 - Default,,0,0,0,,Consegue me ouvir?
+Dialogue: 0,0:19:41.61,0:19:43.04,720 - Default,,0,0,0,,Kagami!
+Dialogue: 0,0:19:44.13,0:19:45.80,720 - Default,,0,0,0,,Aguente firme!
+Dialogue: 0,0:19:52.89,0:19:54.09,720 - Default,,0,0,0,,Eu não consigo definir.
+Dialogue: 0,0:19:54.33,0:19:56.13,720 - Default,,0,0,0,,Que tipo de tempero ele usou?
+Dialogue: 0,0:20:07.13,0:20:08.15,720 - Default,,0,0,0,,Como?
+Dialogue: 0,0:20:08.72,0:20:10.15,720 - Default,,0,0,0,,O Kagami está seriamente ferido?
+Dialogue: 0,0:20:11.33,0:20:13.96,720 - Default,,0,0,0,,Ele foi copiado por um Worm.
+Dialogue: 0,0:20:14.52,0:20:18.43,720 - Default,,0,0,0,,Ele agiu precipitadamente para proteger um garoto daquele Worm.
+Dialogue: 0,0:20:19.29,0:20:21.38,720 - Default,,0,0,0,,Preciso que ajude com seu poder. {I need you to lend me your power.}
+Dialogue: 0,0:20:21.38,0:20:22.35,720 - Default,,0,0,0,,Me recuso.
+Dialogue: 0,0:20:23.85,0:20:25.15,720 - Default,,0,0,0,,Tendou?!
+Dialogue: 0,0:20:25.34,0:20:27.52,720 - Default,,0,0,0,,Alô?! Alô?!
+Dialogue: 0,0:20:29.69,0:20:31.20,720 - Default,,0,0,0,,Qual o problema com ele?!
+Dialogue: 0,0:20:32.74,0:20:36.45,720 - Default,,0,0,0,,{\i1}Kagami idiota... \Nsempre causando problemas...{\i0}
+Dialogue: 0,0:20:52.64,0:20:54.71,720 - Default,,0,0,0,,Pobre vida.
+Dialogue: 0,0:21:27.37,0:21:28.52,720 - Default,,0,0,0,,Você é...
+Dialogue: 0,0:21:28.90,0:21:30.79,720 - Default,,0,0,0,,Minha vó uma vez disse...
+Dialogue: 0,0:21:31.76,0:21:36.65,720 - Default,,0,0,0,,"Quem conhece o verdadeiro...\Njamais será enganado pelo falso." {"Once you know the real thing... \Nyou won't be fooled by an imitation."}
+Dialogue: 0,0:21:37.78,0:21:40.51,720 - Default,,0,0,0,,Um Worm que copiasse o impaciente Kagami...
+Dialogue: 0,0:21:41.36,0:21:43.99,720 - Default,,0,0,0,,certamente viria eliminar o original.
+Dialogue: 0,0:21:48.48,0:21:49.24,720 - Default,,0,0,0,,Henshin.
 Dialogue: 0,0:21:49.24,0:21:50.33,Belt,,0,0,0,,HENSHIN
-Dialogue: 0,0:21:55.74,0:21:56.46,Default,,0,0,0,,Cast Off.
+Dialogue: 0,0:21:55.74,0:21:56.46,720 - Default,,0,0,0,,Cast Off.
 Dialogue: 0,0:21:57.18,0:21:58.75,Belt,,0,0,0,,CAST OFF
 Dialogue: 0,0:21:58.75,0:22:00.13,Belt,,0,0,0,,TRANSFORMAÇÃO BESOURO
-Dialogue: 0,0:22:00.50,0:22:01.25,Default,,0,0,0,,Clock Up.
+Dialogue: 0,0:22:00.50,0:22:01.25,720 - Default,,0,0,0,,Clock Up.
 Dialogue: 0,0:22:01.25,0:22:02.85,Belt,,0,0,0,,CLOCK UP
 Dialogue: 0,0:22:09.51,0:22:12.06,Default - Up,,0,0,0,,'Aviso de Encerramento de Operações'
 Comment: 0,0:22:09.51,0:22:12.06,Default - Up,,0,0,0,,Por conta de um acidente inexplicável, operações nesta planta foram encerradas em 20 de Maio de 2006 em diante.
 Comment: 0,0:22:09.51,0:22:12.06,Default - Up,,0,0,0,,Corporação Metalúrgica de Desenvolvimento do Japão {Japan Development Heavy Industry Corporation}
-Dialogue: 0,0:22:13.26,0:22:14.32,Default,,0,0,0,,Em suas posições!
+Dialogue: 0,0:22:13.26,0:22:14.32,720 - Default,,0,0,0,,Em suas posições!
 Dialogue: 0,0:22:42.42,0:22:43.13,Belt,,0,0,0,,UM
 Dialogue: 0,0:22:43.87,0:22:44.65,Belt,,0,0,0,,DOIS
 Dialogue: 0,0:22:45.23,0:22:46.32,Belt,,0,0,0,,TRÊS
-Dialogue: 0,0:22:46.32,0:22:47.88,Default,,0,0,0,,Rider Kick.
+Dialogue: 0,0:22:46.32,0:22:47.88,720 - Default,,0,0,0,,Rider Kick.
 Dialogue: 0,0:22:48.74,0:22:50.39,Belt,,0,0,0,,RIDER KICK
 Comment: 0,0:01:39.03,0:01:41.07,Show Song font KABUTO,,0,0,0,,Next Level - Opening
 Comment: 0,0:01:49.60,0:01:55.47,Show Song font KABUTO,,0,0,0,,{\blur1\pos(30,63.667)}Kimi ga negau koto nara subete genjitsu ni naru n' darou
@@ -325,8 +325,8 @@ Dialogue: 0,0:02:42.01,0:02:42.14,Show Song Font english KABUTO,,0,0,0,,{\fad(15
 Dialogue: 0,0:02:42.14,0:02:44.95,Show Song Font english KABUTO,,0,0,0,,{\fad(0,192)}{\blur1\move(30,21,90,21,2571,2771)}...if you can surpass it!
 Comment: 0,0:23:14.91,0:23:14.95,Default - Up,,0,0,0,,Preview
 Dialogue: 0,0:23:15.62,0:23:16.95,Default - Up,,0,0,0,,Kamen Rider Kabuto!
-Dialogue: 0,0:23:16.95,0:23:20.67,Default - Up,,0,0,0,,Só... posso ser eu mesmo.
-Dialogue: 0,0:23:20.67,0:23:23.04,Default - Up,,0,0,0,,Mas... eu sou quem eu sou.
+Dialogue: 0,0:23:16.95,0:23:20.67,Default - Up,,0,0,0,,Eu... só posso ser eu mesmo.
+Dialogue: 0,0:23:20.67,0:23:23.04,Default - Up,,0,0,0,,Mas... eu sou quem sou.
 Dialogue: 0,0:23:23.38,0:23:25.21,Default - Up,,0,0,0,,Ingênuo... como sempre.
 Dialogue: 0,0:23:26.09,0:23:26.92,Default - Up,,0,0,0,,Henshin!
 Dialogue: 0,0:23:26.92,0:23:29.93,Default - Up,,0,0,0,,Trilhando o caminho do Céu. Governando a todos nós.
